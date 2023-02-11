@@ -2,31 +2,25 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Radin Mas Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "1 "
+      - Bukit Purmei Avenue
+      - Singapore 099840
+    operating_hours: []
+    maps_link: https://www.google.com/maps/place/Radin+Mas+Primary+School/@1.275069,103.82388,16z/data=!4m6!3m5!1s0x31da1966a9604079:0x26f670625a9f13e1!8m2!3d1.2750693!4d103.8238799!16s%2Fg%2F1hdzl21b9?ll=1.275069,103.82388&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=2807554985441563617&coh=164777&entry=tt
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6273 3937
+      - email: rmps@moe.edu.sg
+      - other: "Nearest MRT Station: Tiong Bahru Bus Services"
+    title: Telephone
+  - content:
+      - phone: +65 6276 3083
+      - email: ""
+      - other: "Bus Services: SBS 123 to Bukit Purmei, 195 to St Theresa's Convent
+          Feeder Service 131 & 275 from Bukit Merah Interchange"
+    title: Fax
 ---
