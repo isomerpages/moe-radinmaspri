@@ -65,16 +65,26 @@ description: ""
 <td style="width: 33.3333%;"><img src="/images/info3.jpg"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Everyone a Maker</strong></td>
 <td style="width: 33.3333%; text-align: center;">
-<div><strong>Cyberwellness Curriculum</strong></div>
+<p><strong>Everyone a Maker</strong></p>
 </td>
-<td style="width: 33.3333%; text-align: center;"><strong>Baseline ICT Skills and New Media Literacies</strong></td>
+<td style="width: 33.3333%; text-align: center;">
+<p><strong>Cyberwellness Curriculum</strong></p>
+</td>
+<td style="width: 33.3333%; text-align: center;">
+<p><strong>Baseline ICT Skills and New Media Literacies</strong></p>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">Design Week is a part of the &lsquo;Everyone a Maker&rsquo; programme which runs during the three recesses for a week to inculcate the Maker spirit among students through play. Students are given challenges to exercise their design and computational thinking in designing functional products and showcasing them. Through these activities, students get to design, tinker and iterate on ideas and make products.</td>
-<td style="width: 33.3333%;">The focus of the Cyberwellness curriculum is about helping students to become responsible digital learners through CW lessons in the curriculum and school-wide programmes. Cyberwellness assemblies and activities designed and created by the school&rsquo;s Cyberwellness Ambassadors are carried out during recesses to educate students on the importance of Cyberwellness and to guide them on the correct usage of the internet.</td>
-<td style="width: 33.3333%;">The Baseline ICT Skills and New Media Literacies is a set of ICT and literacy skill competencies that students will be exposed to during the School Based Curriculum. It is intended to equip students with knowledge, skills and values during their six years to become future-ready and responsible digital learners.</td>
+<td style="width: 33.3333%;">
+<p>Design Week is a part of the &lsquo;Everyone a Maker&rsquo; programme which runs during the three recesses for a week to inculcate the Maker spirit among students through play. Students are given challenges to exercise their design and computational thinking in designing functional products and showcasing them. Through these activities, students get to design, tinker and iterate on ideas and make products.</p>
+</td>
+<td style="width: 33.3333%;">
+<p>The focus of the Cyberwellness curriculum is about helping students to become responsible digital learners through CW lessons in the curriculum and school-wide programmes. Cyberwellness assemblies and activities designed and created by the school&rsquo;s Cyberwellness Ambassadors are carried out during recesses to educate students on the importance of Cyberwellness and to guide them on the correct usage of the internet.</p>
+</td>
+<td style="width: 33.3333%;">
+<p>The Baseline ICT Skills and New Media Literacies is a set of ICT and literacy skill competencies that students will be exposed to during the School Based Curriculum. It is intended to equip students with knowledge, skills and values during their six years to become future-ready and responsible digital learners.</p>
+</td>
 </tr>
 </tbody>
 </table>
