@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - Discipline Philosophy & School Rules.md
       - Use of Personal Data.md
       - Calendar.md
