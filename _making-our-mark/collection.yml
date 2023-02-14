@@ -1,4 +1,5 @@
 collections:
   making-our-mark:
     output: true
-    order: []
+    order:
+      - Outdoor Adventure Camp.md
