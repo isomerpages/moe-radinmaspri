@@ -1,4 +1,5 @@
 collections:
   our-rmps-experience:
     output: true
-    order: []
+    order:
+      - PE, CCA & Aesthetics/.keep
