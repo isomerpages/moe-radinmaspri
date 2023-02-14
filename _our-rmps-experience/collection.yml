@@ -2,4 +2,5 @@ collections:
   our-rmps-experience:
     output: true
     order:
+      - PE, CCA & Aesthetics/PE, CCA & Aesthetics.md
       - PE, CCA & Aesthetics/.keep
