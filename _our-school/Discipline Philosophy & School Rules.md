@@ -101,7 +101,63 @@ description: ""
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>Desired Behaviour of Radin Mas Students</strong></h4></label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Desired Behaviour in the Classroom</strong><br />Students are to:</p>
+<ul>
+<li>stand and greet the Principal, Vice Principals, teachers or guests of the school, upon their arrival to, and exit from the classrooms.&nbsp;</li>
+<li>use good manners, be gracious and respectful towards their peers and teachers.&nbsp;</li>
+<li>bring with them all books, stationery and other learning materials required for lessons. Students should refrain from bringing out items in class that may be a distraction to learning.</li>
+<li>be attentive and participative during lessons.&nbsp;</li>
+<li>remain in class unless given permission by teacher to leave the classroom.</li>
+<li>be on time for all lessons.&nbsp;</li>
+<li>submit work on the date it is due. Exceptions are made only in extraordinary situations and with the approval of the teacher.&nbsp;</li>
+<li>remain seated in class and be engaged in their own work during change of lessons. Students should not loiter outside the classroom.&nbsp;</li>
+<li>keep the classroom clean and tidy at all times.&nbsp;</li>
+</ul>
+<p><strong>Desired Behaviour along the Corridors and Staircases<br /></strong>Students are to:</p>
+<ul>
+<li>greet all staff and guests of school.&nbsp;</li>
+<li>assemble in twos before the teacher leads the class from place to place.&nbsp;</li>
+<li>keep to the left while walking along the corridors/staircases.&nbsp;</li>
+<li>be considerate and walk quietly and orderly from place to place.&nbsp;</li>
+<li>use designated routes to avoid congestion and enable the diffusion of the level of noise during movement.</li>
+</ul>
+<p><strong>Desired Behaviour in the Hall / Assembly Grounds<br /></strong>Students are to:</p>
+<ul>
+<li>assemble punctually at the Parade Square for Flag Raising at 7.40 am every day.</li>
+<li>treat the National Anthem, Pledge and School Song with due respect by standing at attention throughout the ceremony.</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<th>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.</th>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>take with them a book whenever they are in the hall/assembly ground so that they may be purposefully occupied while they wait for the programme to commence.</li>
+<li>keep the school compound clean of litter after use.</li>
+<li>practice good theatrical code of behaviour and remain attentive throughout the programme in the hall or assembly ground.</li>
+<li>be considerate, and not eat or drink.</li>
+</ul>
+<p><strong>Desired Behaviour in the Canteen<br /></strong>Students are to:&nbsp;</p>
+<ul>
+<li>queue up for food. Vendors are advised not to sell items to students who are not in the line.&nbsp;</li>
+<li>be gracious and respectful towards the canteen vendors and school attendants.&nbsp;</li>
+<li>be considerate and keep the canteen clean by returning their utensils after use and to clear their table of litter.&nbsp;</li>
+<li>walk in a sensible way in the canteen; running or pushing may cause accidents.&nbsp;</li>
+<li>leave the canteen on the first bell after recess to be in the hall.&nbsp;</li>
+<li>consume all food and drinks only in the canteen.&nbsp;</li>
+<li>proceed immediately to the hall at the first bell that marks the end of recess.</li>
+</ul>
+<p><strong>Desired Behaviour outside School<br /></strong>Students are to:&nbsp;</p>
+<ul>
+<li>wear their uniform with pride and be attired according to the specification by the school.&nbsp;</li>
+<li>be gracious and respectful to members of the public.&nbsp;</li>
+<li>be considerate and polite towards other commuters on public transport.&nbsp;</li>
+<li>be responsible and keep the area used clean and clear of litter.&nbsp;</li>
+<li>be orderly when on board public transport.&nbsp;</li>
+<li>go straight home after school and not loiter in groups.</li>
+</ul>
 </div>
 </li>
 </ul>
