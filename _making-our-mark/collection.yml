@@ -2,4 +2,5 @@ collections:
   making-our-mark:
     output: true
     order:
+      - United in Strength – 2022.md
       - Outdoor Adventure Camp.md
