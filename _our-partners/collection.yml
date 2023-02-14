@@ -2,7 +2,7 @@ collections:
   our-partners:
     output: true
     order:
-      - RMPS Alumni.md
       - Parent Link.md
+      - RMPS Alumni.md
       - Teachers' Portal.md
       - Students' Portal.md
