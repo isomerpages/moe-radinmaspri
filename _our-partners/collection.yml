@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parent Link.md
-      - RMPS Alumni/RMPS Alumni.md
       - RMPS Alumni/.keep
       - Teachers' Portal.md
       - Students' Portal.md
