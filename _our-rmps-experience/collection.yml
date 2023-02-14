@@ -2,5 +2,6 @@ collections:
   our-rmps-experience:
     output: true
     order:
+      - Information & Communication Technology.md
       - PE, CCA & Aesthetics/PE, CCA & Aesthetics.md
       - PE, CCA & Aesthetics/.keep
