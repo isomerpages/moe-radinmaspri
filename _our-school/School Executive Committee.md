@@ -125,3 +125,41 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Mother Tongue</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec10.png"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec11.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>LH Chinese Language<br /></strong>Mdm Lau Wai Ping</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>ST Malay Language (Covering)<br /></strong>Mdm Ariyanti Sukaimi</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:lau_wai_ping@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:ariyanti_sukaimi@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec12.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec13.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>ST Chinese Language<br /></strong>Mdm Annie Tang Li Meng</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>LT Chinese Language<br /></strong>Mr Yew Chee Ching Anthony</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:tang_li_meng_annie@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:yew_chee_ching_anthony@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+</tbody>
+</table>
