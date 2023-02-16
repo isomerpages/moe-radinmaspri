@@ -13,9 +13,9 @@ third_nav_title: PE, CCA & Aesthetics
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;">The boys build the values of resilience and perseverance through the game of rugby.</td>
-<td style="width: 33.3333%; text-align: center;">The boys show their strong bonds after another tough but fruitful training.</td>
-<td style="width: 33.3333%; text-align: center;">The boys work hard on passing skills to enhance their teamwork.</td>
+<td style="width: 33.3333%; text-align: center;"><img src="/images/rug1.jpg">The boys build the values of resilience and perseverance through the game of rugby.</td>
+<td style="width: 33.3333%; text-align: center;"><img src="/images/rug2.jpg">The boys show their strong bonds after another tough but fruitful training.</td>
+<td style="width: 33.3333%; text-align: center;"><img src="/images/rug3.jpg">The boys work hard on passing skills to enhance their teamwork.</td>
 </tr>
 </tbody>
 </table>
