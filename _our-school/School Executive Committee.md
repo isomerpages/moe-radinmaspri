@@ -229,3 +229,41 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>PE, CCA & Aesthetics</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec19.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec20.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>HOD PE, CCA &amp; Aesthetics<br /></strong>Mr Idham Anis Ashiblie</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>SH Aesthetics<br /></strong>Mdm Wong Yu Ling</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:idham_anis_ashiblie@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:wong_yu_ling@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec21.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec22.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>SH PE &amp; CCA<br /></strong>Mr Ng Jun Kiat</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>ST PE<br /></strong>Mdm Joyce Goh (Mrs Won)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:ng_jun_kiat@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:goh_yan_ling_joyce@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+</tbody>
+</table>
