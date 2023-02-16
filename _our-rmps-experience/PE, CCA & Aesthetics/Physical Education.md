@@ -30,3 +30,15 @@ third_nav_title: PE, CCA & Aesthetics
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">RMPS Challenge 2020</span></strong></p>
+<ul>
+<li>A chance to work together as a class</li>
+<li>A chance to set a record as a class</li>
+<li>Inculcate our school values through physical activities</li>
+<li>Foster camaraderie while pupils train, compete and cheer each other on as a class</li>
+<li>Develop growth mindset, resilience, integrity, teamwork (G.R.I.T.) and sportsmanship as pupils strive for excellence in a competitive setting</li>
+<li>Promote regular participation in health-enhancing physical activities.</li>
+</ul>
+<p><strong>RMPS Skipping Challenge 2020<br /></strong>The RMPS PE Department conducted our inaugural RMPS Skipping Challenge 2020 from 30 Sep to 6 Oct for our P3 and P5 students.</p>
+<p><strong>Results:</strong><br /><u>Primary 3</u><br />1st &ndash; 3R (average 241.2 skips)<br />2nd &ndash; 3D (average 198.8 skips)</p>
+<p><u>Primary 5<br /></u>1st &ndash; 5M (average 255.5 skips)<br />2nd &ndash; 5D (average 248.6 skips)</p>
