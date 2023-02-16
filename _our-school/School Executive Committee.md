@@ -185,3 +185,47 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Student Management and Leadership</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec16.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec17.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>HOD Student Management and Leadership<br /></strong>Mr Chua Wee Nam</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>SH Student Management and Leadership<br /></strong>Mr Chan Jianhua</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:chua_wee_nam@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:chan_jianhua@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Information and Communication Technology</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec18.jpg"></td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>HOD ICT<br /></strong>Mr Saravanan S/O Shanmugam</p>
+</td>
+<td style="width: 50%; text-align: center;">
+ 
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:saravanan_shanmugam@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"> </a></td>
+</tr>
+</tbody>
+</table>
