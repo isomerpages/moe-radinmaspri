@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Radin Mas Story.md
       - From the Principal's Desk.md
       - From the Vice–Principal's (EO) Desk.md
       - From the Vice–Principal's (A) Desk.md
