@@ -87,3 +87,41 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Science</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec6.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec7.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>HOD Science<br /></strong>Mdm Chan Hean Mei</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>LH Science<br /></strong>Mdm Cindy Han Qiuyan</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:chan_hean_mei@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:han_qiuyan_cindy@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec8.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec9.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>LT Science<br /></strong>Miss Madeline Chang</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>ST Science<br /></strong>Mdm Zulaiha Shireen Bte Mohamed Salleh</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:chang_seok_peng_madeline@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:zulaiha_shireen@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+</tbody>
+</table>
