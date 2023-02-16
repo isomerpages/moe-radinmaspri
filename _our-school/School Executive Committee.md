@@ -296,19 +296,19 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/sec26.jpg"></td>
-<td style="width: 50%;"> </td>
+<td style="width: 50%;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">
 <p><strong>ST Learners Profile (Educational Support)<br /></strong>Mdm Rosmawati Ali</p>
 </td>
 <td style="width: 50%; text-align: center;">
- 
+&nbsp;
 </td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><a href="mailto:rosmawati_ali@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
-<td style="width: 50%; text-align: center;"> </td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/sec27.jpeg"></td>
@@ -334,19 +334,63 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/sec29.jpg"></td>
-<td style="width: 50%;"> </td>
+<td style="width: 50%;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">
 <p><strong>SSD<br /></strong>Mdm Wong Bing Sum</p>
 </td>
 <td style="width: 50%; text-align: center;">
- 
+&nbsp;
 </td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><a href="mailto:wong_bing_sum@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
-<td style="width: 50%; text-align: center;"> </td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Administrative Manager</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec30.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>Administrative Manager<br /></strong>Mdm Gracia Tye</p>
+</td>
+<td style="width: 50%; text-align: center;">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:Gracia_Tye@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Operations Manager</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec31.jpg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>Operations Manager<br /></strong>Mr Ho Choong On</p>
+</td>
+<td style="width: 50%; text-align: center;">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:Ho_Choong_On@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
