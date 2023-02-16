@@ -163,3 +163,25 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Character and Citizenship Education</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec14.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec15.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>HOD Character and Citizenship Education<br /></strong>Mdm Marianna Bt Mohamad Hanafi</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>SH Character and Citizenship Education<br /></strong>Ms Olivia Tan</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:marianna_bt_mohamad_hanafi@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:olivia_tan@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+</tbody>
+</table>
