@@ -27,3 +27,25 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>English Language</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec1.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>HOD English Language<br /></strong>Mr Goh Sheow En</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>LH English Language (Covering)<br /></strong>Mdm Wong Si En Lydia</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:goh_sheow_en@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:wong_si_en_lydia@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+</tbody>
+</table>
