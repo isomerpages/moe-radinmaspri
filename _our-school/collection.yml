@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Song.md
       - Our Radin Mas Story.md
       - From the Principal's Desk.md
       - From the Vice–Principal's (EO) Desk.md
