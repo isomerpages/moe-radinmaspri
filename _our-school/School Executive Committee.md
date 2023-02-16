@@ -49,3 +49,41 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Mathematics</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec3.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>HOD Mathematics<br /></strong>Mdm Leng Sok Wah Celina</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><strong>LH Mathematics<br /></strong>Mdm See Rui Si</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:leng_sok_wah_celina@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"><a href="mailto:see_rui_si@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec5.png"></td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>ST Mathematics<br /></strong>Mdm Leow Chay Huan</p>
+</td>
+<td style="width: 50%; text-align: center;">
+ 
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:leow_chay_huan@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"> </a></td>
+</tr>
+</tbody>
+</table>
