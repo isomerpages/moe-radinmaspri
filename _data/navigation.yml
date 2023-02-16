@@ -1,6 +1,8 @@
 logo: /images/logo.jpg
 links:
+  - title: Our School
+    collection: our-school
+  - title: Our RMPS Experiences
+    collection: our-rmps-experience
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+    collection: contact-us
