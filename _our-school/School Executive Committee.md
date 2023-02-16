@@ -328,3 +328,25 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>School Staff Developer</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/sec29.jpg"></td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><strong>SSD<br /></strong>Mdm Wong Bing Sum</p>
+</td>
+<td style="width: 50%; text-align: center;">
+ 
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="mailto:wong_bing_sum@schools.gov.sg"><img style="width: 33%;" src="/images/email.png"></a></td>
+<td style="width: 50%; text-align: center;"> </td>
+</tr>
+</tbody>
+</table>
