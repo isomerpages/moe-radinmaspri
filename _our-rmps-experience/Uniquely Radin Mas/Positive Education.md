@@ -46,9 +46,18 @@ third_nav_title: Uniquely Radin Mas
 <p>School environment is decorated with different themed and vibrant murals as well as positive quotes to serve as a daily reminder and as an inspiration to all.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Simple</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><p><strong><span style="color: #ff0000;">Engagement: To Experience Joy in Learning</strong></span></p></label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/pe7.jpg"></td>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/pe8.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p><strong>EXPERIENTIAL AND AUTHENTIC LEARNING</strong></p>
+<p>Students engaged in experiential learning activities in authentic setting. Students learning is extended beyond the four walls of the classroom hence creating deeper and meaningful learning experiences for all.</p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Simple</label>
