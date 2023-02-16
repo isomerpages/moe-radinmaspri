@@ -267,3 +267,26 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Year Heads</strong></h4>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/sec25.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/sec23.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/sec24.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><p><strong>Year Head LP<br /></strong>Mdm Chng Yen Peng Doreen</p></td>
+<td style="width: 33.3333%; text-align: center;">
+<p><strong>Year Head MP<br /></strong>Mdm Wong Pauline</p>
+</td>
+<td style="width: 33.3333%; text-align: center;"><p><strong>Year Head UP<br /></strong>Mdm Malar Vizhi Govindan</p></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><a href="mailto:chng_yen_peng_doreen@schools.gov.sg"><img style="width: 50%;" src="/images/email.png"></a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="mailto:pauline_wong@schools.gov.sg"><img style="width: 50%;" src="/images/email.png"></a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="mailto:malar_vizhi_govindan@schools.gov.sg"><img style="width: 50%;" src="/images/email.png"></a></td>
+</tr>
+</tbody>
+</table>
