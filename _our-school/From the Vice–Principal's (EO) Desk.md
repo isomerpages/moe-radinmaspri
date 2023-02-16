@@ -25,5 +25,4 @@ description: ""
 </table>
 <p>Recalling my own school days, I had been given ample opportunities in school to discover, learn and grow. I remember fondly the weekly morning assemblies in school where the principal and teachers then painstakingly inculcated values and the right habits in us, one of which is the meaning behind the Chinese idiom 饮水思源&nbsp;(to remember your roots and to show gratitude), which I hold dearly to till today. I grew up with the belief that if you are anchored in sound values and with hard work and resilience, you can unleash your potential and achieve your dreams. With this, I hope that in my interaction with the pupils of RMPS, I will be able to pass on these values and the right mindset to them.</p>
 <p>As the African proverb goes, &ldquo;It takes a village to raise a child.&rdquo; I look forward to a strong partnership with parents, staff and the community in guiding and supporting our pupils to discover and fulfil their dreams.</p>
-<p><strong>Mrs Linda Tan</strong></p>
-<p><strong>Vice-Principal (Academic)</strong></p>
+<p><strong>Mrs Linda Tan</strong><br><strong>Vice-Principal (Academic)</strong></p>
