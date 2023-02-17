@@ -16,7 +16,73 @@ third_nav_title: Parents Information & Resource
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2"><h4><strong>HBL 2021</strong></h4></label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>HBL Instruction for 1 April (Olympic Festival)<br /></strong><a href="/files/Primary%2011.pdf">Primary 1.pdf</a><br /><a href="/files/Primary%2022.pdf">Primary 2.pdf</a></p>
+<p><strong>Full HBL Instruction for 19 May to 21 May<br /></strong><a href="/files/Full%20Home%20Based%20Learning_18%20May%202021.pdf">Full Home Based Learning_18 May 2021.pdf</a><br /><a href="/files/HBL_P1_18%20May%202021.pdf">HBL_P1_18 May 2021.pdf</a><br /><a href="/files/HBL_P2_18%20May%202021.pdf">HBL_P2_18 May 2021.pdf</a><br /><a href="/files/HBL_P3_18%20May%202021.pdf">HBL_P3_18 May 2021.pdf</a><br /><a href="/files/HBL_P4_18%20May%202021.pdf">HBL_P4_18 May 2021.pdf</a><br /><a href="/files/HBL_P5_18%20May%202021.pdf">HBL_P5_18 May 2021.pdf</a><br /><a href="/files/HBL_P6_18%20May%202021.pdf">HBL_P6_18 May 2021.pdf</a></p>
+<p><strong>Full HBL Instruction for 24 May to 27 May<br /></strong><a href="/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf">Parent Kit - Supporting your child during Full HBL.pdf</a></p>
+<table>
+<tbody>
+<tr>
+<td><strong>Primary 1</strong></td>
+<td><a href="/files/1R.pdf">1R.pdf</a></td>
+<td><a href="/files/1A.pdf">1A.pdf</a></td>
+<td><a href="/files/1D.pdf">1D.pdf</a></td>
+<td><a href="/files/1I.pdf">1I.pdf</a></td>
+<td><a href="/files/1N.pdf">1N.pdf</a></td>
+<td><a href="/files/1M.pdf">1M.pdf</a></td>
+<td><a href="/files/1S.pdf">1S.pdf</a></td>
+</tr>
+<tr>
+<td><strong>Primary 2</strong></td>
+<td><a href="/files/2R.pdf">2R.pdf</a></td>
+<td><a href="/files/2A.pdf">2A.pdf</a></td>
+<td><a href="/files/2D.pdf">2D.pdf</a></td>
+<td><a href="/files/2I.pdf">2I.pdf</a></td>
+<td><a href="/files/2N.pdf">2N.pdf</a></td>
+<td><a href="/files/2M.pdf">2M.pdf</a></td>
+<td><a href="/files/2S.pdf">2S.pdf</a></td>
+</tr>
+<tr>
+<td><strong>Primary 3</strong></td>
+<td><a href="/files/3R.pdf">3R.pdf</a></td>
+<td><a href="/files/3A.pdf">3A.pdf</a></td>
+<td><a href="/files/3D.pdf">3D.pdf</a></td>
+<td><a href="/files/3I.pdf">3I.pdf</a></td>
+<td><a href="/files/3N.pdf">3N.pdf</a></td>
+<td><a href="/files/3M.pdf">3M.pdf</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Primary 4</strong>&nbsp;</td>
+<td><a href="/files/4R.pdf">4R.pdf</a></td>
+<td><a href="/files/4A.pdf">4A.pdf</a></td>
+<td><a href="/files/4D.pdf">4D.pdf</a></td>
+<td><a href="/files/4I.pdf">4I.pdf</a></td>
+<td><a href="/files/4N.pdf">4N.pdf</a></td>
+<td><a href="/files/4M.pdf">4M.pdf</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Primary 5</strong></td>
+<td><a href="/files/5R.pdf">5R.pdf</a></td>
+<td><a href="/files/5A.pdf">5A.pdf</a></td>
+<td><a href="/files/5D.pdf">5D.pdf</a></td>
+<td><a href="/files/5I.pdf">5I.pdf</a></td>
+<td><a href="/files/5N.pdf">5N.pdf</a></td>
+<td><a href="/files/5M.pdf">5M.pdf</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Primary 6</strong></td>
+<td><a href="/files/6R.pdf">6R.pdf</a></td>
+<td><a href="/files/6A.pdf">6A.pdf</a></td>
+<td><a href="/files/6D.pdf">6D.pdf</a></td>
+<td><a href="/files/6I.pdf">6I.pdf</a></td>
+<td><a href="/files/6N.pdf">6N.pdf</a></td>
+<td><a href="/files/6M.pdf">6M.pdf</a></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>HBL 2020</strong></h4></label>
