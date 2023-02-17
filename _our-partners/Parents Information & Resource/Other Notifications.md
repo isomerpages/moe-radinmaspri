@@ -22,7 +22,24 @@ third_nav_title: Parents Information & Resource
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4"><p><strong><span style="color: #ff0000;">2020</strong></span></p></label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Booklist for 2020 Cohort</strong></p>
+<ul>
+<li><a href="/files/P1%20Booklist%202020.pdf">P1 Booklist 2020.pdf</a></li>
+<li><a href="/files/P2%20Booklist%202020.pdf">P2 Booklist 2020.pdf</a></li>
+<li><a href="/files/P3%20Booklist%202020.pdf">P3 Booklist 2020.pdf</a></li>
+<li><a href="/files/P4%20Booklist%202020.pdf">P4 Booklist 2020.pdf</a></li>
+<li><a href="/files/P5%20Booklist%202020.pdf">P5 Booklist 2020.pdf</a></li>
+<li><a href="/files/P6%20Booklist%202020.pdf">P6 Booklist 2020.pdf</a></li>
+<li><a href="/files/Uniform%20Order%20Form.pdf">Uniform Order Form.pdf</a></li>
+</ul>
+<p><strong>Enhancing Precautionary Measures for Novel Coronavirus in school<br /></strong><a href="/files/Enhancing%20Precautionary%20Measures%20for%20Novel%20Coronavirus%20in%20School.pdf">Enhancing Precautionary Measures for Novel Coronavirus in School.pdf</a><br />As school re-opens on 29 January 2020, MOE will be enhancing precautionary measures in view of the novel coronavirus situation. These include daily temperature taking and Leave of Absence for students and staff with a travel history to China. More details are in the attachment.</p>
+<p><strong>Enhancing Precautionary Measures in Term 2<br /></strong><a href="/files/Enhanced_Precautionary_Measures_in_Term_2.pdf">Enhanced_Precautionary_Measures_in_Term_2.pdf</a><br /><a href="/files/MOE%20-%20One%20day%20of%20Home-Based%20Learning%20(HBL)%20s%20week%20from%201%20Apr.pdf">MOE - One day of Home-Based Learning (HBL) s week from 1 Apr.pdf</a><br /><a href="/files/Social%20Responsibility%20in%20Safeguarding%20the%20Well-Being%20of%20our%20School%20Community.pdf">Social Responsibility in Safeguarding the Well-Being of our School Community.pdf</a><br /><a href="/files/Enhancing%20Social%20Distancing%20During%20Dismissal.pdf">Enhancing Social Distancing During Dismissal.pdf</a><br /><a href="/files/Resumption%20of%20After-School%20Programme.pdf">Resumption of After-School Programme.pdf</a></p>
+<p><strong>Primary 1 Registration Exercise - Phase 1 Registration Application Form<br /></strong><a href="/files/Cover%20Letter.pdf">Cover Letter.pdf</a><br /><a href="/files/2020%20P1%20Phase%201%20Application%20Form%20(Fillable).pdf">2020 P1 Phase 1 Application Form (Fillable).pdf</a></p>
+<p><strong>Primary 6 May Holiday Classes and 2020 DSA Exercise<br /></strong><a href="/files/P6%20May%20Holiday%20Classes%20and%202020%20DSA%20Exercise.pdf">P6 May Holiday Classes and 2020 DSA Exercise.pdf</a></p>
+<p><strong>Term 3 Back to School Updates<br /></strong><a href="/files/Term%203%20Back%20to%20School%20Updates.pdf">Term 3 Back to School Updates.pdf</a></p>
+<p><strong>Primary 6 Supplementary Lessons<br /></strong><a href="/files/P6%20Supplementary%20Lessons%20during%20CCA%20slotsdocx.pdf">P6 Supplementary Lessons during CCA slots.docx.pdf</a></p>
+<p><strong>Creative Lantern Making Competition 2020<br /></strong>As mentioned in the July notification, the deadline for lantern submission is on 14 September 2020.<br /><a href="/files/(RMPS)%20Creative%20Lantern%20Making%20Competition%202020.pdf">(RMPS) Creative Lantern Making Competition 2020.pdf</a><br /><a href="/files/Entry%20Form%20for%20Mid%20Autumn%20Fest%20Lantern%20Making%20Competition%20(RMPS).pdf">Entry Form for Mid Autumn Fest Lantern Making Competition (RMPS).pdf</a></p>
+<p><strong>2020 Parent e-Orientation Letter<br /></strong><a href="/files/Parent%20eOrientation%20Letter.pdf">Parent eOrientation Letter.pdf</a></p>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5"><p><strong><span style="color: #ff0000;">2019</strong></span></p></label>
