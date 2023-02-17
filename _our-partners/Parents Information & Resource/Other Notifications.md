@@ -17,7 +17,18 @@ third_nav_title: Parents Information & Resource
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3"><p><strong><span style="color: #ff0000;">2021</strong></span></p></label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Booklist for 2021 Cohort</strong></p>
+<ul>
+<li><a href="/files/P1%20Booklist%202021.pdf">P1 Booklist 2021.pdf</a></li>
+<li><a href="/files/P2%20Booklist%202021.pdf">P2 Booklist 2021.pdf</a></li>
+<li><a href="/files/P3%20Booklist%202021.pdf">P3 Booklist 2021.pdf</a></li>
+<li><a href="/files/P4%20Booklist%202021.pdf">P4 Booklist 2021.pdf</a></li>
+<li><a href="/files/P5%20Booklist%202021.pdf">P5 Booklist 2021.pdf</a></li>
+<li><a href="/files/P6%20Booklist%202021.pdf">P6 Booklist 2021.pdf</a></li>
+</ul>
+<p><strong>Assessment Circulars<br /></strong><a href="/files/P1%20and%20P2%20Assessment%20Circular.pdf">P1 and P2 Assessment Circular.pdf</a>&nbsp;<br /><a href="/files/P3%20Assessment%20Circular.pdf">P3 Assessment Circular.pdf</a>&nbsp;<br /><a href="/files/P5%20Assessment%20Circular.pdf">P5 Assessment Circular.pdf</a></p>
+<p><strong>Creative Lantern Making Competition 2021<br /></strong><a href="/files/School%20Notification%20for%20Lantern%20Making%20July%202021%20Notification.pdf">School Notification for Lantern Making July 2021 Notification.pdf</a><br /><a href="/files/Entry%20Form%20for%20Mid%20Autumn%20Fest%20Lantern%20Making%20Competition%20RMPS%202021.pdf">Entry Form for Mid Autumn Fest Lantern Making Competition RMPS 2021.pdf</a></p>
+<p><strong>Weighted Assessment 2021 Term 3<br /></strong><a href="/files/Primary%203%20Weighted%20Assessment%20Term%203.pdf">Primary 3 Weighted Assessment Term 3.pdf</a><br /><br /><a href="/files/Primary%205%20Weighted%20Assessment%20Term%203.pdf">Primary 5 Weighted Assessment Term 3.pdf</a></p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4"><p><strong><span style="color: #ff0000;">2020</strong></span></p></label>
