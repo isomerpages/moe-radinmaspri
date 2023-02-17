@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents Information & Resource/Other Notifications.md
       - Parents Information & Resource/Home–Based Learning.md
       - Parents Information & Resource/.keep
       - School Advisory Committee.md
