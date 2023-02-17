@@ -12,7 +12,17 @@ third_nav_title: Parents Information & Resource
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2"><p><strong><span style="color: #ff0000;">2022</strong></span></p></label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Booklist for 2022 Cohort</strong></p>
+<ul>
+<li><a href="/files/P1%20Booklist%20(1).pdf">P1 Booklist.pdf</a></li>
+<li><a href="/files/P2%20Booklist%20(1).pdf">P2 Booklist.pdf</a></li>
+<li><a href="/files/P3%20Booklist%20(1).pdf">P3 Booklist.pdf</a></li>
+<li><a href="/files/P4%20Booklist%20(1).pdf">P4 Booklist.pdf</a></li>
+<li><a href="/files/P5%20Booklist%20(1).pdf">P5 Booklist.pdf</a></li>
+<li><a href="/files/P6%20Booklist%20(1).pdf">P6 Booklist.pdf</a></li>
+</ul>
+<p><strong>Semestral Assessment 2 (SA2) Matters<br /></strong><a href="/files/P3-P5%20SA2%20Assessment%20Circular.pdf">P3-P5 SA2 Assessment Circular.pdf</a></p>
+<p><strong>Financial Assistance Scheme 2023<br /></strong><a href="/files/FAS%202023.pdf">FAS 2023.pdf</a><br /><a href="/files/MOE%20FAS%20Application%20Form%20Sep%202022.pdf">MOE FAS Application Form Sep 2022.pdf</a><br />Eligibility calculator:&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a><br />FAS e-application form:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3"><p><strong><span style="color: #ff0000;">2021</strong></span></p></label>
