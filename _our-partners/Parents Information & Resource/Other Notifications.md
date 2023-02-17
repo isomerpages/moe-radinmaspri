@@ -7,7 +7,17 @@ third_nav_title: Parents Information & Resource
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1"><p><strong><span style="color: #ff0000;">2023</strong></span></p></label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Booklist for 2023 Cohort</strong></p>
+<ul>
+<li><a href="/files/P1%20booklist.pdf">P1 booklist.pdf</a></li>
+<li><a href="/files/P2%20booklist.pdf">P2 booklist.pdf</a></li>
+<li><a href="/files/P3%20booklist.pdf">P3 booklist.pdf</a></li>
+<li><a href="/files/P4%20booklist.pdf">P4 booklist.pdf</a></li>
+<li><a href="/files/P5%20booklist.pdf">P5 booklist.pdf</a></li>
+<li><a href="/files/P6%20booklist.pdf">P6 booklist.pdf</a></li>
+<li><a href="/files/RMPS%202022%20Uniform%20Pricelist_1-1.pdf">RMPS 2022 Uniform Pricelist_1-1.pdf</a></li>
+</ul>
+<p><strong>Assessment Circular<br /></strong><a href="/files/P3%20School-based%20assessments_2023.pdf">P3 School-based assessments_2023.pdf</a><br /><a href="/files/P4%20School-based%20assessments_2023.pdf">P4 School-based assessments_2023.pdf</a><br /><a href="/files/P5%20School-based%20assessments_2023.pdf">P5 School-based assessments_2023.pdf</a><br /><a href="/files/P6%20Assessment%20Circular_2023.pdf">P6 Assessment Circular_2023.pdf</a></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2"><p><strong><span style="color: #ff0000;">2022</strong></span></p></label>
