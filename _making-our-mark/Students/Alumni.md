@@ -57,6 +57,14 @@ third_nav_title: Students
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4"><h4><strong><span style="color: #ff0000;">Mr Ron Chandra-Dudley</span></strong></h4></label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 28%;"><img src="/images/sal5.jpg"></td>
+<td style="width: 72%;"><p>Mr Ron Chandra-Dudley was a blind activist and handicap welfare champion. He had been accepted to study medicine when he had an accident during a rugby match which blinded him at the age of 19. Despite the physical setback, he graduated with a degree in social anthropology from the London School of Economics. He founded the Disabled People's International in 1981 and the Disabled People's Association in 1986. He received the National Day Award in 2001.</p>
+<p><em>"At different times of our lives, we do different things. Sometimes we quit. Sometimes we camp. But all of us can climb." - extracted from "A Man With a Mission: A Life Well-Lived"</em></p></td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
