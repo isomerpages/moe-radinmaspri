@@ -53,7 +53,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 80%;" border="1">
 <tbody>
 <tr>
 <td style="width: 63%;"><img src="/images/kc1.jpg"></td>
