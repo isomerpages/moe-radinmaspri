@@ -2,6 +2,7 @@ collections:
   making-our-mark:
     output: true
     order:
+      - RMPS In the News.md
       - Together We Can – 2018.md
       - National Day Video – 2019.md
       - You Are A Star – 2019.md
