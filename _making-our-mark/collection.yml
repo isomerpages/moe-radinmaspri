@@ -2,6 +2,7 @@ collections:
   making-our-mark:
     output: true
     order:
+      - Staff/2020.md
       - Staff/2019.md
       - Staff/We Have Made A Mark.md
       - Staff/.keep
