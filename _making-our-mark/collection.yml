@@ -2,6 +2,7 @@ collections:
   making-our-mark:
     output: true
     order:
+      - Staff/.keep
       - Radin Mas Times.md
       - RMPS In the News.md
       - Together We Can – 2018.md
