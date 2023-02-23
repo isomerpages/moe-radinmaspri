@@ -8,3 +8,4 @@ description: ""
 <p>To all those serving us in this time of need, thank you for all the hard work and Heart work! You are showing us what it truly means to put others before self.</p>
 <p>Link to The Singapore Army Facebook page: <a href="https://www.facebook.com/409430851062/posts/10157811625886063/" target="_blank" rel="noopener">https://www.facebook.com/409430851062/posts/10157811625886063/</a></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRG6zKXTlNuVwqyloql19rMg8jz4cnM0qB0o0ssuOPpcq9jkumTfR98HLZJe6hYg3Xg6ulDClqMREKa/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p style="text-align: center;"><strong>Gratitude for our Frontline fighters against Covid-19</strong></p>
