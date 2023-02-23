@@ -6,17 +6,257 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1"><p><strong><span style="color: #ff0000;">2018 Edition</strong></span></p></label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Radin Mas Times Newsletter, Published in 2018 </strong><br /><strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202018_FINAL.pdf">Radin Mas Times Newsletter 2018_FINAL.pdf</a></strong></p>
+<table>
+<tbody>
+<tr>
+<th>Contributed by :</th>
+<th>Class in 2018</th>
+</tr>
+<tr>
+<td>&nbsp;Janice Chen Kai Xuan</td>
+<td>3N</td>
+</tr>
+<tr>
+<td>&nbsp;Wu Botao</td>
+<td>3N</td>
+</tr>
+<tr>
+<td>&nbsp;Kayla Yang Lin Wan </td>
+<td>4D</td>
+</tr>
+<tr>
+<td>&nbsp;Teo Yi Ning Trella&nbsp;</td>
+<td>4D</td>
+</tr>
+<tr>
+<td>&nbsp;Aditi Chandra&nbsp;</td>
+<td>4N</td>
+</tr>
+<tr>
+<td>&nbsp;Kaylea Tan Kai Xuan</td>
+<td>4N</td>
+</tr>
+<tr>
+<td>&nbsp;Ngan Yu Xuan Hailey&nbsp;</td>
+<td>4N</td>
+</tr>
+<tr>
+<td>&nbsp;Nicholas Lim&nbsp;</td>
+<td>4N</td>
+</tr>
+<tr>
+<td>&nbsp;Raylen Sim Swee Siong&nbsp;</td>
+<td>4N</td>
+</tr>
+<tr>
+<td>&nbsp;Sathappan Vignesh&nbsp;</td>
+<td>4N</td>
+</tr>
+<tr>
+<td>&nbsp;Zoe Chong Tze Yee</td>
+<td>4N</td>
+</tr>
+<tr>
+<td>&nbsp;Ha Soo Bin Alena&nbsp;</td>
+<td>4M</td>
+</tr>
+<tr>
+<td>&nbsp;Lucas Tan&nbsp;</td>
+<td>4M</td>
+</tr>
+<tr>
+<td>&nbsp;Rebekah Tan Zhi Jun</td>
+<td>4M</td>
+</tr>
+<tr>
+<td>&nbsp;Wee Hannah Jia En</td>
+<td>4M</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2"><p><strong><span style="color: #ff0000;">2019 Semester 1 Edition</strong></span></p></label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Radin Mas Times Newsletter, Published in 2019 Semester 1</strong><strong>&nbsp;<br /></strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202019%20Sem%201%20(Final).pdf">Radin Mas Times Newsletter 2019 Sem 1 (Final).pdf</a></p>
+<table>
+<tbody>
+<tr>
+<th>Contributed by :</th>
+<th>Class in 2019</th>
+</tr>
+<tr>
+<td>&nbsp;Tan Kai Herng</td>
+<td>1D</td>
+</tr>
+<tr>
+<td>&nbsp;Zehn Zaidi</td>
+<td>2M&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Qistina Binte Muhammad Fairuz</td>
+<td>3A1&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Ethan Wan Sheng Jie</td>
+<td>3D&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Ong Min Xuan Avril&nbsp;</td>
+<td>3I&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Lim Rui Ming Derrex&nbsp;</td>
+<td>3M&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Tay Rui Yi</td>
+<td>3M&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Tan Zi Yi&nbsp;</td>
+<td>3N&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Dang Nur Yasmin Binte Daeng Masri</td>
+<td>4R&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Chee Ze Xin Chloe</td>
+<td>4I&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Yeo Kai Ze, Kieren</td>
+<td>4I&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Muhammad Nabil Bin Abdul Salim</td>
+<td>4I&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Loh Ding Qi, Ian</td>
+<td>4N&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Ang Hao Feng Ethan</td>
+<td>4M&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Shayanah Begum</td>
+<td>5A1&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Skylar Loh Qi Rui</td>
+<td>5D&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Michelle Jayani Jasper Richard&nbsp;</td>
+<td>5N&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3"><p><strong><span style="color: #ff0000;">2019 Semester 2 Edition</strong></span></p></label>
 <div>
-<p>This is a simple one line item</p>
+<p><strong>Radin Mas Times Newsletter, Published in 2019 Semester 2</strong><strong><br /></strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202019_Sem%202.pdf">Radin Mas Times Newsletter 2019_Sem 2.pdf</a></p>
+<table>
+<tbody>
+<tr>
+<th>Contributed by :</th>
+<th>Class in 2019</th>
+</tr>
+<tr>
+<td>Shayanah Begum&nbsp;</td>
+<td>5A1</td>
+</tr>
+<tr>
+<td>Sathappan Vignesh&nbsp;</td>
+<td>5M&nbsp;</td>
+</tr>
+<tr>
+<td>Teo Yi Ning, Trella&nbsp;</td>
+<td>5M&nbsp;</td>
+</tr>
+<tr>
+<td>Aditi Chandra&nbsp;</td>
+<td>5M&nbsp;</td>
+</tr>
+<tr>
+<td>Zoe Chong Tze Yee&nbsp;</td>
+<td>5M&nbsp;</td>
+</tr>
+<tr>
+<td>Ngan Yu Xuan Hailey&nbsp;</td>
+<td>5N&nbsp;</td>
+</tr>
+<tr>
+<td>Rebekah Tan Zhi Jun&nbsp;</td>
+<td>5N&nbsp;</td>
+</tr>
+<tr>
+<td>Kaylea Tan Kai Xuan&nbsp;</td>
+<td>5N&nbsp;</td>
+</tr>
+<tr>
+<td>Tan Yu Xuan, Lucas&nbsp;</td>
+<td>5N&nbsp;</td>
+</tr>
+<tr>
+<td>Yap Sing Yee&nbsp;</td>
+<td>4I&nbsp;</td>
+</tr>
+<tr>
+<td>Elphelia Soo En Xuan&nbsp;</td>
+<td>4I&nbsp;</td>
+</tr>
+<tr>
+<td>Choo Xuan Lin, Mavis&nbsp;</td>
+<td>4N&nbsp;</td>
+</tr>
+<tr>
+<td>Janice Chen Kai Xuan&nbsp;</td>
+<td>4N&nbsp;</td>
+</tr>
+<tr>
+<td>Kaelyn Hwang Shiqi&nbsp;</td>
+<td>4N&nbsp;</td>
+</tr>
+<tr>
+<td>Yan Joy&nbsp;</td>
+<td>3D&nbsp;</td>
+</tr>
+<tr>
+<td>Arunesh Skanthakumar&nbsp;</td>
+<td>3M&nbsp;</td>
+</tr>
+<tr>
+<td>Danielle Tan Yu Xuan&nbsp;</td>
+<td>3M&nbsp;</td>
+</tr>
+<tr>
+<td>Soh Zhe Sheng Zacholas&nbsp;</td>
+<td>3M&nbsp;</td>
+</tr>
+<tr>
+<td>Kurt Loh Le Xi&nbsp;</td>
+<td>3M&nbsp;</td>
+</tr>
+<tr>
+<td>Sam Roy Dockerill&nbsp;</td>
+<td>3M&nbsp;</td>
+</tr>
+<tr>
+<td>Tay Jie Yin Janelle&nbsp;</td>
+<td>3M&nbsp;</td>
+</tr>
+<tr>
+<td>Dimple Gunaseger&nbsp;</td>
+<td>3I&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4"><p><strong><span style="color: #ff0000;">2020 Edition</strong></span></p></label>
