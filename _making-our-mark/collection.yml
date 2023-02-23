@@ -2,6 +2,7 @@ collections:
   making-our-mark:
     output: true
     order:
+      - Students/2021.md
       - Students/2020.md
       - Students/2019.md
       - Students/Alumni.md
