@@ -2,6 +2,7 @@ collections:
   making-our-mark:
     output: true
     order:
+      - Radin Mas Times.md
       - RMPS In the News.md
       - Together We Can – 2018.md
       - National Day Video – 2019.md
