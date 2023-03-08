@@ -18,7 +18,7 @@ Princess Radin Mas Ayu was the only daughter of Lord Pengiran Agong of Java and 
 
 The main building of this Istana was converted into a school in 1926.
 
-<strong>Radin Mas School&nbsp;</strong>started as a boys' school with an enrolment of 40 pupils. In the 1950s an annexe was added as the enrolment increased.
+<strong>Radin Mas School</strong> started as a boys' school with an enrolment of 40 pupils. In the 1950s an annexe was added as the enrolment increased.
 
 The old Istana building is on the right - now demolished and gone forever, but captured for eternity on canvas by Ong Kim Seng, Singapore's foremost water colour artist, himself an old boy of Radin Mas In 1984, the school was relocated at its present site at the junction of Bukit Purmei and Lower Delta Road. It is now known as <em><strong>Radin Mas Primary School</strong></em> and has since become a co-educational English medium school. With the move came a change in uniform for the boys - from an all-white to dark blue shorts and white shirts with dark blue stripes. The new school is a large modern building which houses 36 classrooms, a large hall, a canteen, many special rooms and a field.
 
