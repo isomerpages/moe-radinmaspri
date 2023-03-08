@@ -3,7 +3,7 @@ title: School History
 permalink: /our-school/school-history/
 description: ""
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0px">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/history.jpeg"></td>
