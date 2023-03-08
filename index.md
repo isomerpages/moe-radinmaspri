@@ -18,4 +18,7 @@ sections:
         - title: Logins
           description: ""
           url: /logins
+  - resources:
+      title: Announcements
+      button: More announcements
 ---
