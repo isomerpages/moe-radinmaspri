@@ -3,6 +3,8 @@ title: From the Principal's Desk
 permalink: /our-school/from-the-principals-desk/
 description: ""
 ---
+![](/images/P-Message.jpg)
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
