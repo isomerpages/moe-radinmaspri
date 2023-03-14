@@ -15,9 +15,6 @@ sections:
         - title: Calendar
           description: ""
           url: /our-school/calendar
-        - title: Logins
-          description: ""
-          url: /logins
   - resources:
       title: Announcements
       button: More announcements
