@@ -5,7 +5,6 @@ description: ""
 ---
 ![](/images/P-Message_.jpg)
 
-
 Welcome to Radin Mas Primary School website.
 
 Let me start by wishing all a wonderful 2023 ahead. May the year ahead be paved with positivity, opportunities for growth, development and self-discovery.
@@ -21,5 +20,5 @@ Thus, let us continue to work together in 2023 to shape resilience, positivity a
 Have a meaningful 2023 ahead!
 
 Your Partner in Education,<br />
-**Mr Muhammad Farizal**<br />
-**Principal**
+<strong>Mr Muhammad Farizal<br />
+Principal</strong>
