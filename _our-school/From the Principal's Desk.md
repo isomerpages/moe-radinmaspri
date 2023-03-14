@@ -3,7 +3,7 @@ title: From the Principal's Desk
 permalink: /our-school/from-the-principals-desk/
 description: ""
 ---
-![](/images/P-Message.jpg)
+![](/images/P-Message_.jpg)
 
 
 Welcome to Radin Mas Primary School website.
