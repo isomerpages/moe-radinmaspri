@@ -3,6 +3,8 @@ title: From the Students' Desk
 permalink: /our-rmps-experiences/from-the-students-desk/
 description: ""
 ---
+![](/images/Student-message.jpg)
+
 Dear Radin Mas family,
 
 In the past year, there were many ups and downs but I always remembered to stay positive. My journey as a student leader was not as smooth sailing as I thought it would be. When I first started out, I thought that I was expected to be perfect in everything. At some point, I questioned myself but then I realized that perfection is unattainable. However, excellence is achievable with concerted effort.
