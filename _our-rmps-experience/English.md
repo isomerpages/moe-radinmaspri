@@ -80,11 +80,13 @@ description: ""
 </tr>
 </tbody>
 </table>
+
 <p style="text-align: center;"><span style="color: #ff0000;"><strong>Our Vision</strong></span></p>
 <p style="text-align: center;">Passionate learners and effective users of the English Language</p>
 <p style="text-align: center;"><span style="color: #ff0000;"><strong>Our Mission</strong></span></p>
 <p style="text-align: center;">To empower students to be gracious, effective communicators</p>
 <p style="text-align: center;"><span style="color: #ff0000;"><strong>Our Key Programmes</strong></span></p>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
