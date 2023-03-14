@@ -9,9 +9,9 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/MrFarizal.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MrsTan.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MsGoh.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>Principal<br>
