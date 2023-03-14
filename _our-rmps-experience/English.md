@@ -80,11 +80,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Vision</strong></span></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Vision</span></strong></p>
 <p style="text-align: center;">Passionate learners and effective users of the English Language</p>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Mission</strong></span></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Mission</span></strong></p>
 <p style="text-align: center;">To empower students to be gracious, effective communicators</p>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Key Programmes</strong></span></p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Key Programmes</span></strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
