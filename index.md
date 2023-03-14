@@ -18,4 +18,14 @@ sections:
   - resources:
       title: Announcements
       button: More announcements
+  - infobar:
+      title: Parents Notification
+      subtitle: Information & Resources
+      button: Read More
+      url: https://staging.d1jzutb5t80wmo.amplifyapp.com/our-partners/parents-information-n-resources/monthly-notifications/
+  - infobar:
+      title: Students
+      subtitle: Marking Our Mark
+      button: Find out more
+      url: https://staging.d1jzutb5t80wmo.amplifyapp.com/making-our-mark/students/2023/
 ---
