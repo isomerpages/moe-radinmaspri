@@ -34,8 +34,8 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/GohSheowEn.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/LydiaWong.jpg"></td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
@@ -57,9 +57,9 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/CelinaLeng.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/RuiSi.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/LeowChayHuan.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>HOD Mathematics<br>
@@ -81,9 +81,9 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/HeanMei.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/CindyHan.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MadelineChang.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>HOD Science<br>
@@ -103,7 +103,7 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/ZulaihaShireen.jpg"></td>
       <td width="33.33%">&nbsp;</td>
       <td width="33.33%">&nbsp;</td>
     </tr>
@@ -125,9 +125,9 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/WaiPing.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Ariyanti.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/AnnieTang.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>LH Chinese Language<br>
@@ -147,7 +147,7 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/AnthonyYew.jpg"></td>
       <td width="33.33%">&nbsp;</td>
       <td width="33.33%">&nbsp;</td>
     </tr>
@@ -169,8 +169,8 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/WeeNam.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/DonnChan.jpg"></td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
@@ -192,8 +192,8 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/Marianna.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Olivia.jpg"></td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
@@ -215,7 +215,7 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/Saravanan.jpg"></td>
       <td width="33.33%">&nbsp;</td>
       <td width="33.33%">&nbsp;</td>
     </tr>
@@ -237,9 +237,9 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/Idham.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/YuLing.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/JunKiat.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>HOD PE, CCA &amp; Aesthetics<br>
@@ -259,7 +259,7 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/JoyceGoh.jpg"></td>
       <td width="33.33%">&nbsp;</td>
       <td width="33.33%">&nbsp;</td>
     </tr>
@@ -281,9 +281,9 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/DoreenChng.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/PaulineWong.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MalarVizhi.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>Year Head LP<br>
@@ -305,9 +305,9 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/Rosmawati.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/ElaineLim.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Roszanah.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>ST Learners Profile (Educational Support)<br>
@@ -329,7 +329,7 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/BingSum.jpg"></td>
       <td width="33.33%">&nbsp;</td>
       <td width="33.33%">&nbsp;</td>
     </tr>
@@ -351,8 +351,8 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/GraciaTye.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/HoChoongOn.jpg"></td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
