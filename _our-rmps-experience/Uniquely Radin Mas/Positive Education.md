@@ -15,8 +15,7 @@ third_nav_title: Uniquely Radin Mas
 <td style="width: 50%;"><img src="/images/pe1.jpg"></td>
 <td style="width: 50%;">
 <p><strong>NOTES OF APPRECIATION FROM PARENTS</strong></p>
-<p>Parents pen down words of encouragement for their child during Parent Teacher Meeting and Parent Child Teacher Conference.</p>
-</td>
+<p>Parents pen down words of encouragement for their child during Parent Teacher Meeting and Parent Child Teacher Conference.</p></td>
 </tr>
 </tbody>
 </table>
