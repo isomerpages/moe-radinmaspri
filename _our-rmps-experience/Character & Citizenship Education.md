@@ -59,14 +59,14 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Vision</strong></span></p>
+<p style="text-align: center;"><strong>Our Vision</strong></p>
 <p style="text-align: center;">Every student, a responsible and reflective leader.</p>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Mission</strong></span></p>
+<p style="text-align: center;"><strong>Our Mission</strong></p>
 <ul>
-<li>To inculcate values and build competencies in our students to develop them to be good individuals and useful citizens&nbsp;</li>
+<li>To inculcate values and build competencies in our students to develop them to be good individuals and useful citizens.</li>
 <li>To nurture students who are responsible to family and community</li>
 </ul>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Key Programmes</strong></span></p>
+<p style="text-align: center;"><strong>Our Key Programmes</strong></p>
 <table border="1">
 <tbody>
 <tr>
