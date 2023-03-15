@@ -45,7 +45,6 @@ third_nav_title: Uniquely Radin Mas
 <p>School environment is decorated with different themed and vibrant murals as well as positive quotes to serve as a daily reminder and as an inspiration to all.</p>
 </li>
 <li><input id="accordion2" type="checkbox" /><label for="accordion2"><p><span style="color: #ff0000;"><strong>Engagement: To Experience Joy in Learning</strong></span></p></label>
-<div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -56,10 +55,8 @@ third_nav_title: Uniquely Radin Mas
 </table>
 <p><strong>EXPERIENTIAL AND AUTHENTIC LEARNING</strong></p>
 <p>Students engaged in experiential learning activities in authentic setting. Students learning is extended beyond the four walls of the classroom hence creating deeper and meaningful learning experiences for all.</p>
-</div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><p><strong><span style="color: #ff0000;">Relationship: To Listen and Build Deeper Connections with One Another</span></strong></p></label>
-<div>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><p><span style="color: #ff0000;"><strong>Relationship: To Listen and Build Deeper Connections with One Another</span></strong></p></label>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -78,10 +75,8 @@ third_nav_title: Uniquely Radin Mas
 </tr>
 </tbody>
 </table>
-</div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4"><p><strong><span style="color: #ff0000;">Meaning: To Give Back to The Community</span></strong></p></label>
-<div>
+<li><input id="accordion4" type="checkbox" /><label for="accordion4"><p><span style="color: #ff0000;"><strong>Meaning: To Give Back to The Community</strong></span></p></label>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -105,10 +100,8 @@ third_nav_title: Uniquely Radin Mas
 </tr>
 </tbody>
 </table>
-</div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5"><p><strong><span style="color: #ff0000;">Achievement: A Sense of Accomplishment</span></strong></p></label>
-<div>
+<li><input id="accordion5" type="checkbox" /><label for="accordion5"><p><span style="color: #ff0000;"><strong>Achievement: A Sense of Accomplishment</strong></span></p></label>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -138,6 +131,5 @@ third_nav_title: Uniquely Radin Mas
 </tr>
 </tbody>
 </table>
-</div>
 </li>
 </ul>
