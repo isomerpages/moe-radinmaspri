@@ -45,7 +45,18 @@ third_nav_title: Uniquely Radin Mas
 	
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Engagement: To Experience Joy in Learning</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/pe7.jpg"></td>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/pe8.jpg"></td>
+</tr>
+<tr>
+<td colspan = "2"><p><strong>EXPERIENTIAL AND AUTHENTIC LEARNING</strong></p>
+<p>Students engaged in experiential learning activities in authentic setting. Students learning is extended beyond the four walls of the classroom hence creating deeper and meaningful learning experiences for all.</p></td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 	
