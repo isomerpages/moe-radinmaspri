@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents Information & Resource
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><p><strong><span style="color: #ff0000;">2023</strong></span></p></label>
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><strong>2023</strong></label>
 <div>
 <p><strong>Booklist for 2023 Cohort</strong></p>
 <ul>
@@ -20,7 +20,7 @@ third_nav_title: Parents Information & Resource
 <p><strong>Assessment Circular<br /></strong><a href="/files/P3%20School-based%20assessments_2023.pdf">P3 School-based assessments_2023.pdf</a><br /><a href="/files/P4%20School-based%20assessments_2023.pdf">P4 School-based assessments_2023.pdf</a><br /><a href="/files/P5%20School-based%20assessments_2023.pdf">P5 School-based assessments_2023.pdf</a><br /><a href="/files/P6%20Assessment%20Circular_2023.pdf">P6 Assessment Circular_2023.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><p><strong><span style="color: #ff0000;">2022</strong></span></p></label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><strong>2022</strong></label>
 <div>
 <p><strong>Booklist for 2022 Cohort</strong></p>
 <ul>
@@ -35,7 +35,7 @@ third_nav_title: Parents Information & Resource
 <p><strong>Financial Assistance Scheme 2023<br /></strong><a href="/files/FAS%202023.pdf">FAS 2023.pdf</a><br /><a href="/files/MOE%20FAS%20Application%20Form%20Sep%202022.pdf">MOE FAS Application Form Sep 2022.pdf</a><br />Eligibility calculator:&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a><br />FAS e-application form:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><p><strong><span style="color: #ff0000;">2021</strong></span></p></label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><strong>2021</strong></label>
 <div>
 <p><strong>Booklist for 2021 Cohort</strong></p>
 <ul>
@@ -51,7 +51,7 @@ third_nav_title: Parents Information & Resource
 <p><strong>Weighted Assessment 2021 Term 3<br /></strong><a href="/files/Primary%203%20Weighted%20Assessment%20Term%203.pdf">Primary 3 Weighted Assessment Term 3.pdf</a><br /><br /><a href="/files/Primary%205%20Weighted%20Assessment%20Term%203.pdf">Primary 5 Weighted Assessment Term 3.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4"><p><strong><span style="color: #ff0000;">2020</strong></span></p></label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4"><strong>2020</strong></label>
 <div>
 <p><strong>Booklist for 2020 Cohort</strong></p>
 <ul>
@@ -73,7 +73,7 @@ third_nav_title: Parents Information & Resource
 <p><strong>2020 Parent e-Orientation Letter<br /></strong><a href="/files/Parent%20eOrientation%20Letter.pdf">Parent eOrientation Letter.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5"><p><strong><span style="color: #ff0000;">2019</strong></span></p></label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5"><strong>2019</strong></label>
 <div>
 <p><strong>Booklist</strong></p>
 <ul>
