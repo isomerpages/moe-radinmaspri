@@ -8,7 +8,7 @@ third_nav_title: Uniquely Radin Mas
 <p>We believe that Positive Education would be a useful tool to allow our students to build greater confidence in themselves and to be able to face the challenges of the future with graciousness, optimism and resilience.</p>
 <p>Basing our approaches on Seligman&rsquo;s five key elements of <strong>P</strong>ositive Emotions,&nbsp;<strong>E</strong>ngagement,&nbsp;<strong>R</strong>elationship,&nbsp;<strong>M</strong>eaning and&nbsp;<strong>A</strong>chievement or&nbsp;<strong><em>PERMA</em></strong>, the school has designed a variety of experiences to guide our students through each element.</p>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><p><strong><span style="color: #ff0000;">Positive Emotions: A Sense of Feeling Good</strong></span></p></label>
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><p><span style="color: #ff0000;"><strong>Positive Emotions: A Sense of Feeling Good</strong></span></p></label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -46,7 +46,7 @@ third_nav_title: Uniquely Radin Mas
 <p>School environment is decorated with different themed and vibrant murals as well as positive quotes to serve as a daily reminder and as an inspiration to all.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><p><strong><span style="color: #ff0000;">Engagement: To Experience Joy in Learning</strong></span></p></label>
+<li><input id="accordion2" type="checkbox" /><label for="accordion2"><p><strong><span style="color: #ff0000;">Engagement: To Experience Joy in Learning</strong></span></p></label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
