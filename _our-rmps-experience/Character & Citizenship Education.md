@@ -4,7 +4,8 @@ permalink: /our-rmps-experiences/character-n-citizenship-education/
 description: ""
 ---
 <p>Our Department Photo</p>
-<img src="/images/cce.jpg"><table>
+<img src="/images/cce.jpg">
+<table>
 <tbody>
 <tr>
 <th style="text-align: center;" colspan="2">Our&nbsp;Department</th>
