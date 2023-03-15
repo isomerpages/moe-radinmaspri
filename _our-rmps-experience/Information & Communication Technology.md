@@ -48,15 +48,15 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Vision</strong></span></p>
+<p style="text-align: center;"><strong>Our Vision</strong></p>
 <p style="text-align: center;">Embracing ICT Culture, Responsible Netizens</p>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Mission</strong></span></p>
+<p style="text-align: center;"><strong>Our Mission</strong></p>
 <ul>
 <li>To develop future-ready and responsible digital learners</li>
 <li>To equip students and staff the skills and knowledge needed to harness technology in the school curriculum and programmes responsibly</li>
 <li>To provide infrastructure to support learning to take place anytime and anywhere</li>
 </ul>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Key Programmes</strong></span></p>
+<p style="text-align: center;"><strong>Our Key Programmes</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
