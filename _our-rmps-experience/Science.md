@@ -4,7 +4,7 @@ permalink: /our-rmps-experiences/science/
 description: ""
 ---
 <p>Our Department Photo</p>
-<img src="/images/sci.jpg">1
+<img src="/images/sci.jpg">
 <table>
 <tbody>
 <tr>
@@ -56,15 +56,15 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Vision</strong></span></p>
+<p style="text-align: center;"><strong>Our Vision</strong></p>
 <p style="text-align: center;">An Inquirer with a passion for Science.</p>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Mission</strong></span></p>
+<p style="text-align: center;"><strong>Our Mission</strong></p>
 <ul>
 <li>To develop students with an inquiring mind</li>
 <li>To make the learning of Science fun, meaningful and relevant</li>
 <li>To equip students with scientific knowledge and skills</li>
 </ul>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Key Programmes</strong></span></p>
+<p style="text-align: center;"><strong>Our Key Programmes</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
