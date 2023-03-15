@@ -88,14 +88,14 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Vision</strong></span></p>
+<p style="text-align: center;"><strong>Our Vision</strong></p>
 <p style="text-align: center;">Every student an engaged and effective communicator of the Mother Tongue language.</p>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Mission</strong></span></p>
+<p style="text-align: center;"><strong>Our Mission</strong></p>
 <ul>
 <li>To develop students&rsquo; linguistic abilities through the joy of learning Mother Tongue languages.</li>
 <li>To nurture students&rsquo; appreciation of the beauty of their traditions and culture.</li>
 </ul>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Key Programmes</strong></span></p>
+<p style="text-align: center;"><strong>Our Key Programmes</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
