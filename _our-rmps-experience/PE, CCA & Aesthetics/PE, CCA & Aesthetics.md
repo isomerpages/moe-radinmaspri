@@ -61,7 +61,7 @@ third_nav_title: PE, CCA & Aesthetics
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Vision</strong></span></p>
+<p style="text-align: center;"><strong>Our Vision</strong></p>
 <p style="text-align: center;">Every student to make a mark in the areas of Sports, Outdoor Education and the Arts.</p>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Mission</strong></span></p>
+<p style="text-align: center;"><strong>Our Mission</strong></p>
 <p style="text-align: center;">To equip every student with the knowledge, skills and attitude to lead a healthy lifestyle and develop an appreciation for the arts.</p>
