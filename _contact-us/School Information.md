@@ -33,7 +33,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 177px;">Nearest MRT Station</td>
-<td style="width: 510px;">: Tiong Bahru Bus Services</td>
+<td style="width: 510px;">: Tiong Bahru</td>
 </tr>
 <tr>
 <td style="width: 177px;">Bus Services</td>
