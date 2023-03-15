@@ -80,15 +80,15 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><span style="color: #ff0000;"><strong>Our Vision</strong></span></p>
+<p style="text-align: center;"><strong>Our Vision</strong></p>
 <p style="text-align: center;">An Effective, Creative and Innovative Mathematics Problem Solver.</p>
-<p style="text-align: center;"><span style="color: #ff0000;"><strong>Our Mission</strong></span></p>
+<p style="text-align: center;"><strong>Our Mission</strong></p>
 <ul>
 <li>To provide structured opportunities for students to acquire mathematical concepts and skills for application in real-life scenarios.</li>
 <li>To develop students&rsquo; critical thinking, mathematical reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving.</li>
 <li>To provide authentic learning experiences to help students to build confidence and interest in Mathematics.</li>
 </ul>
-<p style="text-align: center;"><span style="color: #ff0000;"><strong>Our Key Programmes</strong></span></p>
+<p style="text-align: center;"><strong>Our Key Programmes</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
