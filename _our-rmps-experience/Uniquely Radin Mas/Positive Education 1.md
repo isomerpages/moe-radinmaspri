@@ -10,7 +10,36 @@ third_nav_title: Uniquely Radin Mas
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Positive Emotions: A Sense of Feeling Good</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/pe1.jpg"></td>
+<td style="width: 50%;">
+<p><strong>NOTES OF APPRECIATION FROM PARENTS</strong></p>
+<p>Parents pen down words of encouragement for their child during Parent Teacher Meeting and Parent Child Teacher Conference.</p></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/pe2.jpg"></td>
+<td style="width: 50%;"><img src="/images/pe3.jpg"></td>
+</tr>
+<tr>
+<td colspan = "2"><p><strong>KINDNESS / GRATITUDE WALL IN CLASSROOM</strong></p>
+<p>Students write appreciation notes to their classmates to spread positivity. It is a platform to shape school's positive culture, which is based on kindness, empathy, graciousness and acceptance for all.</p></td>
+</tr>
+<tr>
+<td colspan = "2"><img style="width: 80%;" src="/images/pe4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/pe5.jpg"></td>
+<td style="width: 50%;"><img src="/images/pe6.jpg"></td>
+</tr>
+<tr>
+<td colspan = "2"><p><strong>LEVEL MURALS / POSITIVE QUOTES</strong></p>
+<p>School environment is decorated with different themed and vibrant murals as well as positive quotes to serve as a daily reminder and as an inspiration to all.
+</p></td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 	
