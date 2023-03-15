@@ -8,7 +8,7 @@ third_nav_title: Uniquely Radin Mas
 <p>We believe that Positive Education would be a useful tool to allow our students to build greater confidence in themselves and to be able to face the challenges of the future with graciousness, optimism and resilience.</p>
 <p>Basing our approaches on Seligman&rsquo;s five key elements of <strong>P</strong>ositive Emotions,&nbsp;<strong>E</strong>ngagement,&nbsp;<strong>R</strong>elationship,&nbsp;<strong>M</strong>eaning and&nbsp;<strong>A</strong>chievement or&nbsp;<strong><em>PERMA</em></strong>, the school has designed a variety of experiences to guide our students through each element.</p>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Positive Emotions: A Sense of Feeling Good</label>
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><strong>Positive Emotions: A Sense of Feeling Good</strong></label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -43,7 +43,7 @@ third_nav_title: Uniquely Radin Mas
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Engagement: To Experience Joy in Learning</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><strong>Engagement: To Experience Joy in Learning</strong></label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -60,7 +60,7 @@ third_nav_title: Uniquely Radin Mas
 </div>
 </li>
 	
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Relationship: To Listen and Build Deeper Connections with One Another</label>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><strong>Relationship: To Listen and Build Deeper Connections with One Another</strong></label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -83,7 +83,7 @@ third_nav_title: Uniquely Radin Mas
 </div>
 </li>
 	
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Meaning: To Give Back to The Community</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4"><strong>Meaning: To Give Back to The Community</strong></label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -111,7 +111,7 @@ third_nav_title: Uniquely Radin Mas
 </div>
 </li>
 	
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Achievement: A Sense of Accomplishment</label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5"><strong>Achievement: A Sense of Accomplishment</strong></label>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
