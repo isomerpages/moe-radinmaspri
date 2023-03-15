@@ -36,9 +36,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Vision</strong></span></p>
+<p style="text-align: center;"><strong>Our Vision</strong></p>
 <p style="text-align: center;">To instill in each student Self-Discipline.</p>
-<p style="text-align: center;"><strong><span style="color: #ff0000;">Our Key Programmes</strong></span></p>
+<p style="text-align: center;"><strong>Our Key Programmes</strong></p>
 <table style="border-collapse: collapse; width: 100%; height: 72px;" border="1">
 <tbody>
 <tr style="height: 18px;">
