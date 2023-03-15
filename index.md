@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/story.jpg
       key_highlights:
         - title: Announcements
           description: ""
@@ -15,6 +15,8 @@ sections:
         - title: Calendar
           description: ""
           url: /our-school/calendar
+      title: Radin Mas Primary School
+      subtitle: A school where all work hard, play hard and make a mark
   - resources:
       title: Announcements
       button: More announcements
