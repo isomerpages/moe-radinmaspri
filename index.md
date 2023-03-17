@@ -9,10 +9,10 @@ sections:
   - hero:
       background: /images/hero-banner.jpg
       key_highlights:
-        - title: School Vision & Missons
+        - title: Vision & Misson
           description: ""
           url: /our-school/vision-mission-values/
-        - title: School Values
+        - title: Core Values
           description: ""
           url: /our-school/vision-mission-values/
         - title: School Crest
