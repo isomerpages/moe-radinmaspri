@@ -82,21 +82,21 @@ description: ""
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/HeanMei.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/CindyHan.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/MadelineChang.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/CindyHan.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>HOD Science<br>
       </strong>Mdm Chan Hean Mei</td>
-      <td align="center"><strong>LH Science<br>
-      </strong>Mdm Cindy Han Qiuyan</td>
-      <td align="center"><strong>LT Science<br>
+			 <td align="center"><strong>LT Science<br>
       </strong>Miss Madeline Chang</td>
+      <td align="center"><strong>LH Science<br>
+				</strong>Mdm Cindy Han Qiuyan</td>
     </tr>
     <tr>
       <td><a href="mailto:chan_hean_mei@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:han_qiuyan_cindy@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:chang_seok_peng_madeline@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+			<td><a href="mailto:han_qiuyan_cindy@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
   </tbody>
 </table>
@@ -126,20 +126,20 @@ description: ""
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/WaiPing.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Ariyanti.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/AnthonyYew.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/AnnieTang.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>LH Chinese Language<br>
       </strong>Mdm Lau Wai Ping</td>
-      <td align="center"><strong>ST Malay Language (Covering)<br>
-      </strong>Mdm Ariyanti Sukaimi</td>
-      <td align="center"><strong>ST Chinese Language<br>
+			 <td align="center"><strong>LT Chinese Language<br>
+      </strong>Mr Yew Chee Ching Anthony</td>
+    <td align="center"><strong>ST Chinese Language<br>
       </strong>Mdm Annie Tang Li Meng</td>
     </tr>
     <tr>
       <td><a href="mailto:lau_wai_ping@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:ariyanti_sukaimi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:yew_chee_ching_anthony@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:tang_li_meng_annie@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
   </tbody>
@@ -147,18 +147,18 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%"><img src="/images/EXCO/AnthonyYew.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Ariyanti.jpg"></td>
       <td width="33.33%">&nbsp;</td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
-      <td align="center"><strong>LT Chinese Language<br>
-      </strong>Mr Yew Chee Ching Anthony</td>
+			  <td align="center"><strong>ST Malay Language (Covering)<br>
+				</strong>Mdm Ariyanti Sukaimi</td>
       <td align="center">&nbsp;</td>
       <td align="center">&nbsp;</td>
     </tr>
     <tr>
-      <td><a href="mailto:yew_chee_ching_anthony@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:ariyanti_sukaimi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
