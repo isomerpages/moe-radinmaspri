@@ -169,8 +169,8 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%"><img src="/images/EXCO/WeeNam.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/DonnChan.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Marianna.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Olivia.jpg"></td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
@@ -192,8 +192,8 @@ description: ""
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%"><img src="/images/EXCO/Marianna.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Olivia.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/WeeNam.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/DonnChan.jpg"></td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
