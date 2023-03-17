@@ -9,12 +9,18 @@ sections:
   - hero:
       background: /images/hero-banner.jpg
       key_highlights:
-        - title: Announcements
+        - title: School Vision & Missons
           description: ""
-          url: /announcements
+          url: /our-school/vision-mission-values/
+        - title: School Values
+          description: ""
+          url: /our-school/vision-mission-values/
+        - title: School Crest
+          description: ""
+          url: /our-school/school-crest/
         - title: Calendar
           description: ""
-          url: /our-school/calendar
+          url: /our-school/calendar/
       title: Radin Mas Primary School
       subtitle: A school where all work hard, play hard and make a mark
   - resources:
@@ -25,4 +31,9 @@ sections:
       subtitle: Information & Resources
       button: Find out More
       url: https://staging.d1jzutb5t80wmo.amplifyapp.com/our-partners/students-portal/
+  - infobar:
+      title: Parents' Portal
+      subtitle: Information & Resources
+      button: Find out more
+      url: /our-partners/parents-information-n-resources/monthly-notifications/
 ---
