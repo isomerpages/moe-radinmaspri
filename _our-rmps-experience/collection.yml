@@ -1,0 +1,40 @@
+collections:
+  our-rmps-experience:
+    output: true
+    order:
+      - "RMPS Total Curriculum Framework: RMPS Experiences.md"
+      - From the Students' Desk.md
+      - Uniquely Radin Mas/.keep
+      - "Uniquely Radin Mas/Learning for Life Programme: Growth Mindset
+        Resilience Independence Teamwork or GRIT@RMPS.md"
+      - Uniquely Radin Mas/Applied Learning Programme.md
+      - Uniquely Radin Mas/Multi–Disciplinary Project Work (MDPW) through
+        Personalized Learning (PL).md
+      - Uniquely Radin Mas/Positive Education.md
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - Student Management & Leadership.md
+      - Character & Citizenship Education.md
+      - Information & Communication Technology.md
+      - PE, CCA & Aesthetics/.keep
+      - PE, CCA & Aesthetics/PE, CCA & Aesthetics.md
+      - PE, CCA & Aesthetics/Physical Education.md
+      - PE, CCA & Aesthetics/Aesthetics.md
+      - PE, CCA & Aesthetics/P3 Modular CCAs.md
+      - PE, CCA & Aesthetics/Art and Crafts.md
+      - PE, CCA & Aesthetics/Basketball.md
+      - PE, CCA & Aesthetics/Boys' Brigade.md
+      - PE, CCA & Aesthetics/Chinese Dance.md
+      - PE, CCA & Aesthetics/Chinese Orchestra.md
+      - PE, CCA & Aesthetics/Choir.md
+      - PE, CCA & Aesthetics/ELDDS.md
+      - PE, CCA & Aesthetics/Environmental Science.md
+      - PE, CCA & Aesthetics/Football.md
+      - PE, CCA & Aesthetics/Girls' Brigade.md
+      - PE, CCA & Aesthetics/Hockey.md
+      - PE, CCA & Aesthetics/Infocomm Technology.md
+      - PE, CCA & Aesthetics/Rugby.md
+      - PE, CCA & Aesthetics/Scouts.md
+      - PE, CCA & Aesthetics/Table Tennis.md

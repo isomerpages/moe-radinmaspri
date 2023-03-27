@@ -1,32 +1,39 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Radin Mas Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/hero-banner.jpg
+      key_highlights:
+        - title: Vision & Misson
+          description: ""
+          url: /our-school/vision-mission-values/
+        - title: Core Values
+          description: ""
+          url: /our-school/vision-mission-values/
+        - title: School Crest
+          description: ""
+          url: /our-school/school-crest/
+        - title: Calendar
+          description: ""
+          url: /our-school/calendar/
+      title: Radin Mas Primary School
+      subtitle: A school where all work hard, play hard and make a mark
+  - resources:
+      title: Announcements
+      button: More announcements
+  - infobar:
+      title: Students' Portal
+      subtitle: Information & Resources
+      button: Find out More
+      url: https://staging.d1jzutb5t80wmo.amplifyapp.com/our-partners/students-portal/
+  - infobar:
+      title: Parents' Portal
+      subtitle: Information & Resources
+      button: Find out more
+      url: /our-partners/parents-information-n-resources/monthly-notifications/
 ---
-

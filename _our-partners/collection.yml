@@ -1,0 +1,14 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Parents Information & Resource/Monthly Notifications.md
+      - Parents Information & Resource/Slides for Parents.md
+      - Parents Information & Resource/Other Notifications.md
+      - Parents Information & Resource/Home–Based Learning.md
+      - Parents Information & Resource/.keep
+      - School Advisory Committee.md
+      - Parent Link.md
+      - RMPS Alumni.md
+      - Teachers' Portal.md
+      - Students' Portal.md
