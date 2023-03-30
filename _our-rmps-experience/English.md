@@ -52,10 +52,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Nasheera</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mrs Mano (Kannusamy Rajeswary)</td>
 </tr>
 <tr>
@@ -68,7 +64,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Nurshahisdah</td>
+<td style="text-align: center;">Ms Chai Wan Lim, Lynn</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
