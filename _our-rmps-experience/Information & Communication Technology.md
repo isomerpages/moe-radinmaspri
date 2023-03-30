@@ -15,11 +15,11 @@ description: ""
 <td style="text-align: center;">Mr Saravanan s/o Shanmugam</td>
 </tr>
 <tr>
-<td style="text-align: center;">Subject Head (Covering)</td>
+<td style="text-align: center;">Members</td>
 <td style="text-align: center;">Miss Stella Zhang Wenxin</td>
 </tr>
 <tr>
-<td style="text-align: center;">Members</td>
+<td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Chua Geok Pei</td>
 </tr>
 <tr>
@@ -43,8 +43,12 @@ description: ""
 <td style="text-align: center;">Mr Tan ZL Andy&nbsp;</td>
 </tr>
 <tr>
+<td style="text-align: center;">Desktop Engineers</td>
+<td style="text-align: center;">Miss Nur Hanisah Binte Huzaini</td>
+</tr>
+<tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Rajvinder Pal Singh</td>
+<td style="text-align: center;">Mr Rohit Alagaraja</td>
 </tr>
 </tbody>
 </table>
