@@ -15,10 +15,6 @@ description: ""
 <td style="text-align: center;">Mr Goh Sheow En</td>
 </tr>
 <tr>
-<td style="text-align: center;">Level Head&nbsp;</td>
-<td style="text-align: center;">Lee Wen Shi Dawn</td>
-</tr>
-<tr>
 <td style="text-align: center;">Level Head (Covering)</td>
 <td style="text-align: center;">Miss Wong SE Lydia</td>
 </tr>
