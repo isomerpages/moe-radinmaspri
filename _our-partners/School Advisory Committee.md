@@ -18,7 +18,7 @@ description: ""
 <td>CHAIRMAN</td>
 </tr>
 <tr>
-<td>MS JILL WONG</td>
+<td>MS JENNY WEE MAY LING</td>
 <td>VICE-CHAIRMAN</td>
 </tr>
 <tr>
@@ -26,15 +26,18 @@ description: ""
 <td>TREASURER</td>
 </tr>
 <tr>
-<td>MS JENNY WEE MAY LING</td>
-<td>MEMBER</td>
-</tr>
-<tr>
 <td>MR TAN TONG HONG</td>
 <td>MEMBER</td>
 </tr>
 <tr>
-<td>MR CHRISTOPHER TENG</td>
+<td>MR GERALD TANG</td>
+<td>MEMBER</td>
+</tr>
+<tr>
+<td>MR KOH THIAM TEE, ANDY</td>
+<td>MEMBER</td>
+</tr>
+<tr><td>MR ANG TENG HUI, MARCUS</td>
 <td>MEMBER</td>
 </tr>
 </tbody>
