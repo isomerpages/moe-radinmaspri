@@ -1,8 +1,8 @@
 ---
-title: PE, CCA & Aesthetics
+title: PE, CCA &amp; Aesthetics
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/
 description: ""
-third_nav_title: PE, CCA & Aesthetics
+third_nav_title: PE, CCA &amp; Aesthetics
 ---
 <p>Our Department Photo</p>
 <img src="/images/pe.jpg">
@@ -20,8 +20,8 @@ third_nav_title: PE, CCA & Aesthetics
 <td style="text-align: center;">Mdm Wong Yu Ling</td>
 </tr>
 <tr>
-<td style="text-align: center;">Subject Head PE &amp; CCA (Covering)&nbsp;</td>
-<td style="text-align: center;">Mr Teo Wai Chin</td>
+<td style="text-align: center;">Subject Head PE &amp; CCA</td>
+<td style="text-align: center;">Mr Ng Jun Kiat</td>
 </tr>
 <tr>
 <td style="text-align: center;">Senior Teacher PE</td>
@@ -41,7 +41,7 @@ third_nav_title: PE, CCA & Aesthetics
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Sultanul Arifin</td>
+<td style="text-align: center;">Mr Teo Wai Chin</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
