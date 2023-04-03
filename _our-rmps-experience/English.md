@@ -15,10 +15,6 @@ description: ""
 <td style="text-align: center;">Mr Goh Sheow En</td>
 </tr>
 <tr>
-<td style="text-align: center;">Level Head&nbsp;</td>
-<td style="text-align: center;">Lee Wen Shi Dawn</td>
-</tr>
-<tr>
 <td style="text-align: center;">Level Head (Covering)</td>
 <td style="text-align: center;">Miss Wong SE Lydia</td>
 </tr>
@@ -56,10 +52,6 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Nasheera</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mrs Mano (Kannusamy Rajeswary)</td>
 </tr>
 <tr>
@@ -72,7 +64,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Nurshahisdah</td>
+<td style="text-align: center;">Ms Chai Wan Lim, Lynn</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>

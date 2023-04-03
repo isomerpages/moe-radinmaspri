@@ -12,11 +12,11 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Head of Department</td>
-<td style="text-align: center;">Mdm Marianna</td>
+<td style="text-align: center;">Mdm Marianna Md Hanafi</td>
 </tr>
-<tr>
-<td style="text-align: center;">Senior Teacher</td>
-<td style="text-align: center;">Mdm Fairoz Natasha Felix</td>
+	<tr>
+<td style="text-align: center;">Subject Head</td>
+<td style="text-align: center;">Mdm Olivia Tan Wei Peng</td>
 </tr>
 <tr>
 <td style="text-align: center;">Senior Teacher (Covering)</td>
@@ -24,11 +24,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Members</td>
-<td style="text-align: center;">Mdm Marini Bohari&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Miss Tan Jia Min&nbsp;</td>
+<td style="text-align: center;">Mdm Fairoz Natasha Felix</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
@@ -36,27 +32,39 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Mdm Reenu D/O Motilal</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Mdm Marini Bohari</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Sarah Bee Jakfar</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Reenu D/O Motilal&nbsp;</td>
+<td style="text-align: center;">Miss Tan Jia Min</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Senior School Counsellor</td>
 <td style="text-align: center;">Mdm Eleanor Neo ES</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Senior Special Education Needs Officer</td>
+<td style="text-align: center;">Mdm Noorizan Ibrahim&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">Special Education Needs Officers</td>
 <td style="text-align: center;">Mdm Ng Miu Leng</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Noorizan Ibrahim&nbsp;</td>
+<td style="text-align: center;">Mdm Choong Wai Leng</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Choong Wai Leng&nbsp;</td>
+<td style="text-align: center;">Mdm Sajitha Begum</td>
 </tr>
 </tbody>
 </table>

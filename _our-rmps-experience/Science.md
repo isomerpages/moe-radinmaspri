@@ -19,16 +19,16 @@ description: ""
 <td style="text-align: center;">Miss Madeline Chang</td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior Teacher</td>
-<td style="text-align: center;">Mdm Zulaiha Shireen</td>
-</tr>
-<tr>
 <td style="text-align: center;">Level Head (Covering)</td>
 <td style="text-align: center;">Mdm Han Qiuyan Cindy</td>
 </tr>
 <tr>
+<td style="text-align: center;">Senior Teacher</td>
+<td style="text-align: center;">Mdm Zulaiha Shireen</td>
+</tr>
+<tr>
 <td style="text-align: center;">Members</td>
-<td style="text-align: center;">Mdm Malar Vizhi D/O Govindan</td>
+<td style="text-align: center;">Mr Lim Yong Ming</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
@@ -41,14 +41,6 @@ description: ""
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Miss Tan HE Joyce</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Pillai</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Lim Yong Ming</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
