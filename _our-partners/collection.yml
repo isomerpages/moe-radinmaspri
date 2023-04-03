@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Parents Information & Resource/.keep
-      - Parents Information & Resource/Slides for Parents.md
       - Parents Information & Resource/Monthly Notifications.md
+      - Parents Information & Resource/Slides for Parents.md
       - Parents Information & Resource/Other Notifications.md
       - Parents Information & Resource/Home–Based Learning.md
       - School Advisory Committee.md
