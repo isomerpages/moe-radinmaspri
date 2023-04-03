@@ -19,8 +19,12 @@ description: ""
 <td style="text-align: center;">Miss Wong SE Lydia</td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior Teacher</td>
+<td style="text-align: center;">Senior Teacher (Educational Support)</td>
 <td style="text-align: center;">Mdm Rosmawati Ali</td>
+</tr>
+<tr>
+<td style="text-align: center;">Senior Teacher (High Ability Learners)</td>
+<td style="text-align: center;">Mrs Elizabeth Elaine Lim&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">Members</td>
@@ -37,10 +41,6 @@ description: ""
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Lim May Ying</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mrs Elizabeth Elaine Lim&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
