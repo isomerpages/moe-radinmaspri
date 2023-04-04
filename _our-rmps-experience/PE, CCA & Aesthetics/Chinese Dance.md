@@ -2,12 +2,12 @@
 title: Chinese Dance
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/chinese-dance/
 description: ""
-third_nav_title: PE, CCA & Aesthetics
+third_nav_title: PE, CCA &amp; Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtyHOmBGBxpNYDMITYiwI9FocXtnzPqzaxp_68h2FdWytf0co_qXOhRZsnesCarvlIfkg7ZmyTr8Wo/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtyHOmBGBxpNYDMITYiwI9FocXtnzPqzaxp_68h2FdWytf0co_qXOhRZsnesCarvlIfkg7ZmyTr8Wo/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Chinese Dance Photo Gallery</strong></p>
-<p>Chinese Dance is one of the school&rsquo;s Performing Arts CCAs and is a committed dance group with more than 30 members.</p>
+<p>Chinese Dance is one of the school’s Performing Arts CCAs and is a committed dance group with more than 30 members.</p>
 <p>Each year, we welcome a consistent intake of promising dancers, allowing for growth in strength and numbers. We aim to foster expertise and experience in Chinese Dance, as well as an appreciation for Chinese culture. We also want our girls to learn to appreciate Chinese Arts through a distinct blend of traditional and contemporary dance techniques.</p>
 <p>Every year, the dance group will perform for Chinese New Year Celebration and Mid-Autumn Festival Celebration. The dance group also participates in the SYF Arts Presentation for Dance. Our girls will continue to aim high and work hard to improve their abilities and performances.</p>
 <p><strong>CNY Celebration 2021</strong></p>

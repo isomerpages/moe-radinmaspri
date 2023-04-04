@@ -2,10 +2,10 @@
 title: Basketball
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/basketball/
 description: ""
-third_nav_title: PE, CCA & Aesthetics
+third_nav_title: PE, CCA &amp; Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzQcCt4GHcEyXtf5keLaCILYgdUROFEnB3GR-qYmE4kG0D7DzT4akoGcxisQAmpzUPjk1BsWkozq--/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzQcCt4GHcEyXtf5keLaCILYgdUROFEnB3GR-qYmE4kG0D7DzT4akoGcxisQAmpzUPjk1BsWkozq--/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>Basketball Photo Gallery</strong></p>
 <p>Basketball is one of the Sports CCAs offered in Radin Mas Primary School. Through this fast-paced and competitive team sport, we hope to develop the character of our members and inculcate vital life lessons to them.</p>
 <p>During training sessions, our members learn both personal and team basketball skills. Team spirit amongst members is also developed to strengthen their physical and mental aspects of the game. Basketball is a team sport that allows players to learn life skills with a positive attitude; an important process that students have to learn as they are bound to face challenges in their lives.</p>

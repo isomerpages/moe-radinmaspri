@@ -2,7 +2,7 @@
 title: Table Tennis
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/table-tennis/
 description: ""
-third_nav_title: PE, CCA & Aesthetics
+third_nav_title: PE, CCA &amp; Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
 <p>RMPS Table Tennis CCA hopes to cultivate a sense of appreciation and passion for table tennis in our students as well as develop their skills in the sport.</p>

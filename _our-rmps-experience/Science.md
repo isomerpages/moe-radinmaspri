@@ -19,7 +19,7 @@ description: ""
 <td style="text-align: center;">Miss Madeline Chang</td>
 </tr>
 <tr>
-<td style="text-align: center;">Level Head (Covering)</td>
+<td style="text-align: center;">Level Head</td>
 <td style="text-align: center;">Mdm Han Qiuyan Cindy</td>
 </tr>
 <tr>

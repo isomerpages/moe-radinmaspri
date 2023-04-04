@@ -1,6 +1,6 @@
 ---
 title: PE, CCA &amp; Aesthetics
-permalink: /our-rmps-experiences/pe-cca-n-aesthetics/
+permalink: /our-rmps-experiences/pe-cca-n-aesthetics/pe-cca-aesthetics/
 description: ""
 third_nav_title: PE, CCA &amp; Aesthetics
 ---

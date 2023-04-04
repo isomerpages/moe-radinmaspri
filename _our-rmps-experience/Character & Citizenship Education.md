@@ -1,5 +1,5 @@
 ---
-title: Character & Citizenship Education
+title: Character &amp; Citizenship Education
 permalink: /our-rmps-experiences/character-n-citizenship-education/
 description: ""
 ---
@@ -19,7 +19,7 @@ description: ""
 <td style="text-align: center;">Mdm Olivia Tan Wei Peng</td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior Teacher (Covering)</td>
+<td style="text-align: center;">Senior Teacher (Special Educational Needs)(Covering)</td>
 <td style="text-align: center;">Mdm Roszanah Kamarudin</td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ description: ""
 <td>
 <p><strong>Showing our gratitude to the SAF personnel who packed masks for Singaporeans at the start of the COVID-19 pandemic</strong></p>
 <p>NE Commemorations</p>
-A big part of CCE lies in the building of skills related to components in the domain of civic literacy, global awareness and cross-cultural skills, so that students are able to function effectively as concerned citizens who stay rooted to Singapore. As part of the Citizenry efforts of the school, all students will be active participants in the 4 NE Commemorations &ndash; Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. Class-based activities, both online and offline, will be implemented for all commemorations. These include interactive programmes planned for the commemorations, with our P3 - 6 student NE/VIA Ambassadors taking helm of the activities and assembly programmes. We hope that by the end of their 6-year journey with RMPS, students would have had rich experiences in helping them understand the key messages behind each commemoration.</td>
+A big part of CCE lies in the building of skills related to components in the domain of civic literacy, global awareness and cross-cultural skills, so that students are able to function effectively as concerned citizens who stay rooted to Singapore. As part of the Citizenry efforts of the school, all students will be active participants in the 4 NE Commemorations – Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. Class-based activities, both online and offline, will be implemented for all commemorations. These include interactive programmes planned for the commemorations, with our P3 - 6 student NE/VIA Ambassadors taking helm of the activities and assembly programmes. We hope that by the end of their 6-year journey with RMPS, students would have had rich experiences in helping them understand the key messages behind each commemoration.</td>
 <td>
 <p><strong>Our student being interviewed on his role as a Heartland Ambassador</strong></p>
 <p>Values Programme</p>
@@ -105,7 +105,7 @@ A big part of CCE lies in the building of skills related to components in the do
 <p><strong>A primary 2 student sharing about his aspiration to be an artist.</strong></p>
 <p>Education &amp; Career Guidance</p>
 <p>Education &amp; Career Guidance (ECG) is one of the big pieces in CCE. In primary school, ECG serves to equip students with the knowledge, skills and values needed to make informed decisions about post-primary education. At the same time, we encourage students to discover their passion and interest, and explore different careers, so as to broaden their mindset and showcase the varied possibilities.</p>
-<p>In RMPS, though ECG lessons are embedded in the P3 &ndash; 6 FTGP curriculum, the school has put in place a variety of activities at all levels to promote an awareness of educational opportunities and career aspirations. The school hopes that ECG can help students to better understand themselves, and further enhance SE competencies. Through these activities, school also puts in platforms for partnership with the parents to encourage greater conversations about ECG topics.</p>
+<p>In RMPS, though ECG lessons are embedded in the P3 – 6 FTGP curriculum, the school has put in place a variety of activities at all levels to promote an awareness of educational opportunities and career aspirations. The school hopes that ECG can help students to better understand themselves, and further enhance SE competencies. Through these activities, school also puts in platforms for partnership with the parents to encourage greater conversations about ECG topics.</p>
 </td>
 </tr>
 </tbody>
