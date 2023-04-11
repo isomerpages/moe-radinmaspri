@@ -300,7 +300,7 @@ description: ""
     </tr>
   </tbody>
 </table>
-<h4><strong>Learning Profile</strong></h4>
+<h4><strong>Learners Profile</strong></h4>
 <hr>
 <table width="100%" border="0">
   <tbody>
