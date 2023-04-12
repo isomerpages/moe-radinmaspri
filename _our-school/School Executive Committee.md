@@ -312,9 +312,9 @@ description: ""
     <tr>
       <td align="center"><strong>ST Learners Profile (Educational Support)<br>
       </strong>Mdm Rosmawati Ali</td>
-      <td align="center"><strong>ST Learner Profile (High Ability Learners)<br>
+      <td align="center"><strong>ST Learners Profile (High Ability Learners)<br>
       </strong>Mrs Elizabeth Elaine Lim Lixian</td>
-      <td align="center"><strong>ST Learner Profile (Special Educational Needs) (Covering)<br>
+      <td align="center"><strong>ST Learners Profile (Special Educational Needs) (Covering)<br>
       </strong>Mdm Roszanah Kamarudin</td>
     </tr>
     <tr>
