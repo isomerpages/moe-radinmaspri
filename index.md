@@ -30,7 +30,7 @@ sections:
       title: Students' Portal
       subtitle: Information & Resources
       button: Find out More
-      url: https://staging.d1jzutb5t80wmo.amplifyapp.com/our-partners/students-portal/
+      url: /our-partners/students-portal/
   - infobar:
       title: Parents' Portal
       subtitle: Information & Resources
