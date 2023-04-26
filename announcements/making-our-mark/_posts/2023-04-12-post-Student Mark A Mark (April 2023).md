@@ -34,3 +34,55 @@ The team identified the problem of tap water wastage in the community. They pres
 The team showcased their approaches to how rainwater can be collected with the use of existing household items. Through collaboration with the school canteen vendors, OSOs, school staff and some residents in Bukit Purmei, the students gathered feedback on the efficacy of their prototype and water saving solutions. Working on the community’s feedback, the students have also designed a self-watering plant system using MicroBit where the rainwater collected could be used to water the plants.
 
 ![](/images/img_8738.jpg)
+
+<hr>
+       
+1.  **West Zone Junior Science Whiz Challenge: Inter-Primary School Science Quiz 2023**
+
+Two teams from Primary 6 participated in the Junior Science Whiz Competition held at River Valley High School on 12 April 2023.
+
+We are proud to share that both teams were in the Top 10 and three students emerged as the overall 11th-20th Top Scorer.
+
+<table>
+<tbody>
+<tr>
+<td><strong>West Zone Junior Science Whiz Challenge:<br>
+  Inter-Primary School Science Quiz 2023</strong></td>
+<td>Top 10  Team and <br>
+  Overall 11th-20th Top Scorer</td>
+<td>Wang  Kai Rui&nbsp;(6M)<br>
+  Foo  Jin Wei Shawn (6M)<br>
+  Lau Yi Sun (6M)</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Top 10  Team </td>
+<td>Goh Shao En Sean (6M)<br>
+  Yao Wei Shi Vincent (6M)<br>
+  Wong Yik Siak (6M)</td>
+</tr>
+</tbody>
+</table>
+
+2.  **Raffles Science Olympiad**
+
+Five students were selected to participate in Round 1 of the Raffles Science Olympiad on 6 April 2023.
+
+Benedict Lee was invited to participate in Round 2 and achieved a Bronze Medal.
+
+<table>
+<tbody>
+<tr>
+<td><strong>Raffles Science Olympiad</strong></td>
+<td>Bronze Medal</td>
+<td>Benedict Lee Zhi Kai (5N)</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Participation </td>
+<td>Claire Junding (5N)<br>
+  Tan Kai Herng (5N)<br>
+  Kayla Cheng Yu Haam (5N)</td>
+</tr>
+</tbody>
+</table>
