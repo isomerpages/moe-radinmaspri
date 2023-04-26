@@ -46,8 +46,8 @@ We are proud to share that both teams were in the Top 10 and three students emer
 <table>
 <tbody>
 <tr>
-<td><strong>West Zone Junior Science Whiz Challenge:<br>
-  Inter-Primary School Science Quiz 2023</strong></td>
+<td>West Zone Junior Science Whiz Challenge:<br>
+  Inter-Primary School Science Quiz 2023</td>
 <td>Top 10  Team and <br>
   Overall 11th-20th Top Scorer</td>
 <td>Wang  Kai Rui&nbsp;(6M)<br>
@@ -73,7 +73,7 @@ Benedict Lee was invited to participate in Round 2 and achieved a Bronze Medal.
 <table>
 <tbody>
 <tr>
-<td><strong>Raffles Science Olympiad</strong></td>
+<td>Raffles Science Olympiad</td>
 <td>Bronze Medal</td>
 <td>Benedict Lee Zhi Kai (5N)</td>
 </tr>
