@@ -37,7 +37,7 @@ The team showcased their approaches to how rainwater can be collected with the u
 
 <hr>
        
-1.  **West Zone Junior Science Whiz Challenge: Inter-Primary School Science Quiz 2023**
+**West Zone Junior Science Whiz Challenge: Inter-Primary School Science Quiz 2023**
 
 Two teams from Primary 6 participated in the Junior Science Whiz Competition held at River Valley High School on 12 April 2023.
 
@@ -64,7 +64,7 @@ We are proud to share that both teams were in the Top 10 and three students emer
 </tbody>
 </table>
 
-2.  **Raffles Science Olympiad**
+**Raffles Science Olympiad**
 
 Five students were selected to participate in Round 1 of the Raffles Science Olympiad on 6 April 2023.
 
