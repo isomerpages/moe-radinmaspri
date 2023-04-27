@@ -2,7 +2,7 @@
 title: Monthly Notifications
 permalink: /our-partners/parents-information-n-resources/monthly-notifications/
 description: ""
-third_nav_title: Parents Information &amp; Resource
+third_nav_title: Parents Information & Resource
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2023</strong></label>
@@ -11,6 +11,7 @@ third_nav_title: Parents Information &amp; Resource
 <p><strong>February<br></strong><a href="/files/2023%20RMPS%20P6%20Camp%20Packing%20List.pdf">2023 RMPS P6 Camp Packing List.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P1_P2.pdf">Feb 2023 Notification for parents_P1_P2.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P3.pdf">Feb 2023 Notification for parents_P3.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P4.pdf">Feb 2023 Notification for parents_P4.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P5.pdf">Feb 2023 Notification for parents_P5.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P6.pdf">Feb 2023 Notification for parents_P6.pdf</a><br><a href="/files/P3%20School-based%20assessments_2023.pdf">P3 School-based assessments_2023.pdf</a><br><a href="/files/P4%20School-based%20assessments_2023.pdf">P4 School-based assessments_2023.pdf</a><br><a href="/files/P5%20School-based%20assessments_2023.pdf">P5 School-based assessments_2023.pdf</a><br><a href="/files/P6%20Assessment%20Circular_2023.pdf">P6 Assessment Circular_2023.pdf</a></p>
 	<p><strong>March<br></strong><a href="/files/Mar%202023%20Notification%20for%20parents_final.pdf">Mar 2023 Notification for Parents</a></p>
 	<p><strong>April<br></strong><a href="/files/apr%202023%20notification%20for%20parents.pdf">Apr 2023 Notification for Parents</a></p>
+<p><strong>May<br></strong><a href="/files/may%202023%20notification%20for%20parents_final.pdf">May 2023 Notification for Parents</a></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2022</strong></label>

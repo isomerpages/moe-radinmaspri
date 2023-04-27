@@ -2,7 +2,7 @@
 title: Home–Based Learning
 permalink: /our-partners/parents-information-n-resources/home-based-learning/
 description: ""
-third_nav_title: Parents Information &amp; Resource
+third_nav_title: Parents Information & Resource
 ---
 <p>Dear RMPS family,</p>
 <p>The coronavirus pandemic has undoubtedly impacted us. We have had to make adjustments to our daily lives in order to adapt to the current situation. It is without a doubt that the adjustments have not been easy, but let's also appreciate the opportunities the situation has afforded us i.e. to grow as an individual, to bond with our family and to appreciate the things we have that we may have taken for granted in the past.</p>
