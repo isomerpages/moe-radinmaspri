@@ -4,5 +4,5 @@ date: 2023-03-17
 layout: link
 description: ""
 image: ""
-external: https://radinmaspri.moe.edu.sg/our-school/discipline-philosophy-n-school-rules/
+external: https://www.radinmaspri.moe.edu.sg/our-school/discipline-philosophy-n-school-rules/
 ---
