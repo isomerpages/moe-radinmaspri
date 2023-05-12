@@ -13,7 +13,7 @@ third_nav_title: PE, CCA & Aesthetics
 
 <h4><strong>Our achievements:</strong></h4>
 
-<p>2022 National School Games Rugby (Boys Junior Division) League 2 – First Runner-up
+<p>2022 National School Games Rugby (Boys Junior Division) League 2 – First Runner-up<br>
 
 2023 National School Games Rugby (Boys Senior Division) League 1 – Sixth position</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
