@@ -2,7 +2,7 @@
 title: Hockey
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/hockey/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRasowxR8p_vStNv_d8Jdns8OkQ5NhaIlct_nu6MJl537-tjZQ85TlR4PaXnOHSjvvWkuXqIxBzZ3YI/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

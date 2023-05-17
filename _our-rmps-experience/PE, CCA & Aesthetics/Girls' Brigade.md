@@ -2,7 +2,7 @@
 title: Girls' Brigade
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/girls-brigade/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSL_b9K1VmhvkIyuPIQJw67F_4LAq1tz8vJnb16HY0C5eqag7aBixppXGO3QyFcH5FV4acjijuxw_yE/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

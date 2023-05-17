@@ -2,7 +2,7 @@
 title: Basketball
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/basketball/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzQcCt4GHcEyXtf5keLaCILYgdUROFEnB3GR-qYmE4kG0D7DzT4akoGcxisQAmpzUPjk1BsWkozq--/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

@@ -2,7 +2,7 @@
 title: Art and Crafts
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/art-and-crafts/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBDhhBxyDGAaBd0hdBG8c3VsYyfvehob-dvGZssb-66uECZVEfDgCm8B64FpbN3p0Qqi9Gy5y-yihQ/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

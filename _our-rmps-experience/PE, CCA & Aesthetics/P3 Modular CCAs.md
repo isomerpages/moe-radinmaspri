@@ -2,7 +2,7 @@
 title: P3 Modular CCAs
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/p3-modular-ccas/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <p>As part of a holistic education, our P3 students get to participate in Modular CCAs in Semester 1. The objectives of Modular CCAs are to provide our students with further exposure in sports, performing arts and visual arts lessons and also to serve as a platform for them to discover their interests and talent in ‘alternative CCAs’ not offered by the school.</p>
 <p>Our P3 students are divided into 3 groups (of about 80 students per group). Each group will attend 4 consecutive sessions for each of the three modular CCAs on a rotational basis.</p>

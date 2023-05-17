@@ -2,7 +2,7 @@
 title: Football
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/football/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
 <p>Football is one of the most popular sports in Singapore. At Radin Mas Primary School, the Football CCA is made up of the junior, senior and recreational teams consisting of Primary 3 to Primary 6 boys. On a regular basis, the coach and teachers-in-charge play their part in developing the boys’ character, teamwork, mental strength, fitness and skills though the training sessions. The support from parents to encourage their children to balance their time between schoolwork and play is also important. Through all these efforts, the boys would hopefully be able to 'make their mark’ in the sport or other areas of their lives.</p>

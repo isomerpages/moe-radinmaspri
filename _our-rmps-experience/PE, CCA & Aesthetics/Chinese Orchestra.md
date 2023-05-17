@@ -2,7 +2,7 @@
 title: Chinese Orchestra
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/chinese-orchestra/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
 <p>Chinese Orchestra is one of the niche CCAs in Radin Mas Primary School. It was first set up in 1985 with the aim of nurturing student musicians. The Chinese Orchestra seeks to provide various platforms within and outside school such as Chinese New Year Celebration and Mid-Autumn Festival for our members to gain performing experiences and hone their musicianship in the process.</p>

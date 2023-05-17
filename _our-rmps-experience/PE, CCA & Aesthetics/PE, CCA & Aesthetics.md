@@ -1,8 +1,8 @@
 ---
-title: PE, CCA &amp; Aesthetics
+title: PE, CCA & Aesthetics
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/pe-cca-aesthetics/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <p>Our Department Photo</p>
 <img src="/images/pe.jpg">

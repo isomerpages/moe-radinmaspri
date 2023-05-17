@@ -2,7 +2,7 @@
 title: Infocomm Technology
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/infocomm-technology/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
 <p>The Infocomm Technology Club is a dynamic modular-based CCA which equips its members with skills in animation, AV media, game-making and cyber wellness modules in their 4-year CCA journey. Through engaging students in animation, AV media, cyber wellness and game-making, the club strives to train and develop students to be passionate and creative in their work, as well as equipping them with 21st century competencies and ICT skills.</p>

@@ -2,7 +2,7 @@
 title: Aesthetics
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/aesthetics/
 description: ""
-third_nav_title: PE, CCA &amp; Aesthetics
+third_nav_title: PE, CCA & Aesthetics
 ---
 <p style="text-align: center;"><strong><span style="color: #ff0000;">Our&nbsp;3 Key Programmes</span></strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
