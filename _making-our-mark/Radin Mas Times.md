@@ -812,7 +812,7 @@ description: ""
 <p><a href="/files/Radin%20Mas%20Times%202022%20Sem%202.pdf">Radin Mas Times 2022 Sem 2.pdf</a></p>
 </div>
 </li>
-	<li><input id="accordion8" type="checkbox"> <label for="accordion8"><strong>2023 Semester 1 Edition</strong></label>
+<li><input id="accordion8" type="checkbox"> <label for="accordion8"><strong>2023 Semester 1 Edition</strong></label>
 <div>
 <p><a href="/files/radin_mas_times_2023_sem_1.pdf">Radin Mas Times 2023 Sem 1</a></p>
 </div>
