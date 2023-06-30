@@ -14,6 +14,8 @@ third_nav_title: Parents Information & Resource
 <p><strong>May<br></strong><a href="/files/may%202023%20notification%20for%20parents_final.pdf">May 2023 Notification for Parents</a></p>
 	<p><strong>June<br></strong><a href="/files/jun%202023%20notification%20for%20parents.pdf">June 2023 Notification for Parents</a><br><a href="/files/spf%20%20cnb%20advisory%20for%20primary%20school.pdf">SPF CNB Advisory for Primary School</a>
 	</p>
+		<p><strong>July<br></strong><a href="/files/jul%202023%20notification%20for%20parents.pdf">July 2023 Notification for Parents</a>
+	</p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2022</strong></label>
