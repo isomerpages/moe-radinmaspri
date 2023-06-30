@@ -4,9 +4,9 @@ permalink: /making-our-mark/radin-mas-times/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><strong>2018 Edition</strong></label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2018 Edition</strong></label>
 <div>
-<p><strong>Radin Mas Times Newsletter, Published in 2018 </strong><br /><strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202018_FINAL.pdf">Radin Mas Times Newsletter 2018_FINAL.pdf</a></strong></p>
+<p><strong>Radin Mas Times Newsletter, Published in 2018 </strong><br><strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202018_FINAL.pdf">Radin Mas Times Newsletter 2018_FINAL.pdf</a></strong></p>
 <table>
 <tbody>
 <tr>
@@ -77,9 +77,9 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><strong>2019 Semester 1 Edition</strong></label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2019 Semester 1 Edition</strong></label>
 <div>
-<p><strong>Radin Mas Times Newsletter, Published in 2019 Semester 1</strong><strong>&nbsp;<br /></strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202019%20Sem%201%20(Final).pdf">Radin Mas Times Newsletter 2019 Sem 1 (Final).pdf</a></p>
+<p><strong>Radin Mas Times Newsletter, Published in 2019 Semester 1</strong><strong>&nbsp;<br></strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202019%20Sem%201%20(Final).pdf">Radin Mas Times Newsletter 2019 Sem 1 (Final).pdf</a></p>
 <table>
 <tbody>
 <tr>
@@ -158,9 +158,9 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><strong>2019 Semester 2 Edition</strong></label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3"><strong>2019 Semester 2 Edition</strong></label>
 <div>
-<p><strong>Radin Mas Times Newsletter, Published in 2019 Semester 2</strong><strong><br /></strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202019_Sem%202.pdf">Radin Mas Times Newsletter 2019_Sem 2.pdf</a></p>
+<p><strong>Radin Mas Times Newsletter, Published in 2019 Semester 2</strong><strong><br></strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202019_Sem%202.pdf">Radin Mas Times Newsletter 2019_Sem 2.pdf</a></p>
 <table>
 <tbody>
 <tr>
@@ -259,9 +259,9 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4"><strong>2020 Edition</strong></label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4"><strong>2020 Edition</strong></label>
 <div>
-<p><strong>Radin Mas Times Newsletter, Published in 2020<br /></strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202020.pdf">Radin Mas Times Newsletter 2020.pdf</a></p>
+<p><strong>Radin Mas Times Newsletter, Published in 2020<br></strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202020.pdf">Radin Mas Times Newsletter 2020.pdf</a></p>
 <table>
 <tbody>
 <tr>
@@ -392,7 +392,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5"><strong>2021 Semester 1 Edition</strong></label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5"><strong>2021 Semester 1 Edition</strong></label>
 <div>
 <p><a href="/files/Radin%20Mas%20Times%202021%20Sem%201.pdf">Radin Mas Times 2021 Sem 1.pdf</a></p>
 <table>
@@ -521,7 +521,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6"><strong>2021 Semester 2 Edition</strong></label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6"><strong>2021 Semester 2 Edition</strong></label>
 <div>
 <p><a href="/files/Radin%20Mas%20Times%202021%20Sem%202.pdf">Radin Mas Times 2021 Sem 2.pdf</a></p>
 <table>
@@ -682,7 +682,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox" /> <label for="accordion7"><strong>2022 Semester 1 Edition</strong></label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7"><strong>2022 Semester 1 Edition</strong></label>
 <div>
 <p><a href="/files/Radin%20Mas%20Times%202022%20Sem%201_v4.pdf">Radin Mas Times 2022 Sem 1_v4.pdf</a></p>
 <table>
@@ -807,9 +807,14 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion8" type="checkbox" /> <label for="accordion8"><strong>2022 Semester 2 Edition</strong></label>
+<li><input id="accordion8" type="checkbox"> <label for="accordion8"><strong>2022 Semester 2 Edition</strong></label>
 <div>
 <p><a href="/files/Radin%20Mas%20Times%202022%20Sem%202.pdf">Radin Mas Times 2022 Sem 2.pdf</a></p>
+</div>
+</li>
+<li><input id="accordion9" type="checkbox"> <label for="accordion9"><strong>2023 Semester 1 Edition</strong></label>
+<div>
+<p><a target="_blank" href="/files/radin%20mas%20times%202023%20sem%201.pdf">Radin Mas Times 2023 Sem 1</a></p>
 </div>
 </li>
 </ul>
