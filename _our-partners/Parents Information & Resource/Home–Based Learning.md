@@ -11,7 +11,7 @@ third_nav_title: Parents Information & Resource
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2023</strong></h4></label>
 <div>
-<p><strong>HBL Instruction for 14 July (Olympic Festival)<br></strong><a href="/files/primary%201%20hbl%20lesson%20instructions%20(olympic%20festival).pdf">Primary 1 HBL Lesson Instructions &amp; Guide - 14 July (Olympic Festival)</a><br><a href="/files/primary%202%20hbl%20lesson%20instructions%20(olympic%20festival).pdf">Primary 2 HBL Lesson Instructions &amp; Guide - 14 July (Olympic Festival)</a></p>
+<p><strong>HBL Instruction for 14 July (Olympic Festival)<br></strong><a target="_blank" href="/files/primary%201%20hbl%20lesson%20instructions%20(olympic%20festival).pdf">Primary 1 HBL Lesson Instructions &amp; Guide - 14 July (Olympic Festival)</a><br><a target="_blank" href="/files/primary%202%20hbl%20lesson%20instructions%20(olympic%20festival).pdf">Primary 2 HBL Lesson Instructions &amp; Guide - 14 July (Olympic Festival)</a></p>
 </div>
 </li>
 	<li><input id="accordion2" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2022</strong></h4></label>
