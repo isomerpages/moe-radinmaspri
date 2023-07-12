@@ -9,7 +9,12 @@ third_nav_title: Parents Information & Resource
 <p>Although the learning curve is steep, RMPS teachers have risen to the occasion, giving their utmost best to ensure continuous learning takes place with FHBL. In appreciation of RMPS teachers' dedication in grooming our students, RMPS Aesthetics Committee together with our students, are proud to dedicate the following presentation to all of you.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FmE6QPHKvkk" title="RMPS FHBL 2020   A Thankful Heart (Full Res)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2022</strong></h4></label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2023</strong></h4></label>
+<div>
+<p><strong>HBL Instruction for 14 July (Olympic Festival)<br></strong><a href="/files/primary%201%20hbl%20lesson%20instructions%20(olympic%20festival).pdf">Primary 1 HBL Lesson Instructions &amp; Guide - 14 July (Olympic Festival)</a><br><a href="/files/primary%202%20hbl%20lesson%20instructions%20(olympic%20festival).pdf">Primary 2 HBL Lesson Instructions &amp; Guide - 14 July (Olympic Festival)</a></p>
+</div>
+</li>
+	<li><input id="accordion2" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2022</strong></h4></label>
 <div>
 <p><strong>HBL Instruction for 22 July (Olympic Festival)<br></strong><a href="/files/22July2022_Lesson%20Instructions%20and%20Guide-HBL_P1.pdf">22July2022_Lesson Instructions and Guide-HBL_P1.pdf</a><br><a href="/files/22July2022_Lesson%20Instructions%20and%20Guide-HBL_P2.pdf">22July2022_Lesson Instructions and Guide-HBL_P2.pdf</a></p>
 <p><strong>HBL Instruction for 15 to 16 August (PSLE Oral)<br></strong><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P1%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P1 PSLE Oral 15 and 16 August 2022.pdf</a><br><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P2%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P2 PSLE Oral 15 and 16 August 2022.pdf</a><br><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P3%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P3 PSLE Oral 15 and 16 August 2022.pdf</a><br><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P4%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P4 PSLE Oral 15 and 16 August 2022.pdf</a><br><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P5%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P5 PSLE Oral 15 and 16 August 2022.pdf</a></p>
@@ -17,7 +22,7 @@ third_nav_title: Parents Information & Resource
 <p><strong>HBL Instruction for 29 September to 3 October (PSLE Written Exam)<br></strong><a href="/files/Primary%201%20HBL%20Lesson%20Instructions%20PSLE%20Written%20Exam.pdf">Primary 1 HBL Lesson Instructions PSLE Written Exam.pdf</a><br><a href="/files/Primary%202%20HBL%20Lesson%20Instructions%20PSLE%20Written%20Exam.pdf">Primary 2 HBL Lesson Instructions PSLE Written Exam.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>HBL 2021</strong></h4></label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion2"><h4><strong>HBL 2021</strong></h4></label>
 <div>
 <p><strong>HBL Instruction for 1 April (Olympic Festival)<br></strong><a href="/files/Primary%2011.pdf">Primary 1.pdf</a><br><a href="/files/Primary%2022.pdf">Primary 2.pdf</a></p>
 <p><strong>Full HBL Instruction for 19 May to 21 May<br></strong><a href="/files/Full%20Home%20Based%20Learning_18%20May%202021.pdf">Full Home Based Learning_18 May 2021.pdf</a><br><a href="/files/HBL_P1_18%20May%202021.pdf">HBL_P1_18 May 2021.pdf</a><br><a href="/files/HBL_P2_18%20May%202021.pdf">HBL_P2_18 May 2021.pdf</a><br><a href="/files/HBL_P3_18%20May%202021.pdf">HBL_P3_18 May 2021.pdf</a><br><a href="/files/HBL_P4_18%20May%202021.pdf">HBL_P4_18 May 2021.pdf</a><br><a href="/files/HBL_P5_18%20May%202021.pdf">HBL_P5_18 May 2021.pdf</a><br><a href="/files/HBL_P6_18%20May%202021.pdf">HBL_P6_18 May 2021.pdf</a></p>
@@ -88,7 +93,7 @@ third_nav_title: Parents Information & Resource
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>HBL 2020</strong></h4></label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion3"><h4><strong>HBL 2020</strong></h4></label>
 <div>
 <p><strong>Full HBL Letter &amp; Timetable for 8 April &amp; 9 April<br></strong><a href="/files/P1%20HBL%2007042020.pdf">P1 HBL 07.04.2020.pdf</a><br><a href="/files/P2%20HBL%2007042020.pdf">P2 HBL 07.04.2020.pdf</a>&nbsp;<br><a href="/files/P3%20HBL%2007042020.pdf">P3 HBL 07.04.2020.pdf</a>&nbsp;<br><a href="/files/P4%20HBL%2007042020.pdf">P4 HBL 07.04.2020.pdf</a>&nbsp;<br><a href="/files/P5%20HBL%2007042020.pdf">P5 HBL 07.04.2020.pdf</a>&nbsp;<br><a href="/files/P6%20HBL%2007042020.pdf">P6 HBL 07.04.2020.pdf</a></p>
 <p><strong>Full HBL Letter &amp; Timetable for 13 April to 17 April<br></strong><a href="/files/Full%20Home%20Based%20Learning%20(Week%202)%20Letter.pdf">Full Home Based Learning (Week 2) Letter.pdf</a><br><a href="/files/RMPS%20FHBL%20Survival%20Guide.pdf">RMPS FHBL Survival Guide.pdf</a></p>
@@ -145,7 +150,7 @@ third_nav_title: Parents Information & Resource
 <p><strong>HBL Instruction for 19 to 22 October (PSLE Marking)<br></strong><a href="/files/Primary%201.pdf">Primary 1.pdf</a><br><a href="/files/Primary%202.pdf">Primary 2.pdf</a><br><a href="/files/Primary%203.pdf">Primary 3.pdf</a><br><a href="/files/Primary%204.pdf">Primary 4.pdf</a><br><a href="/files/Primary%205.pdf">Primary 5.pdf</a><br><a href="/files/Primary%206.pdf">Primary 6.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4"><h4><strong>ICT Guides</strong></h4></label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion4"><h4><strong>ICT Guides</strong></h4></label>
 <div>
 <table>
 <tbody>
