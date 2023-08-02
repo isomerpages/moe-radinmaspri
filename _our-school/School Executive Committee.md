@@ -152,7 +152,7 @@ description: ""
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
-			  <td align="center"><strong>ST Malay Language (Covering)<br>
+			  <td align="center"><strong>ST Malay Language<br>
 				</strong>Mdm Ariyanti Sukaimi</td>
       <td align="center">&nbsp;</td>
       <td align="center">&nbsp;</td>
