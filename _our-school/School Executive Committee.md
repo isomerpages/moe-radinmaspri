@@ -19,7 +19,7 @@ description: ""
       <td align="center"><strong>Vice Principal (Academic)<br>
       </strong>Mrs Linda Tan</td>
       <td align="center"><strong>Vice Principal (Admin)<br>
-      </strong>Mrs Mary Goh</td>
+      </strong>Ms Mary Goh</td>
     </tr>
     <tr>
       <td><a href="mailto:muhd_farizal_umar_effe@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
