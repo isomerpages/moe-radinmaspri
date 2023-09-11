@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.jpg
+      background: /images/web-banner.gif
       key_highlights:
         - title: Vision & Misson
           description: ""
