@@ -4,7 +4,7 @@ permalink: /making-our-mark/rmps-in-the-news/
 description: ""
 ---
 <ol>
-<li><a href="https://www.facebook.com/story.php?story_fbid=pfbid01HH8G6VzesgS6h7egPCvHmn8NkCiqjNcXSNiercn7fnc8FGnedPdkRjBCK5DsoRCl&amp;id=100058037110561&amp;mibextid=Nif5oz">Bukit Purmei Mid-Autumn Festival Celebration 2023</a></li>
+<li><a target="_blank" href="https://www.facebook.com/story.php?story_fbid=pfbid01HH8G6VzesgS6h7egPCvHmn8NkCiqjNcXSNiercn7fnc8FGnedPdkRjBCK5DsoRCl&amp;id=100058037110561&amp;mibextid=Nif5oz">Bukit Purmei Mid-Autumn Festival Celebration 2023</a></li>
 <li>Tamil Murasu interviewing Inbappugal Kumarappan from Radin Mas Primary School, to share on his interest in Hockey through DSA.&nbsp;<a href="/files/Tamil%20Murasu.pdf">Tamil Murasu.pdf</a></li>
 <li>RMPS is featured in Straits Times Singapore Interactive: "How have school design in S'pore changed through the decades?" on 25 April 2022 <a href="https://www.straitstimes.com/singapore/interactive-how-have-school-designs-in-s%E2%80%99pore-changed-through-the-decades" target="_blank" rel="noopener">https://www.straitstimes.com/singapore/interactive-how-have-school-designs-in-s%E2%80%99pore-changed-through-the-decades</a></li>
 <li><a href="https://berita.mediacorp.sg/mobilem/singapura/para-pengetua-ini-tawar-nasihat-kepada-ibu-bapa-berhubung-skor/4603034.html" target="">BERITA mediacorp</a>&nbsp;featured RMPS Principal Mr Farizal on 28 April 2021. Facebook post:&nbsp;<a href="https://www.facebook.com/141669345846283/posts/4355150564498119/" target="_blank" rel="noopener">https://www.facebook.com/141669345846283/posts/4355150564498119/</a></li>
