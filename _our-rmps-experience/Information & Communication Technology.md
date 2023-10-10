@@ -4,7 +4,7 @@ permalink: /our-rmps-experiences/information-n-communication-technology/
 description: ""
 ---
 <p>Our Department Photo</p>
-<img src="/images/info.jpg">
+<img src="/images/Dept%202023/ict_2023.jpg">
 <table>
 <tbody>
 <tr>
@@ -81,10 +81,10 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%;">
-<p>Design Week is a part of the &lsquo;Everyone a Maker&rsquo; programme which runs during the three recesses for a week to inculcate the Maker spirit among students through play. Students are given challenges to exercise their design and computational thinking in designing functional products and showcasing them. Through these activities, students get to design, tinker and iterate on ideas and make products.</p>
+<p>Design Week is a part of the ‘Everyone a Maker’ programme which runs during the three recesses for a week to inculcate the Maker spirit among students through play. Students are given challenges to exercise their design and computational thinking in designing functional products and showcasing them. Through these activities, students get to design, tinker and iterate on ideas and make products.</p>
 </td>
 <td style="width: 33.3333%;">
-<p>The focus of the Cyberwellness curriculum is about helping students to become responsible digital learners through CW lessons in the curriculum and school-wide programmes. Cyberwellness assemblies and activities designed and created by the school&rsquo;s Cyberwellness Ambassadors are carried out during recesses to educate students on the importance of Cyberwellness and to guide them on the correct usage of the internet.</p>
+<p>The focus of the Cyberwellness curriculum is about helping students to become responsible digital learners through CW lessons in the curriculum and school-wide programmes. Cyberwellness assemblies and activities designed and created by the school’s Cyberwellness Ambassadors are carried out during recesses to educate students on the importance of Cyberwellness and to guide them on the correct usage of the internet.</p>
 </td>
 <td style="width: 33.3333%;">
 <p>The Baseline ICT Skills and New Media Literacies is a set of ICT and literacy skill competencies that students will be exposed to during the School Based Curriculum. It is intended to equip students with knowledge, skills and values during their six years to become future-ready and responsible digital learners.</p>
