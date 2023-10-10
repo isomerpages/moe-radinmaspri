@@ -4,7 +4,7 @@ permalink: /our-rmps-experiences/english/
 description: ""
 ---
 <p>Our Department Photo</p>
-<img src="/images/eng.jpg">
+<img src="/images/Dept%202023/english.jpg">
 <table>
 <tbody>
 <tr>
