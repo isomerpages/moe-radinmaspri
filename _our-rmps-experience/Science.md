@@ -4,7 +4,7 @@ permalink: /our-rmps-experiences/science/
 description: ""
 ---
 <p>Our Department Photo</p>
-<img src="/images/sci.jpg">
+<img src="/images/Dept%202023/science.jpg">
 <table>
 <tbody>
 <tr>
