@@ -4,7 +4,7 @@ permalink: /our-rmps-experiences/mother-tongue/
 description: ""
 ---
 <p>Our Department Photo</p>
-<img src="/images/mt.jpg">
+<img src="/images/Dept%202023/mothertongue.jpg">
 <table>
 <tbody>
 <tr>
