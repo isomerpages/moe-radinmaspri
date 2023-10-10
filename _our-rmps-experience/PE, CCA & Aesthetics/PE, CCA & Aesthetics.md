@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PE, CCA & Aesthetics
 ---
 <p>Our Department Photo</p>
-<img src="/images/pe.jpg">
+<img src="/images/Dept%202023/pe_cca_aesthetics.jpg">
 <table>
 <tbody>
 <tr>
