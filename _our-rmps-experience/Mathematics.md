@@ -4,7 +4,7 @@ permalink: /our-rmps-experiences/mathematics/
 description: ""
 ---
 <p>Our Department Photo</p>
-<img src="/images/math.jpg">
+<img src="/images/Dept%202023/math_2023.jpg">
 <table>
 <tbody>
 <tr>
