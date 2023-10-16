@@ -3,7 +3,8 @@ title: School Executive Committee
 permalink: /our-school/school-executive-committee/
 description: ""
 ---
-<img src="/images/sec.jpg">
+
+<img src="/images/Dept%202023/exco_2023.jpg">
 <h4><strong>School Leaders</strong></h4>
 <hr>
 <table width="100%" border="0">

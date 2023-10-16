@@ -4,7 +4,7 @@ permalink: /our-school/staff/our-2023-form-teachers-p1-to-p6/
 description: ""
 ---
 <h3><strong>Our 2023 Form Teachers (P1 to P6)</strong></h3>
-<img src="/images/staff.jpg">
+<img src="/images/Dept%202023/all_staff.jpg">
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>Our P1 Form Teachers 2023</strong></h4></label>
 <div>

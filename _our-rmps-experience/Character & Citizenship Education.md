@@ -1,10 +1,10 @@
 ---
-title: Character &amp; Citizenship Education
+title: Character & Citizenship Education
 permalink: /our-rmps-experiences/character-n-citizenship-education/
 description: ""
 ---
 <p>Our Department Photo</p>
-<img src="/images/cce.jpg">
+<img src="/images/Dept%202023/cce_2023.jpg">
 <table>
 <tbody>
 <tr>

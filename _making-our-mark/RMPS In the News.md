@@ -4,7 +4,8 @@ permalink: /making-our-mark/rmps-in-the-news/
 description: ""
 ---
 <ol>
-	<li><a target="_blank" href="https://www.instagram.com/reel/CrQNdBHJntP/?igshid=MzRlODBiNWFlZA==">STEM Challenge 1: Build a bridge that can support ~1kg. RMPS won 3rd place.</a></li>
+	<li><a target="_blank" href="https://www.facebook.com/moesingapore/videos/3596895123886874/">Laser mazes, mirror tricks, and colourful bubbles - all at Science Centre Singapore's Travelling Light Exhibition! </a>
+	</li><li><a target="_blank" href="https://www.instagram.com/reel/CrQNdBHJntP/?igshid=MzRlODBiNWFlZA==">STEM Challenge 1: Build a bridge that can support ~1kg. RMPS won 3rd place.</a></li>
 		<li><a target="_blank" href="https://www.instagram.com/reel/CwzoB71Bdbs/?igshid=MzRlODBiNWFlZA==">STEM Challenge 2: Build a boat that can float with 100g mass for 20 seconds. RMPS won 4th place.</a></li>
 <li><a target="_blank" href="https://www.facebook.com/story.php?story_fbid=pfbid01HH8G6VzesgS6h7egPCvHmn8NkCiqjNcXSNiercn7fnc8FGnedPdkRjBCK5DsoRCl&amp;id=100058037110561&amp;mibextid=Nif5oz">Bukit Purmei Mid-Autumn Festival Celebration 2023</a></li>
 <li>Tamil Murasu interviewing Inbappugal Kumarappan from Radin Mas Primary School, to share on his interest in Hockey through DSA.&nbsp;<a href="/files/Tamil%20Murasu.pdf">Tamil Murasu.pdf</a></li>
