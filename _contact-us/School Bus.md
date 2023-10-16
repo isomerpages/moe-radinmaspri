@@ -27,6 +27,12 @@ description: ""
 </tbody>
 </table>
 
+<style>
+table, th, td {
+  border: 1px solid black !important;
+}
+</style>
+
 <p><u>Daily School Bus Services <strong>based on NOT to Exceed Price</strong> (i.e. for sending students from home to school and vice versa)</u></p>
 <table border="1" width="100%">
   <tbody>
