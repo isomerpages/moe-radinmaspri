@@ -18,7 +18,7 @@ description: ""
 </tr>
 <tr>
 <td>Tel</td>
-<td>: HP: +65 8896 3154 / +65 9772 3370 <hr> (For enquiries, please WhatsApp to the HP number.)&nbsp;</td>
+<td>: HP: +65 8896 3154<hr> (For enquiries, please WhatsApp to the HP number.)&nbsp;</td>
 </tr>
 <tr>
 <td>Email</td>
@@ -32,7 +32,7 @@ table, th, td {
   border: 1px solid black !important;
 }
 </style>
-
+<h3>Fares for 2024</h3>
 <p><u>Daily School Bus Services <strong>based on NOT to Exceed Price</strong> (i.e. for sending students from home to school and vice versa)</u></p>
 <table border="1" width="100%">
   <tbody>
@@ -80,4 +80,3 @@ table, th, td {
   </tbody>
 </table>
 <p>&nbsp;</p>
-
