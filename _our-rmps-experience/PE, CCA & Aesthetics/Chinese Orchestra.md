@@ -5,8 +5,11 @@ description: ""
 third_nav_title: PE, CCA & Aesthetics
 ---
 <h4><strong>Our CCA</strong></h4>
-<p>Chinese Orchestra is one of the niche CCAs in Radin Mas Primary School. It was first set up in 1985 with the aim of nurturing student musicians. The Chinese Orchestra seeks to provide various platforms within and outside school such as Chinese New Year Celebration and Mid-Autumn Festival for our members to gain performing experiences and hone their musicianship in the process.</p>
-<p>Since 1990, the Chinese Orchestra has been participating in the biannual Singapore Youth Festival and has always been performing exceptionally well. Such consistency could only be possible through rigour and hardwork, values which are instilled in members of the Chinese Orchestra.</p>
+<p>Radin Mas Primary School has a rich tradition of  fostering musical talents through our CCA, the Chinese Orchestra, established  in 1985. Over the years, our Chinese Orchestra has been a platform for  nurturing student musicians and providing opportunities for performance,  including Chinese New Year Celebrations and the Mid-Autumn Festival.</p>
+<p>Since 1990, our Chinese Orchestra has  consistently participated in the biannual Singapore Youth Festival, a testament  to the dedication, rigor, and hard work instilled in our members.</p>
+<p>In 2024, we are embarking on an exciting  journey as we introduce the Chinese String Ensemble, welcoming P3 and P4  students to explore the world of Chinese string instruments. P5 and P6 students  will continue to pursue their passion with their current instruments, marking  the culmination of the Chinese Orchestra's legacy.</p>
+<p>This transition signifies a new chapter in  our CCA offerings, as we evolve to meet the interests and aspirations of our  students. We are proud to nurture a new generation of musicians in the Chinese  String Ensemble, and we thank the Chinese Orchestra for its longstanding contributions  to our school's musical heritage. </p>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
