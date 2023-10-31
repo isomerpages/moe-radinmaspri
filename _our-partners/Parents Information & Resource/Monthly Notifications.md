@@ -22,6 +22,8 @@ third_nav_title: Parents Information & Resource
 	</p>
 	<p><strong>October<br></strong><a target="_blank" href="/files/Monthly%20Notifications/oct%202023%20notification%20for%20parents.pdf">Oct 2023 Notification for Parents</a>
 	</p>
+	<p><strong>November<br></strong><a target="_blank" href="/files/Monthly%20Notifications/nov%202023%20notification%20for%20parents.pdf">Nov 2023 Notification for Parents</a>
+	</p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2022</strong></label>
