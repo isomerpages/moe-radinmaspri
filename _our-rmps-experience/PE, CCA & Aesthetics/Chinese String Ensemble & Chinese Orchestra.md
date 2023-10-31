@@ -13,20 +13,9 @@ third_nav_title: PE, CCA & Aesthetics
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/co1.png"></td>
-<td style="width: 33.3333%;"><img src="/images/co2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/co3.png"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p>Students practising during rehearsals at SCH for SYF 2018</p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p>Students practising during rehearsals at SCH for SYF 2018</p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p>Students taking a group photo after SYF 2018</p>
-</td>
+<td style="width: 33.3333%;"><img src="/images/chinese-string1.jpeg"></td>
+<td style="width: 33.3333%;"><img src="/images/chinese-string2.jpeg"></td>
+<td style="width: 33.3333%;"><img src="/images/chinese-string3.jpeg"></td>
 </tr>
 </tbody>
 </table>
