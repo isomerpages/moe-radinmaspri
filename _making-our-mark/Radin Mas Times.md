@@ -815,8 +815,8 @@ variant: markdown
 </li>
 <li><input id="accordion9" type="checkbox"> <label for="accordion9"><strong>2023</strong></label>
 <div>
-<p><a target="_blank" href="/files/radin%20mas%20times%202023%20sem%201.pdf">Radin Mas Times 2023 Sem 1</a></p>
-<p><a target="_blank" href="/files/Radin_Mas_Times__Sem2_.pdf">Radin Mas Times 2023 Sem 2</a></p>
+<a target="_blank" href="/files/radin%20mas%20times%202023%20sem%201.pdf">Radin Mas Times 2023 Sem 1</a><br>
+<a target="_blank" href="/files/Radin_Mas_Times__Sem2_.pdf">Radin Mas Times 2023 Sem 2</a>
 </div>
 </li>
 </ul>
