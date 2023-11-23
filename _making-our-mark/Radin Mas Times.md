@@ -2,6 +2,7 @@
 title: Radin Mas Times
 permalink: /making-our-mark/radin-mas-times/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2018 Edition</strong></label>
@@ -815,6 +816,7 @@ description: ""
 <li><input id="accordion9" type="checkbox"> <label for="accordion9"><strong>2023 Semester 1 Edition</strong></label>
 <div>
 <p><a target="_blank" href="/files/radin%20mas%20times%202023%20sem%201.pdf">Radin Mas Times 2023 Sem 1</a></p>
+<p><a target="_blank" href="/files/Radin_Mas_Times__Sem2_.pdf">Radin Mas Times 2023 Sem 2</a></p>
 </div>
 </li>
 </ul>
