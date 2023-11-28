@@ -34,7 +34,7 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 177px;">Nearest MRT Station</td>
-<td style="width: 510px;">: Tiong Bahru / Harbourfront</td>
+<td style="width: 510px;">: Tiong Bahru (EW17) / Harbourfront (NE1/CC29)</td>
 </tr>
 <tr>
 <td style="width: 177px;">Bus Services</td>
