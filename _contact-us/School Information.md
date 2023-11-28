@@ -38,8 +38,8 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 177px;">Bus Services</td>
-	<td style="width: 510px;"><p>123 / 123M / 131 / 131M for to Bukit Purmei</p>
-<p>123 / 123M / 131 / 131M / 855 / 195 / 121 / 65 to Lower Delta (bus stop infront and opposite of St Theresa's Convent)</p></td>
+	<td style="width: 510px;">123 / 123M / 131 / 131M for to Bukit Purmei<br><br>
+123 / 123M / 131 / 131M / 855 / 195 / 121 / 65 to Lower Delta (bus stop infront and opposite of St Theresa's Convent)</td>
 </tr>
 </tbody>
 </table>
