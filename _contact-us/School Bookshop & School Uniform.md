@@ -2,6 +2,7 @@
 title: School Bookshop & School Uniform
 permalink: /contact-us/school-bookshop-n-school-uniform/
 description: ""
+variant: markdown
 ---
 <table>
 <tbody>
@@ -57,7 +58,7 @@ description: ""
 </tr>
 <tr>
 <td>Website:</td>
-<td><a href="http://www.beauvoix.com/">www.beauvoix.com</a></td>
+<td><a href="https://www.beauvoix.com.sg/products/radin-mas-primary-school">https://www.beauvoix.com.sg/products/radin-mas-primary-school</a></td>
 </tr>
 <tr>
 <td>Email:</td>
