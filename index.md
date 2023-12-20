@@ -36,4 +36,20 @@ sections:
       subtitle: Information & Resources
       button: Find out more
       url: /our-partners/parents-information-n-resources/monthly-notifications/
+  - textcards:
+      title: INFORMATION & RESOURCES
+      id: textcards
+      cards:
+        - title: Students' Portal
+          description: ""
+          linktext: "FIND OUT MORE "
+          url: https://www.radinmaspri.moe.edu.sg/our-partners/students-portal/
+        - title: Parents' Portal
+          description: ""
+          linktext: FIND OUT MORE
+          url: https://www.radinmaspri.moe.edu.sg/our-partners/parents-information-n-resources/monthly-notifications/
+        - title: Parent Volunteer Application
+          description: ""
+          linktext: FIND OUT MORE
+          url: ""
 ---
