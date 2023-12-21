@@ -26,14 +26,20 @@ sections:
   - resources:
       title: Announcements
       button: More announcements
-  - infobar:
-      title: Students' Portal
-      subtitle: Information & Resources
-      button: Find out More
-      url: /our-partners/students-portal/
-  - infobar:
-      title: Parents' Portal
-      subtitle: Information & Resources
-      button: Find out more
-      url: /our-partners/parents-information-n-resources/monthly-notifications/
+  - textcards:
+      title: INFORMATION & RESOURCES
+      id: textcards
+      cards:
+        - title: Students' Portal
+          description: ""
+          linktext: FIND OUT MORE
+          url: https://www.radinmaspri.moe.edu.sg/our-partners/students-portal/
+        - title: Parents' Portal
+          description: ""
+          linktext: FIND OUT MORE
+          url: https://www.radinmaspri.moe.edu.sg/our-partners/parents-information-n-resources/monthly-notifications/
+        - title: Parent Volunteer Application Form
+          description: ""
+          linktext: FIND OUT MORE
+          url: https://go.gov.sg/rmps-pv-2024
 ---
