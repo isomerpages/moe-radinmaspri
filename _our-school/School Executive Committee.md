@@ -2,6 +2,7 @@
 title: School Executive Committee
 permalink: /our-school/school-executive-committee/
 description: ""
+variant: markdown
 ---
 
 <img src="/images/Dept%202023/exco_2023.jpg">
@@ -11,14 +12,14 @@ description: ""
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/MrFarizal.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MrsTan.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MsGoh.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MrsTan_NgLiYi_.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>Principal<br>
       </strong>Mr Muhammad Farizal Bin Umar Effendi</td>
       <td align="center"><strong>Vice Principal (Academic)<br>
-      </strong>Mrs Linda Tan</td>
+      </strong>Mdm Ng Li Yi</td>
       <td align="center"><strong>Vice Principal (Admin)<br>
       </strong>Ms Mary Goh</td>
     </tr>
