@@ -39,7 +39,9 @@ sections:
           linktext: FIND OUT MORE
           url: https://www.radinmaspri.moe.edu.sg/our-partners/parents-information-n-resources/monthly-notifications/
         - title: Parent Volunteer Application Form
-          description: ""
+          description: |-
+            Application Period:
+            29th Dec till 31st Jan
           linktext: FIND OUT MORE
           url: https://go.gov.sg/rmps-pv-2024
 ---
