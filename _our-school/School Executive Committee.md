@@ -43,7 +43,7 @@ variant: markdown
     <tr>
       <td align="center"><strong>HOD English Language<br>
       </strong>Mr Goh Sheow En</td>
-      <td align="center"><strong>LH English Language (Covering)<br>
+      <td align="center"><strong>LH English Language<br>
       </strong>Mdm Wong Si En Lydia</td>
       <td align="center">&nbsp;</td>
     </tr>
@@ -316,7 +316,7 @@ variant: markdown
       </strong>Mdm Rosmawati Ali</td>
       <td align="center"><strong>ST Learners Profile (High Ability Learners)<br>
       </strong>Mrs Elizabeth Elaine Lim Lixian</td>
-      <td align="center"><strong>ST Learners Profile (Special Educational Needs) (Covering)<br>
+      <td align="center"><strong>ST Learners Profile (Special Educational Needs)<br>
       </strong>Mdm Roszanah Kamarudin</td>
     </tr>
     <tr>
