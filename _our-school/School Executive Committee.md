@@ -4,7 +4,6 @@ permalink: /our-school/school-executive-committee/
 description: ""
 variant: markdown
 ---
-
 <img src="/images/Dept%202023/exco_2023.jpg">
 <h4><strong>School Leaders</strong></h4>
 <hr>
@@ -25,7 +24,7 @@ variant: markdown
     </tr>
     <tr>
       <td><a href="mailto:muhd_farizal_umar_effe@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:Linda_LAU@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:NG_Li_Yi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:mary_goh@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
   </tbody>
