@@ -31,7 +31,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Tel:&nbsp;</td>
-<td>6929 8012 / 6559 2269</td>
+<td>6377 0933</td>
 </tr>
 <tr>
 <td>Website:</td>
