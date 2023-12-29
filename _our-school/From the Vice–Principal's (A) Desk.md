@@ -2,8 +2,9 @@
 title: From the Vice–Principal's (A) Desk
 permalink: /our-school/from-the-vice-principals-a-desk/
 description: ""
+variant: markdown
 ---
-![](/images/MsGoh-message.jpg)
+![](/images/MsGoh_message_2024.jpg)
 
 My entry into the world had shaped my values, which continued to guide me in my career and life journey. Every day I count my blessings having been born prematurely because of an accident.
 
@@ -15,5 +16,5 @@ The quote from our founding Prime Minister Lee Kuan Yew resonates with me. Build
 
 <em>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do ~</em> Mother Teresa
 
-<strong>Miss Mary Goh<br /></strong>
+<strong>Ms Mary Goh<br></strong>
 <strong>Vice-Principal (Admin)</strong>
