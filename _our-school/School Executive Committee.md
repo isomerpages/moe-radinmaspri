@@ -12,7 +12,7 @@ variant: markdown
     <tr>
       <td width="33.33%"><img src="/images/EXCO/MrFarizal.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/MrsTan_NgLiYi_.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024_v2.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>Principal<br>
