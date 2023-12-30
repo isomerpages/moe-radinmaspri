@@ -4,7 +4,7 @@ permalink: /our-school/from-the-vice-principals-a-desk/
 description: ""
 variant: markdown
 ---
-![](/images/MsGoh_message_2024.jpg)
+![](/images/MsGoh_message_2024_v2.jpg)
 
 My entry into the world had shaped my values, which continued to guide me in my career and life journey. Every day I count my blessings having been born prematurely because of an accident.
 
