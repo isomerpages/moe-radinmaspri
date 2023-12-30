@@ -2,16 +2,17 @@
 title: From the Vice–Principal's (EO) Desk
 permalink: /our-school/from-the-vice-principals-eo-desk/
 description: ""
+variant: markdown
 ---
-![](/images/MrsTan-message.jpg)
+![](/images/MrsTan_NgLiYi__message.jpg)
 
-It is an honour and a privilege to be posted to Radin Mas Primary School (RMPS) and I look forward to meeting and working with the pupils, parents, staff, school leaders and other stakeholders in this close-knitted community.
+I'm excited to be joining a vibrant and welcoming community at Radin Mas Primary School and I look forward to getting to know all of you.
 
-I believe every child has the ability to learn, unlearn and relearn. Learning is a journey, not a destination. It is my hope and dream that every child who passes through the gates of RMPS will find joy and meaning in learning; but more importantly, to grow to become a gracious and respectful person with sound values which will serve as the moral compass to guide him or her in life.
+In my journey as an educator, what I hold close to my heart is empowering others to thrive. This means creating an environment where every student is seen, heard, and valued. Every child deserves a nurturing environment where curiosity is ignited, talents are nurtured, and individual strengths are celebrated. It also means fostering a collaborative spirit among colleagues, where we share best practices, learn from one another, and constantly strive to innovate and improve.
 
-Recalling my own school days, I had been given ample opportunities in school to discover, learn and grow. I remember fondly the weekly morning assemblies in school where the principal and teachers then painstakingly inculcated values and the right habits in us, one of which is the meaning behind the Chinese idiom 饮水思源 (to remember your roots and to show gratitude), which I hold dearly to till today. I grew up with the belief that if you are anchored in sound values and with hard work and resilience, you can unleash your potential and achieve your dreams. With this, I hope that in my interaction with the pupils of RMPS, I will be able to pass on these values and the right mindset to them.
+In this ever-changing landscape, student wellbeing is the foundation upon which 21st-century skills flourish. Innovation and critical thinking require strong minds and resilient spirits. Let us work together to support our children’s wellbeing and build a strong sense of community to empower them to face challenges with confidence, ready to leave a positive imprint on generations to come.
 
-As the African proverb goes, "It takes a village to raise a child." I look forward to a strong partnership with parents, staff and the community in guiding and supporting our pupils to discover and fulfil their dreams.
+Together as a school community, we will strive to make a mark, not just within these walls, but on the world beyond, through the well-rounded individuals we help develop, the positive values we instill, and the impact we make on our community.
 
-<strong>Mrs Linda Tan<br />
+<strong>Mdm Ng Li Yi<br>
 Vice-Principal (Academic)</strong>

@@ -2,8 +2,8 @@
 title: School Executive Committee
 permalink: /our-school/school-executive-committee/
 description: ""
+variant: markdown
 ---
-
 <img src="/images/Dept%202023/exco_2023.jpg">
 <h4><strong>School Leaders</strong></h4>
 <hr>
@@ -11,20 +11,20 @@ description: ""
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/MrFarizal.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MrsTan.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MsGoh.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MrsTan_NgLiYi_.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>Principal<br>
       </strong>Mr Muhammad Farizal Bin Umar Effendi</td>
       <td align="center"><strong>Vice Principal (Academic)<br>
-      </strong>Mrs Linda Tan</td>
+      </strong>Mdm Ng Li Yi</td>
       <td align="center"><strong>Vice Principal (Admin)<br>
       </strong>Ms Mary Goh</td>
     </tr>
     <tr>
       <td><a href="mailto:muhd_farizal_umar_effe@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:Linda_LAU@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:NG_Li_Yi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:mary_goh@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
   </tbody>
@@ -42,7 +42,7 @@ description: ""
     <tr>
       <td align="center"><strong>HOD English Language<br>
       </strong>Mr Goh Sheow En</td>
-      <td align="center"><strong>LH English Language (Covering)<br>
+      <td align="center"><strong>LH English Language<br>
       </strong>Mdm Wong Si En Lydia</td>
       <td align="center">&nbsp;</td>
     </tr>
@@ -315,7 +315,7 @@ description: ""
       </strong>Mdm Rosmawati Ali</td>
       <td align="center"><strong>ST Learners Profile (High Ability Learners)<br>
       </strong>Mrs Elizabeth Elaine Lim Lixian</td>
-      <td align="center"><strong>ST Learners Profile (Special Educational Needs) (Covering)<br>
+      <td align="center"><strong>ST Learners Profile (Special Educational Needs)<br>
       </strong>Mdm Roszanah Kamarudin</td>
     </tr>
     <tr>
