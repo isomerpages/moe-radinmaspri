@@ -18,7 +18,7 @@ variant: markdown
       <td align="center"><strong>Principal<br>
       </strong>Mr Muhammad Farizal Bin Umar Effendi</td>
       <td align="center"><strong>Vice Principal (Academic)<br>
-      </strong>Mdm Ng Li Yi</td>
+      </strong>Mrs Tan Li Yi</td>
       <td align="center"><strong>Vice Principal (Admin)<br>
       </strong>Ms Mary Goh</td>
     </tr>

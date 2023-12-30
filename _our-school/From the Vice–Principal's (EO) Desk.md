@@ -14,5 +14,5 @@ In this ever-changing landscape, student wellbeing is the foundation upon which 
 
 Together as a school community, we will strive to make a mark, not just within these walls, but on the world beyond, through the well-rounded individuals we help develop, the positive values we instill, and the impact we make on our community.
 
-<strong>Mdm Ng Li Yi<br>
+<strong>Mrs Tan Li Yi<br>
 Vice-Principal (Academic)</strong>
