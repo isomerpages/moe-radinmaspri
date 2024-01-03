@@ -3,6 +3,7 @@ title: Choir
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/choir/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <h4><strong>Our CCA</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwP2QdGMT3-pNCXSgIHkPZCGLftMuYHnUtacKPG6JwC1aYsPZhOsYNHpDVdqBKf7cGYtIxD9S0Ejtf/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -21,8 +22,8 @@ third_nav_title: PE, CCA & Aesthetics
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
 <li>Miss Lydia Chin Chir Hoe</li>
-<li>Mdm Cindy Chang</li>
 <li>Mdm Faizah</li>
+	<li>Ms Nurhanis Binte Aziz</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>

@@ -3,6 +3,7 @@ title: Environmental Science
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/environmental-science/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <h4><strong>Our CCA</strong></h4>
 <p>The Environmental Science Club aims to raise awareness among students about environmental issues and to educate and cultivate an appreciation and interest in the environment. Club members will be engaged in various environmental activities such as waste management, composting, energy saving, recycling, planting and biodiversity conservation. As members of the club, students are trained to become environmental ambassadors who will lead their peers in school-based environmental activities and events. This will serve to instill in their peers, a sense of responsibility for the environment and a personal commitment to protect and preserve the environment.</p>
@@ -25,6 +26,7 @@ third_nav_title: PE, CCA & Aesthetics
 <li>Mr Lewis Thong</li>
 <li>Mdm Juliana Choy Mingzi</li>
 <li>Mdm Cindy Han Qiuyan</li>
+	<li>Mrs Tan Khim Yong</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>

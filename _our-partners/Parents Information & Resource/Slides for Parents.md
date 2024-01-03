@@ -12,7 +12,10 @@ variant: markdown
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/2023_School_Tour.pdf">School Tour</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/Finance_Matters.pdf">Finance Matters</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/ParentLink_P1Orientation_2023.pdf">Parent Link </a></p>
-</div>
+<p><u><strong>Parents' Briefing Slides<br></strong></u>
+	<strong>Primary 1</strong><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/English_P1_2024.pdf">EL P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mathematics_P1_2024.pdf">Ma P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mother_Tongue_Languages_P1_2024.pdf">MT P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/PE_Music_Art_P1_2024.pdf">PAM P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Transition_to_P1_2024.pdf">Transition to P1 Briefing 2024</a>	
+</p></div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
 <div>

@@ -3,6 +3,7 @@ title: Art and Crafts
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/art-and-crafts/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <h4><strong>Our CCA</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBDhhBxyDGAaBd0hdBG8c3VsYyfvehob-dvGZssb-66uECZVEfDgCm8B64FpbN3p0Qqi9Gy5y-yihQ/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -20,9 +21,10 @@ third_nav_title: PE, CCA & Aesthetics
 </table>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
+	<li>Mrs Jayakumar</li>
 <li>Mdm Ariyanti Sukaimi</li>
-<li>Mrs Jayakumar</li>
 <li>Ms Gioann Lim</li>
+	<li>Mdm Lee Pik Khuen</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>

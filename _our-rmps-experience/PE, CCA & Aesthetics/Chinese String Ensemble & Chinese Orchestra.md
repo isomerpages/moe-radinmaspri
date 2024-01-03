@@ -3,6 +3,7 @@ title: Chinese String Ensemble & Chinese Orchestra
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/chinese-orchestra-string-ensemble/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <h4><strong>Our CCA</strong></h4>
 <p>Radin Mas Primary School has a rich tradition of  fostering musical talents through our CCA, the Chinese Orchestra, established  in 1985. Over the years, our Chinese Orchestra has been a platform for  nurturing student musicians and providing opportunities for performance,  including Chinese New Year Celebrations and the Mid-Autumn Festival.</p>
@@ -21,10 +22,10 @@ third_nav_title: PE, CCA & Aesthetics
 </table>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
-<li>Mdm Chua Siu Git</li>
 <li>Mdm Chen Qi</li>
 <li>Mdm Chua Geok Pei</li>
-<li>Mdm Poh Chiew Hui</li>
+	<li>Mdm Annie Tang Li Meng</li>
+<li>Miss Sharon Tai Soon Yee</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>

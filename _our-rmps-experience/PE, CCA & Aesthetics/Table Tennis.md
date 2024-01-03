@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/table-tennis/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <h4><strong>Our CCA</strong></h4>
 <p>RMPS Table Tennis CCA hopes to cultivate a sense of appreciation and passion for table tennis in our students as well as develop their skills in the sport.</p>
@@ -29,10 +30,10 @@ third_nav_title: PE, CCA & Aesthetics
 </table>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
-<li>Mdm Lena Lee Lai Wan&nbsp;</li>
+<li>Mdm Lena Lee Lai Wan</li>
 <li>Ms Che Lei</li>
 <li>Mdm Hou Lin</li>
-<li>Ms Olivia Tan</li>
+<li>Mr Yeong Cheng Yue Raphael</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>

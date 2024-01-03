@@ -3,6 +3,7 @@ title: Scouts
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/scouts/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <h4><strong>Our CCA</strong></h4>
 <p>Radin Mas Dragon Cub Scouts is a uniformed group CCA that helps to develop the physical, intellectual, emotional and social capacity of our students. We train our cub scouts to be well-versed in outdoor skills and place utmost importance in the inculcation of values.</p>
@@ -31,7 +32,9 @@ third_nav_title: PE, CCA & Aesthetics
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
 <li>Mr Roshan Naseer Ameer</li>
-<li>Mdm Siti Nuriryani</li>
+<li>Mdm Tan Pei Shi Sandy</li>
+	<li>Mr Ng Kian Sin Charles</li>
+	<li>Mdm Mumtaz Bte Mohd Maideen</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>
