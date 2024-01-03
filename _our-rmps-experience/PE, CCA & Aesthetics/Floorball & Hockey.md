@@ -3,6 +3,7 @@ title: Floorball & Hockey
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/floorball-hockey/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <h4><strong>Our CCA</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRasowxR8p_vStNv_d8Jdns8OkQ5NhaIlct_nu6MJl537-tjZQ85TlR4PaXnOHSjvvWkuXqIxBzZ3YI/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -23,10 +24,12 @@ third_nav_title: PE, CCA & Aesthetics
 </table>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
-<li>Mrs Joyce Won (Mdm Joyce Goh)</li>
-<li>Mdm Nasheera</li>
 <li>Mr Peter Low</li>
-<li>Mdm Nurhanis</li>
+<li>Mdm Nasheera</li>
+<li>Ms Tan Wei Peng Olivia</li>
+	<li>Mrs Joyce Won (Mdm Joyce Goh)</li>
+<li>Mdm Siti Nuriryani Waled</li>
+	<li>Miss Lau Jing Yi Angeline</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>
