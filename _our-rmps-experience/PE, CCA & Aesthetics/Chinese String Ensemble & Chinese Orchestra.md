@@ -22,9 +22,9 @@ variant: markdown
 </table>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
+	<li>Mdm Annie Tang Li Meng</li>
 <li>Mdm Chen Qi</li>
 <li>Mdm Chua Geok Pei</li>
-	<li>Mdm Annie Tang Li Meng</li>
 <li>Miss Sharon Tai Soon Yee</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
