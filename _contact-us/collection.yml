@@ -1,0 +1,9 @@
+collections:
+  contact-us:
+    output: true
+    order:
+      - School Information.md
+      - School Bus.md
+      - Student Care.md
+      - School Bookshop & School Uniform.md
+      - SLS Support for Home–Based Learning.md

@@ -1,0 +1,45 @@
+---
+title: School Information
+permalink: /contact-us/school-information/
+description: ""
+variant: markdown
+---
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.830387294099!2d103.8216912147165!3d1.2750692990700148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1966a9604079%3A0x26f670625a9f13e1!2sRadin+Mas+Primary+School!5e0!3m2!1sen!2ssg!4v1537172355446" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<table>
+<tbody>
+<tr>
+<td>Address</td>
+<td>: 1 Bukit Purmei Avenue Singapore 099840</td>
+</tr>
+<tr>
+<td>Tel</td>
+<td>: +65 6273 3937</td>
+</tr>
+<tr>
+<td>Fax</td>
+<td>: +65 6276 3083</td>
+</tr>
+<tr>
+<td>Email</td>
+<td>: rmps@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Facebook</td>
+<td>:&nbsp;<a href="https://www.facebook.com/RadinMasPrimarySchool" target="_blank" rel="noopener">https://www.facebook.com/RadinMasPrimarySchool</a></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Getting Here</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="width: 177px;">Nearest MRT Station</td>
+<td style="width: 510px;">: Tiong Bahru (EW17) / Harbourfront (NE1/CC29)</td>
+</tr>
+<tr>
+<td style="width: 177px;">Bus Services</td>
+	<td style="width: 510px;">123 / 123M / 131 / 131M to Bukit Purmei<br><br>
+123 / 123M / 131 / 131M / 855 / 195 / 121 / 65 to Lower Delta (bus stop infront and opposite of St Theresa's Convent)</td>
+</tr>
+</tbody>
+</table>

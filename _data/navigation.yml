@@ -1,0 +1,12 @@
+logo: /images/logo.jpg
+links:
+  - title: Our School
+    collection: our-school
+  - title: Our RMPS Experiences
+    collection: our-rmps-experience
+  - title: Our Partners
+    collection: our-partners
+  - title: Making Our Mark
+    collection: making-our-mark
+  - title: Contact Us
+    collection: contact-us
