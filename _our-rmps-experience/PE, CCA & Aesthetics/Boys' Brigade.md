@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/boys-brigade/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <h4><strong>Our CCA</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6JYE27PlN51HDK9hl_IAGqNpHhTJJHql6hhqsVpcj0A3lnioL-sjmDDUrifDKH8avISiY38cB0Wlb/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -23,6 +24,7 @@ third_nav_title: PE, CCA & Aesthetics
 <ul>
 <li>Miss Chan May Ling</li>
 <li>Mdm Ivy Chan</li>
+	<li>Mdm Lau Wai Ping</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>
