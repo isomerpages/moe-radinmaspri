@@ -3,6 +3,7 @@ title: Basketball
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/basketball/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <h4><strong>Our CCA</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzQcCt4GHcEyXtf5keLaCILYgdUROFEnB3GR-qYmE4kG0D7DzT4akoGcxisQAmpzUPjk1BsWkozq--/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -21,10 +22,10 @@ third_nav_title: PE, CCA & Aesthetics
 </table>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
+	<li>Mr Lee Beng Sern</li>
 <li>Mr Liao Donglin</li>
-<li>Mr Lee Beng Sern</li>
 <li>Mdm Cindy Ong (Mrs Cindy Cheng)</li>
-<li>Mr Raphael Yeong</li>
+<li>Mdm Suguna Mary</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>
