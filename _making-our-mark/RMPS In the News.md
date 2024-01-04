@@ -2,8 +2,12 @@
 title: RMPS In the News
 permalink: /making-our-mark/rmps-in-the-news/
 description: ""
+variant: markdown
 ---
+[](/files/FPSP_on_Radin_Mas_SMC.pdf)
 <ol>
+	<li><a target="_blank" href="/files/FPSP_on_Radin_Mas_SMC.pdf">Making Food Available,24/7 </a>
+	</li>
 	<li><a target="_blank" href="https://www.facebook.com/moesingapore/videos/3596895123886874/">Laser mazes, mirror tricks, and colourful bubbles - all at Science Centre Singapore's Travelling Light Exhibition! </a>
 	</li><li><a target="_blank" href="https://www.instagram.com/reel/CrQNdBHJntP/?igshid=MzRlODBiNWFlZA==">STEM Challenge 1: Build a bridge that can support ~1kg. RMPS won 3rd place.</a></li>
 		<li><a target="_blank" href="https://www.instagram.com/reel/CwzoB71Bdbs/?igshid=MzRlODBiNWFlZA==">STEM Challenge 2: Build a boat that can float with 100g mass for 20 seconds. RMPS won 4th place.</a></li>
