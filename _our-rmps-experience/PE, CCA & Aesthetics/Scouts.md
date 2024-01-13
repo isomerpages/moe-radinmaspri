@@ -34,7 +34,6 @@ variant: markdown
 <li>Mr Roshan Naseer Ameer</li>
 <li>Mdm Tan Pei Shi Sandy</li>
 	<li>Mr Ng Kian Sin Charles</li>
-	<li>Mdm Mumtaz Bte Mohd Maideen</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>
