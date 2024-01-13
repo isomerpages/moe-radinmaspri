@@ -33,7 +33,7 @@ variant: markdown
 <li>Mdm Lena Lee Lai Wan</li>
 <li>Ms Che Lei</li>
 <li>Mdm Hou Lin</li>
-<li>Mr Yeong Cheng Yue Raphael</li>
+<li>Mdm Mumtaz Bte Mohd Maideen</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>
