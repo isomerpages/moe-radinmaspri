@@ -15,7 +15,9 @@ variant: markdown
 <p><u><strong>Parents' Briefing Slides<br></strong></u>
 	<strong>Primary 1</strong><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/English_P1_2024.pdf">EL P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mathematics_P1_2024.pdf">Ma P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mother_Tongue_Languages_P1_2024.pdf">MT P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/PE_Music_Art_P1_2024.pdf">PAM P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Transition_to_P1_2024.pdf">Transition to P1 Briefing 2024</a>	
-</p></div>
+</p><br>
+<b>Primary 6</b><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_Principal_s_Address_2024.pdf">P6 PTM Principal Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_YH_Address_2024.pdf">P6 PTM YH Address</a></div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
 <div>
