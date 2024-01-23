@@ -2,6 +2,7 @@
 title: Information & Communication Technology
 permalink: /our-rmps-experiences/information-n-communication-technology/
 description: ""
+variant: markdown
 ---
 <p>Our Department Photo</p>
 <img src="/images/Dept%202023/ict_2023.jpg">
@@ -15,11 +16,15 @@ description: ""
 <td style="text-align: center;">Mr Saravanan s/o Shanmugam</td>
 </tr>
 <tr>
-<td style="text-align: center;">Members</td>
+<td style="text-align: center;">Subject Head ICT</td>
+<td style="text-align: center;">Mdm Zuraidah Binte Saidin</td>
+</tr>
+<tr>
+<td style="text-align: center;">Subject Head Data Management (Covering)</td>
 <td style="text-align: center;">Miss Stella Zhang Wenxin</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Members</td>
 <td style="text-align: center;">Mdm Chua Geok Pei</td>
 </tr>
 <tr>
@@ -28,15 +33,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Lee Beng Sern&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Nanthini Krishnasamy</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Wu Zexin&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
