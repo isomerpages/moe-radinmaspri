@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Parents Information & Resource
 variant: markdown
 ---
-
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024</strong></label>
 <div>
@@ -19,12 +18,11 @@ variant: markdown
 </p><br>
 	<b>Primary 5</b><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Principal_Address_2024.pdf">P5 PTM Principal Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_YH_Address_2024.pdf">P5 PTM YH Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM__English_2024.pdf">P5 PTM English</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Ma_2024.pdf">P5 PTM Mathematics</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_MT_2024.pdf">P5 PTM Mother Tongue</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Science_2024.pdf">P5 PTM Science</a>
-</div>
-</li>
 	
 <b>Primary 6</b><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_Principal_s_Address_2024.pdf">P6 PTM Principal Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_YH_Address_2024.pdf">P6 PTM YH Address</a>
-
+</div>
+</li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
 <div>
 <p><u><strong>Primary 1 Orientation Slides (For 2023 Cohort)<br></strong></u><a href="/files/P1%20Orientation%20for%20Parents%2011%20Nov%202022.pdf">P1 Orientation for Parents 11 Nov 2022.pdf</a></p>
