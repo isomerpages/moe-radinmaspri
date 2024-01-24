@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - From the Students' Desk.md
       - School History.md
       - Vision, Mission, Values.md
       - School Crest.md
@@ -14,6 +13,7 @@ collections:
       - School Executive Committee.md
       - Staff.md
       - Discipline Philosophy & School Rules.md
+      - From the Students' Desk.md
       - Use of Personal Data.md
       - Calendar.md
       - School Social Network.md
