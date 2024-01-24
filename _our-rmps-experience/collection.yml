@@ -2,7 +2,6 @@ collections:
   our-rmps-experience:
     output: true
     order:
-      - From the Students' Desk.md
       - "RMPS Total Curriculum Framework: RMPS Experiences.md"
       - Uniquely Radin Mas/.keep
       - "Uniquely Radin Mas/Learning for Life Programme: Growth Mindset
