@@ -4,7 +4,7 @@ permalink: /our-rmps-experiences/from-the-students-desk/
 description: ""
 variant: markdown
 ---
-![](/images/Student-message.jpg)
+![](/images/kaiherng_message.jpg)
 
 Dear Radin Mas family,
 
@@ -20,4 +20,4 @@ Looking ahead to 2024, I hope that the Covid-19 pandemic will end once and for a
 
 I want to thank my parents and all my teachers, schoolmates and friends for guiding me along in this wonderful journey as without them I would not be where I am at today. Let us all Work Hard, Play Hard and Make a Mark!
 
-Tan Kai Herng, RMPS Head Prefect (2023/2024)
+**Tan Kai Herng, RMPS Head Prefect (2023/2024)**
