@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <ol>
-<li>RMPS collaboration with MediaCorp Malay news for an inaugural Broadcasting competition. published in Berita Harian on 29 Jan 2024<br><a target="_blank" href="https://berita.mediacorp.sg/singapura/juara-baca-berita-junior-cungkil-bakat-pelajar-jadi-penyampai-berita-tv-820556?fbclid=PAAaYYYFkV5r3raHno8I_IB4j7vlEFT5JwJMDJrzB9Z93Z6Rwcm7eh5R3ArFQ">Juara Baca BERITA Junior cungkil bakat pelajar jadi penyampai BERITA TV
+<li>RMPS collaboration with MediaCorp Malay news for an inaugural Broadcasting competition. published in Berita Harian on 29 Jan 2024:<br><a target="_blank" href="https://berita.mediacorp.sg/singapura/juara-baca-berita-junior-cungkil-bakat-pelajar-jadi-penyampai-berita-tv-820556?fbclid=PAAaYYYFkV5r3raHno8I_IB4j7vlEFT5JwJMDJrzB9Z93Z6Rwcm7eh5R3ArFQ">Juara Baca BERITA Junior cungkil bakat pelajar jadi penyampai BERITA TV
 </a>
 	</li>
 	<li>Radin Mas Primary FPSP students provided support for Radin Mas Community Food Bank vending machines featured in Radin Mas Cares, December 2023:<br><a target="_blank" href="/files/FPSP_on_Radin_Mas_SMC.pdf">Making Food Available,24/7</a>
