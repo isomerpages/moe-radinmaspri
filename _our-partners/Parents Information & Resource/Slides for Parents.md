@@ -14,20 +14,44 @@ variant: markdown
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/ParentLink_P1Orientation_2023.pdf">Parent Link </a></p>
 <p><u><strong>Parents' Briefing Slides<br></strong></u>
 	<strong>Primary 1</strong><br>
-<a target="_blank" href="/files/Slides%20for%20Parents/2024/English_P1_2024.pdf">EL P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mathematics_P1_2024.pdf">Ma P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mother_Tongue_Languages_P1_2024.pdf">MT P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/PE_Music_Art_P1_2024.pdf">PAM P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Transition_to_P1_2024.pdf">Transition to P1 Briefing 2024</a>	
-</p><br>
-	<b>Primary 5</b><br>
-<a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Principal_Address_2024.pdf">P5 PTM Principal Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_YH_Address_2024.pdf">P5 PTM YH Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM__English_2024.pdf">P5 PTM English</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Ma_2024.pdf">P5 PTM Mathematics</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_MT_2024.pdf">P5 PTM Mother Tongue</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Science_2024.pdf">P5 PTM Science</a>
-<br><br>
-<b>Primary 6</b><br>
-<a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_Principal_s_Address_2024.pdf">P6 PTM Principal Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_YH_Address_2024.pdf">P6 PTM YH Address</a>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/English_P1_2024.pdf">EL P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mathematics_P1_2024.pdf">Ma P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mother_Tongue_Languages_P1_2024.pdf">MT P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/PE_Music_Art_P1_2024.pdf">PAM P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Transition_to_P1_2024.pdf">Transition to P1 Briefing 2024<br>
+</a><br>
+<b>Primary 4</b><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_PTM__P_Address__2024.pdf">P4 PTM Principal Address 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_PTM__YH_Address__2024.pdf">P4 PTM YH Address 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Home_School_Partnership_to_Develop_EL_Writers_2024.pdf">P4 Home-School Partnership to Develop EL Writers 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Learning_Ma_Through_Hands_on_Activities_2024.pdf">P4 Learning Ma Through Hands-on Activites 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Familiarization_with_The_Pri_Sc_2024.pdf">P4 Familiarization with The Pri Sc 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Unlock_the_Learning_of_CL_Together_with_Your_Child_2024.pdf">P4 Unlock the Learning of CL Together with Your Child 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Unlock_the_Learning_of_ML_Together_with_Your_Child_2024.pdf">P4 Unlock the Learning of ML Together with Your Child 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Unlocking_the_Learning_of_TL_Together_with_Your_Child_2024.pdf">P4 Unlock the Learning of TL Together with Your Child 2024</a><br>
+  <br>
+  <b>Primary 5</b><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Principal_Address_2024.pdf">P5 PTM Principal Address</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_YH_Address_2024.pdf">P5 PTM YH Address</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM__English_2024.pdf">P5 PTM English</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Ma_2024.pdf">P5 PTM Mathematics</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_MT_2024.pdf">P5 PTM Mother Tongue</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Science_2024.pdf">P5 PTM Science</a>
+  <br><br>
+  <b>Primary 6</b><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_Principal_s_Address_2024.pdf">P6 PTM Principal Address</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_YH_Address_2024.pdf">P6 PTM YH Address</a></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
 <div>
 <p><u><strong>Primary 1 Orientation Slides (For 2023 Cohort)<br></strong></u><a href="/files/P1%20Orientation%20for%20Parents%2011%20Nov%202022.pdf">P1 Orientation for Parents 11 Nov 2022.pdf</a></p>
-<p><u></u><strong><u>Parents' Briefing Slides<br></u></strong><strong>Primary 1<br></strong><a href="/files/Principals%20P1%20Briefing%202023.pdf">Principals P1 Briefing 2023.pdf</a><br><a href="/files/EL_P1%20Parents%20Briefing%202023.pdf">EL_P1 Parents Briefing 2023.pdf</a><br><a href="/files/Ma_P1%20Parents%20Briefing%202023.pdf">Ma_P1 Parents Briefing 2023.pdf</a><br><a href="/files/MT_P1%20Parents%20Briefing%202023.pdf">MT_P1 Parents Briefing 2023.pdf</a><br><a href="/files/PAM_P1%20Parents%20Briefing%202023.pdf">PAM_P1 Parents Briefing 2023.pdf</a><br><a href="/files/CCE_P1%20Parents%20Briefing%202023.pdf">CCE_P1 Parents Briefing 2023.pdf</a><br><a href="/files/Montfort%20Care%20PSP%20Triple%20P_Parents%20Briefing%202023.pdf">Montfort Care PSP Triple P_Parents Briefing 2023.pdf</a></p>
-<p><strong>Primary 3<br></strong><a href="/files/P3%20PTM%20Slides%202023_VP.pdf">P3 PTM Slides 2023_VP.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_YH.pdf">P3 PTM Slides 2023_YH.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_EL.pdf">P3 PTM Slides 2023_EL.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_Ma.pdf">P3 PTM Slides 2023_Ma.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_MT.pdf">P3 PTM Slides 2023_MT.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_Sc.pdf">P3 PTM Slides 2023_Sc.pdf</a></p>
+<p><u></u><strong><u>Parents' Briefing Slides<br></u></strong><strong>Primary 1<br>
+</strong><a href="/files/Principals%20P1%20Briefing%202023.pdf">Principal P1 Briefing 2023.pdf</a><br><a href="/files/EL_P1%20Parents%20Briefing%202023.pdf">EL_P1 Parents Briefing 2023.pdf</a><br><a href="/files/Ma_P1%20Parents%20Briefing%202023.pdf">Ma_P1 Parents Briefing 2023.pdf</a><br><a href="/files/MT_P1%20Parents%20Briefing%202023.pdf">MT_P1 Parents Briefing 2023.pdf</a><br><a href="/files/PAM_P1%20Parents%20Briefing%202023.pdf">PAM_P1 Parents Briefing 2023.pdf</a><br><a href="/files/CCE_P1%20Parents%20Briefing%202023.pdf">CCE_P1 Parents Briefing 2023.pdf</a><br><a href="/files/Montfort%20Care%20PSP%20Triple%20P_Parents%20Briefing%202023.pdf">Montfort Care PSP Triple P_Parents Briefing 2023.pdf</a></p>
+<p><strong>Primary 2<br>
+</strong><a href="/files/Slides%20for%20Parents/2023/P2_PTM_2023_Principal_Address.pdf">P2 PTM Slides 2023 Principal.pdf</a><br>
+<a href="/files/Slides%20for%20Parents/2023/P2_PTM_2023_Year_Head_Address.pdf">P2 PTM Slides 2023 Year Head.pdf</a><br>
+<a href="/files/Slides%20for%20Parents/2023/P2_PTM_2023_English.pdf">P2 PTM Slides 2023 English.pdf</a><br>
+<a href="/files/Slides%20for%20Parents/2023/P2_PTM_2023_Mathematics.pdf">P2 PTM Slides 2023 Mathematics.pdf</a><br>
+<a href="/files/Slides%20for%20Parents/2023/P2_PTM_2023_Mother_Tongue.pdf">P2 PTM Slides 2023 Mother Tongue.pdf</a></p>
+<p><strong>Primary 3<br>
+</strong><a href="/files/P3%20PTM%20Slides%202023_VP.pdf">P3 PTM Slides 2023_VP.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_YH.pdf">P3 PTM Slides 2023_YH.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_EL.pdf">P3 PTM Slides 2023_EL.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_Ma.pdf">P3 PTM Slides 2023_Ma.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_MT.pdf">P3 PTM Slides 2023_MT.pdf</a><br><a href="/files/P3%20PTM%20Slides%202023_Sc.pdf">P3 PTM Slides 2023_Sc.pdf</a></p>
 <p><strong>Primary 4<br></strong><a href="/files/P4%20PTM%20Slides%202023_SL.pdf">P4 PTM Slides 2023_SL.pdf</a><br><a href="/files/P4%20PTM%20Slides%202023_YH.pdf">P4 PTM Slides 2023_YH.pdf</a><br><a href="/files/P4%20PTM%20Slides%202023_EL.pdf">P4 PTM Slides 2023_EL.pdf</a><br><a href="/files/P4%20PTM%20Slide%202023_Math.pdf">P4 PTM Slide 2023_Math.pdf</a><br><a href="/files/P4%20PTM%20Slides%202023_MT.pdf">P4 PTM Slides 2023_MT.pdf</a><br><a href="/files/P4%20PTM%20Slides%202023_Sc.pdf">P4 PTM Slides 2023_Sc.pdf</a></p>
 <p><strong>Primary 5<br></strong><a href="/files/P5%20PTM%202023_%20VP%20Address.pdf">P5 PTM 2023_ VP Address.pdf</a><br><a href="/files/P5%20PTM%202023_YH%20Address.pdf">P5 PTM 2023_YH Address.pdf</a><br><a href="/files/P5%20PTM%202023_EL%20Dept.pdf">P5 PTM 2023_EL Dept.pdf</a><br><a href="/files/P5%20PTM%202023_Ma%20Dept.pdf">P5 PTM 2023_Ma Dept.pdf</a><br><a href="/files/P5%20PTM%202023_MT%20Dept.pdf">P5 PTM 2023_MT Dept.pdf</a><br><a href="/files/P5%20PTM%202023_Science%20Dept.pdf">P5 PTM 2023_Science Dept.pdf</a></p>
 <p><strong>Primary 6<br></strong><a href="/files/P6%20PTM%202023_Ps%20Address.pdf">P6 PTM 2023_Ps Address.pdf</a><br><a href="/files/P6%20PTM%202023_YH%20Address.pdf">P6 PTM 2023_YH Address.pdf</a><br><a href="/files/P6%20PTM%202023_Eng%20Department.pdf">P6 PTM 2023_Eng Department.pdf</a><br><a href="/files/P6%20PTM%202023_Math%20Department.pdf">P6 PTM 2023_Math Department.pdf</a><br><a href="/files/P6%20PTM%202023_MT%20Department.pdf">P6 PTM 2023_MT Department.pdf</a><br><a href="/files/P6%20PTM%202023_Sci%20Department.pdf">P6 PTM 2023_Sci Department.pdf</a></p>
