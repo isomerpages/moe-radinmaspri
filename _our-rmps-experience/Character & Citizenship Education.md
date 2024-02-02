@@ -2,6 +2,7 @@
 title: Character & Citizenship Education
 permalink: /our-rmps-experiences/character-n-citizenship-education/
 description: ""
+variant: markdown
 ---
 <p>Our Department Photo</p>
 <img src="/images/Dept%202023/cce_2023.jpg">
@@ -110,3 +111,5 @@ A big part of CCE lies in the building of skills related to components in the do
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>Sexuality Education</strong></p>
+<p style="text-align: center;">Please click here [here](2024_Info_on_SEd_for_schs_website__Primary_Schools__updated_22_nov.pdf) to read more.</p>
