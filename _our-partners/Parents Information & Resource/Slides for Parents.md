@@ -14,13 +14,29 @@ variant: markdown
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/ParentLink_P1Orientation_2023.pdf">Parent Link </a></p>
 <p><u><strong>Parents' Briefing Slides<br></strong></u>
 	<strong>Primary 1</strong><br>
-<a target="_blank" href="/files/Slides%20for%20Parents/2024/English_P1_2024.pdf">EL P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mathematics_P1_2024.pdf">Ma P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mother_Tongue_Languages_P1_2024.pdf">MT P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/PE_Music_Art_P1_2024.pdf">PAM P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Transition_to_P1_2024.pdf">Transition to P1 Briefing 2024</a>	
-</p><br>
-	<b>Primary 5</b><br>
-<a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Principal_Address_2024.pdf">P5 PTM Principal Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_YH_Address_2024.pdf">P5 PTM YH Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM__English_2024.pdf">P5 PTM English</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Ma_2024.pdf">P5 PTM Mathematics</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_MT_2024.pdf">P5 PTM Mother Tongue</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Science_2024.pdf">P5 PTM Science</a>
-<br><br>
-<b>Primary 6</b><br>
-<a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_Principal_s_Address_2024.pdf">P6 PTM Principal Address</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_YH_Address_2024.pdf">P6 PTM YH Address</a>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/English_P1_2024.pdf">EL P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mathematics_P1_2024.pdf">Ma P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mother_Tongue_Languages_P1_2024.pdf">MT P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/PE_Music_Art_P1_2024.pdf">PAM P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Transition_to_P1_2024.pdf">Transition to P1 Briefing 2024<br>
+</a><br>
+<b>Primary 4</b><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_PTM__P_Address__2024.pdf">P4 PTM Principal Address 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_PTM__YH_Address__2024.pdf">P4 PTM YH Address 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Home_School_Partnership_to_Develop_EL_Writers_2024.pdf">P4 Home-School Partnership to Develop EL Writers 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Learning_Ma_Through_Hands_on_Activities_2024.pdf">P4 Learning Ma Through Hands-on Activites 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Familiarization_with_The_Pri_Sc_2024.pdf">P4 Familiarization with The Pri Sc 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Unlock_the_Learning_of_CL_Together_with_Your_Child_2024.pdf">P4 Unlock the Learning of CL Together with Your Child 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Unlock_the_Learning_of_ML_Together_with_Your_Child_2024.pdf">P4 Unlock the Learning of ML Together with Your Child 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P4_Unlocking_the_Learning_of_TL_Together_with_Your_Child_2024.pdf">P4 Unlock the Learning of TL Together with Your Child 2024</a><br>
+  <br>
+  <b>Primary 5</b><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Principal_Address_2024.pdf">P5 PTM Principal Address</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_YH_Address_2024.pdf">P5 PTM YH Address</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM__English_2024.pdf">P5 PTM English</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Ma_2024.pdf">P5 PTM Mathematics</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_MT_2024.pdf">P5 PTM Mother Tongue</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_5_PTM_Science_2024.pdf">P5 PTM Science</a>
+  <br><br>
+  <b>Primary 6</b><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_Principal_s_Address_2024.pdf">P6 PTM Principal Address</a><br>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_YH_Address_2024.pdf">P6 PTM YH Address</a></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
