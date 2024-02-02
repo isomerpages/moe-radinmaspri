@@ -112,4 +112,4 @@ A big part of CCE lies in the building of skills related to components in the do
 </tbody>
 </table>
 <p style="text-align: center;"><strong>Sexuality Education</strong></p>
-<p style="text-align: center;">Please click here to read more: [Sexuality Education](/files/Slides%20for%20Parents/2024/2024_Info_on_SEd_for_schs_website__Primary_Schools__updated_22_nov.pdf [here](/files/Slides%20for%20Parents/2024/2024_Info_on_SEd_for_schs_website__Primary_Schools__updated_22_nov.pdf))</p>
+<p style="text-align: center;">Please click here to read more: [Sexuality Education](/files/Slides%20for%20Parents/2024/2024_Info_on_SEd_for_schs_website__Primary_Schools__updated_22_nov.pdf) [here](/files/Slides%20for%20Parents/2024/2024_Info_on_SEd_for_schs_website__Primary_Schools__updated_22_nov.pdf)</p>
