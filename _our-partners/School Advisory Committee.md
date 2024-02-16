@@ -2,13 +2,14 @@
 title: School Advisory Committee
 permalink: /our-partners/school-advisory-committee/
 description: ""
+variant: markdown
 ---
+ Roles and Functions of the SAC:
+
 <ul>
-<li>We serve in an advisory and voluntary capacity to support school programmes, functions and activities.</li>
-<li>We offer sponsorship and help the school raise funds for developmental, infrastructural and enrichment activities to benefit students.</li>
-<li>We provide links and encourage networking between the school and the community, industry and parents, for mutual benefit and quality education.</li>
-<li>We act as role models of active citizenship for students.</li>
-<li>We provide moral support and encouragement to the Principal and staff.</li>
+<li> To provide advice on the strategic directions for the school within MOE’s policy framework, leveraging the members’ expertise, diverse perspectives and experiences.</li>
+<li> To garner support for the school from stakeholders and the community through the members’ networks, to achieve positive student learning outcomes, in line with the national educational goals and objectives.</li>
+<li>To provide resources, connections, networks and partnerships to enrich the schools’ programmes so that the school can contribute to the community and the community can contribute to the school, for the holistic development of the students.</li>
 </ul>
 <h4><strong>SAC Organisation Chart</strong></h4>
 <table>
@@ -38,6 +39,12 @@ description: ""
 <td>MEMBER</td>
 </tr>
 <tr><td>MR ANG TENG HUI, MARCUS</td>
+<td>MEMBER</td>
+</tr>
+	<tr><td>MS LEOW YU QI, DIANE</td>
+<td>MEMBER</td>
+</tr>
+	<tr><td>MR CHU YOUNG ANN</td>
 <td>MEMBER</td>
 </tr>
 </tbody>
