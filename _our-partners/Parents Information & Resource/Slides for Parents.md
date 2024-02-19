@@ -19,7 +19,7 @@ variant: markdown
 	<b>Primary 2</b><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_PTM_Principal_Address_2024.pdf">P2 PTM Principal Address 2024</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_PTM_YH_Address_2024.pdf">P2 PTM YH Address 2024</a><br>
-<a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_Home_School_Partnership_to_Develop_Writers_2024.pdf">P2 PTM Mother Tongue 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_PTM_Mother_Tongue_2024.pdf">P2 PTM Mother Tongue 2024</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_Home_School_Partnership_to_Develop_Writers_2024.pdf">P2 Home School Partnership to Develop Writers</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_Learning_Mathematics_through_hands_on_activities.pdf">P2 Learning Mathematics through hands-on activities</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_Unlock_the_Learning_of_CL_Together_with_Your_Child_2024.pdf">P2 Unlock the Learning of CL Together with Your Child<br>
