@@ -16,6 +16,16 @@ variant: markdown
 	<strong>Primary 1</strong><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/English_P1_2024.pdf">EL P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mathematics_P1_2024.pdf">Ma P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Mother_Tongue_Languages_P1_2024.pdf">MT P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/PE_Music_Art_P1_2024.pdf">PAM P1 Parents Briefing 2024</a><br><a target="_blank" href="/files/Slides%20for%20Parents/2024/Transition_to_P1_2024.pdf">Transition to P1 Briefing 2024<br>
 </a><br>
+	<b>Primary 2</b><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_PTM_Principal_Address_2024.pdf">P2 PTM Principal Address 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_PTM_YH_Address_2024.pdf">P2 PTM YH Address 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_PTM_Mother_Tongue_2024.pdf">P2 PTM Mother Tongue 2024</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_Home_School_Partnership_to_Develop_Writers_2024.pdf">P2 Home School Partnership to Develop Writers</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_Learning_Mathematics_through_hands_on_activities.pdf">P2 Learning Mathematics through hands-on activities</a><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_Unlock_the_Learning_of_CL_Together_with_Your_Child_2024.pdf">P2 Unlock the Learning of CL Together with Your Child<br>
+	</a><a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_Unlocking_the_Learning_of_ML_Together_with_your_Child.pdf">P2 Unlock the Learning of ML Together with Your Child</a><br>
+	<a target="_blank" href="/files/Slides%20for%20Parents/2024/P2_Unlocking_the_learning_of_TL_Language_16_Feb_2024_Parents__Workshop_reduced_.pdf">P2 Unlock the Learning of TL Together with Your Child</a><br>
+<br>
 <b>Primary 3</b><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/P3_PTM_Principal_Address_2024.pdf">P3 PTM Principal Address</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/P3_PTM_Year_Head_Address_2024.pdf">P3 PTM YH Address</a><br>
