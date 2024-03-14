@@ -32,7 +32,7 @@ position</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Radin Mas Primary Rugby NSG 2023" src="/images/CCA/2023_NSG_0_Our_Rugby_boys_at_the_2023_National_School_Games_with_unwavering_support_from_the_teachers_and_parents.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Radin Mas Primary Rugby NSG 2023" src="/images/CCA/Rugby/2023_NSG_0_Our_Rugby_boys_at_the_2023_National_School_Games_with_unwavering_support_from_the_teachers_and_parents.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -44,7 +44,7 @@ from the teachers and parents</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Radin Mas Primary Rugby NSG 2023" src="/images/CCA/2023_NSG_1_Our_Rugby_team_having_a_team_discussion_at_the_2023_National_School_Games.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Radin Mas Primary Rugby NSG 2023" src="/images/CCA/Rugby/2023_NSG_1_Our_Rugby_team_having_a_team_discussion_at_the_2023_National_School_Games.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -55,7 +55,7 @@ from the teachers and parents</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Radin Mas Primary Rugby NSG 2023" src="/images/CCA/2023_NSG_6_Our_rugby_boys_in_action_on_the_field_at_the_2023_National_School_Games.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Radin Mas Primary Rugby NSG 2023" src="/images/CCA/Rugby/2023_NSG_6_Our_rugby_boys_in_action_on_the_field_at_the_2023_National_School_Games.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -89,7 +89,7 @@ from the teachers and parents</div>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JJSeLWQqSI0"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JJSeLWQqSI0"></iframe>
 </div>
 <p><strong>Rugby Photo Gallery</strong>
 </p>
