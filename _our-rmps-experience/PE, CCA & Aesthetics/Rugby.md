@@ -94,6 +94,6 @@ from the teachers and parents</div>
 <p><strong>Rugby Photo Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHyRbqXsBARXdZEnsBg5VZloEmq7oo3rFFyJmbCo39pGdY2cqk_Tgbueps6-vDiY7FcFdP4xseZ09C/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHyRbqXsBARXdZEnsBg5VZloEmq7oo3rFFyJmbCo39pGdY2cqk_Tgbueps6-vDiY7FcFdP4xseZ09C/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
 <p></p>
