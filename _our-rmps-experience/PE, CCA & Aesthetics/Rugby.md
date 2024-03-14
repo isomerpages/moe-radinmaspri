@@ -89,7 +89,7 @@ from the teachers and parents</div>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JJSeLWQqSI0"></iframe>
+<iframe height="500px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JJSeLWQqSI0"></iframe>
 </div>
 <p><strong>Rugby Photo Gallery</strong>
 </p>
