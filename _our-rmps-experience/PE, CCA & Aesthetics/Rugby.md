@@ -66,14 +66,14 @@ from the teachers and parents</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="test" src="/images/EXCO/test2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="test" src="/images/EXCO/test3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">test</div>
 <div class="isomer-card-description">test</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="test22" src="/images/EXCO/YuLing.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 </div>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul data-tight="true" class="tight">
