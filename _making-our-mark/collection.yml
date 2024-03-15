@@ -2,7 +2,6 @@ collections:
   making-our-mark:
     output: true
     order:
-      - 2020 Staff Make a Mark.md
       - Students/2024.md
       - Students/2023.md
       - Students/2022.md
