@@ -63,6 +63,17 @@ from the teachers and parents</div>
 <div class="isomer-card-description">Our Rugby boys in action on the field at the 2023 National School Games</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="test" src="/images/EXCO/test1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">test</div>
+<div class="isomer-card-description">test</div>
+</div>
+</div>
 </div>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul data-tight="true" class="tight">
