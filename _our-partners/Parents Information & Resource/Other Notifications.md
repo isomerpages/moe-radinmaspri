@@ -17,6 +17,7 @@ variant: markdown
 <li><a target="_blank" href="/files/Booklist/2024/p5%20booklist%202024.pdf">P5 booklist.pdf</a></li>
 <li><a target="_blank" href="/files/Booklist/2024/p6%20booklist%202024.pdf">P6 booklist.pdf</a></li>
 </ul>
+	<p><strong>Assessment Circular<br></strong><a target="_blank" href="/files/Other%20Notifications/2024/P3_School_based_assessments_2024.pdf">P3 School-based assessments 2024</a><br><a target="_blank" href="/files/Other%20Notifications/2024/P4_School_based_assessments_2024.pdf">P4 School-based assessments 2024</a><br><a target="_blank" href="/files/Other%20Notifications/2024/P5_School_based_assessments_2024.pdf">P5 School-based assessments 2024</a><br><a target="_blank" href="/files/Other%20Notifications/2024/P6_Assessment_Circular_2024.pdf">P6 Assessment Circular 2024</a></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>

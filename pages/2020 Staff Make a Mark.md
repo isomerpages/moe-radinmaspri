@@ -1,17 +1,17 @@
 ---
-title: "2020"
+title: 2020 Staff Make a Mark
 permalink: /making-our-mark/staff/2020/
 description: ""
-third_nav_title: Staff
+variant: tiptap
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><h4><strong>2020 Presentations</strong></h4></label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>2020 Presentations</strong></h4></label>
 <div>
 <table>
 <tbody>
 <tr>
-<td>Wong Bing Sum<br />Rosmawati Bte Ali</td>
-<td>Title: Motivating P6 Low Progress students to write<br />1) Conducted Workshop at AST on 6 March 2020<br />2) Presented at Elis e-Conference 2020 on 27 August 2020</td>
+<td>Wong Bing Sum<br>Rosmawati Bte Ali</td>
+<td>Title: Motivating P6 Low Progress students to write<br>1) Conducted Workshop at AST on 6 March 2020<br>2) Presented at Elis e-Conference 2020 on 27 August 2020</td>
 </tr>
 <tr>
 <td>Doreen Foo-Chng&nbsp;</td>
@@ -19,13 +19,13 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td>Elizabeth Elaine Lim Lixian&nbsp;</td>
-<td>Presented at Tech Facilitated Learning@S4.RMPS on 4 November 2020<br />Title: Craving for Blended M.O.C.H.A.?</td>
+<td>Presented at Tech Facilitated Learning@S4.RMPS on 4 November 2020<br>Title: Craving for Blended M.O.C.H.A.?</td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><h4><strong>2020 National Day Awards</strong></h4></label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>2020 National Day Awards</strong></h4></label>
 <div>
 <table>
 <tbody>
@@ -45,19 +45,19 @@ third_nav_title: Staff
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>2020 Innergy Commendation Award</strong></h4></label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>2020 Innergy Commendation Award</strong></h4></label>
 <div>
 <table>
 <tbody>
 <tr>
-<td>Multidisciplinary team:<br />Wong Bing Sum<br />Rosmawati Ali<br />Cindy Tan Li Leng<br />Lim Yong Ming<br />Ng Liza<br />Ariyanti Sukaimi</td>
+<td>Multidisciplinary team:<br>Wong Bing Sum<br>Rosmawati Ali<br>Cindy Tan Li Leng<br>Lim Yong Ming<br>Ng Liza<br>Ariyanti Sukaimi</td>
 <td>PLT project: "Motivating students to learn via Differentiated Instruction"</td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4"><h4><strong>2020 President's Award For Teachers</strong></h4></label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4"><h4><strong>2020 President's Award For Teachers</strong></h4></label>
 <div>
 <table>
 <tbody>
@@ -69,43 +69,43 @@ third_nav_title: Staff
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5"><h4><strong>2020 NIE Caring Teacher Award</strong></h4></label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5"><h4><strong>2020 NIE Caring Teacher Award</strong></h4></label>
 <div>
 <table>
 <tbody>
 <tr>
-<td>Mdm Roszanah Bte Kamarudin<br />Mr Chan Jianhua<br />Mdm Lim Miao Ting, Theresa (Mrs Auyong)<br />Mdm Lee Lai Wan, Lena<br />Mr Chua Wee Nam</td>
+<td>Mdm Roszanah Bte Kamarudin<br>Mr Chan Jianhua<br>Mdm Lim Miao Ting, Theresa (Mrs Auyong)<br>Mdm Lee Lai Wan, Lena<br>Mr Chua Wee Nam</td>
 <td>NIE Caring Teacher Award</td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6"><h4><strong>2020 MOE Service Excellence Award (MSEA)</strong></h4></label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6"><h4><strong>2020 MOE Service Excellence Award (MSEA)</strong></h4></label>
 <div>
 <table>
 <tbody>
 <tr>
-<td>Mdm Malar Vizhi Govindan<br />Mdm Noorizan Ibrahim<br />Ms Ariyanti Sukaimi<br />Ms Khairunnisa Binte Mohd Nasruddin<br />Mdm Rosmawati Ali<br />Mdm Tan Yi Ying Michelle<br />Mdm Wong Yu Ling&nbsp;</td>
-<td>Platinum &amp; Gold<br />Gold<br />Silver<br />Silver<br />Silver<br />Silver<br />Silver</td>
+<td>Mdm Malar Vizhi Govindan<br>Mdm Noorizan Ibrahim<br>Ms Ariyanti Sukaimi<br>Ms Khairunnisa Binte Mohd Nasruddin<br>Mdm Rosmawati Ali<br>Mdm Tan Yi Ying Michelle<br>Mdm Wong Yu Ling&nbsp;</td>
+<td>Platinum &amp; Gold<br>Gold<br>Silver<br>Silver<br>Silver<br>Silver<br>Silver</td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox" /> <label for="accordion7"><h4><strong>2020 GB Company Award</strong></h4></label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7"><h4><strong>2020 GB Company Award</strong></h4></label>
 <div>
 <table>
 <tbody>
 <tr>
-<td>Mdm Leow Chay Huan<br />Miss Joyce Tan<br />Miss Fion Hong</td>
+<td>Mdm Leow Chay Huan<br>Miss Joyce Tan<br>Miss Fion Hong</td>
 <td>The Girls' Brigade Singapore Company Award 2019 (Gold)</td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion8" type="checkbox" /> <label for="accordion8"><h4><strong>2020 Outstanding Contribution Award</strong></h4></label>
+<li><input id="accordion8" type="checkbox"> <label for="accordion8"><h4><strong>2020 Outstanding Contribution Award</strong></h4></label>
 <div>
 <table>
 <tbody>
@@ -140,7 +140,7 @@ third_nav_title: Staff
 <td>OCA (Team)</td>
 </tr>
 <tr>
-<td>HP Math Team<br />
+<td>HP Math Team<br>
 <ul>
 <li>Tan Eng Leong</li>
 <li>Tan Li Leng Cindy&nbsp;</li>
@@ -151,7 +151,7 @@ third_nav_title: Staff
 <td>OCA (Team)</td>
 </tr>
 <tr>
-<td>AEDs/SC Team<br />
+<td>AEDs/SC Team<br>
 <ul>
 <li>Neo Ee Shiang Eleanor</li>
 <li>Noorizan Bte Ibrahim</li>
@@ -161,7 +161,7 @@ third_nav_title: Staff
 <td>OCA (Team)</td>
 </tr>
 <tr>
-<td>P3 FTs<br />
+<td>P3 FTs<br>
 <ul>
 <li>Marini Bte Bohari&nbsp;</li>
 <li>Amarthavalli Vellasamy&nbsp;</li>

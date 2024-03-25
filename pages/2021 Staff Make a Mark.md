@@ -1,43 +1,43 @@
 ---
-title: "2021"
+title: 2021 Staff Make a Mark
 permalink: /making-our-mark/staff/2021/
 description: ""
-third_nav_title: Staff
+variant: tiptap
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><h4><strong>2021 Presentations</strong></h4></label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>2021 Presentations</strong></h4></label>
 <div>
 <table>
 <tbody>
 <tr>
-<td>Wong Bing Sum<br />Cindy Tan Li Leng&nbsp;<br />Lim Yong Ming<br />Ng Li Za<br />Ariyanti Sukaimi</td>
-<td>Teachers' Conference and ExCEL Fest 2021<br />Title: Motivating the Unmotivated: Using Differentiated Instruction across Multiple Disciplines</td>
+<td>Wong Bing Sum<br>Cindy Tan Li Leng&nbsp;<br>Lim Yong Ming<br>Ng Li Za<br>Ariyanti Sukaimi</td>
+<td>Teachers' Conference and ExCEL Fest 2021<br>Title: Motivating the Unmotivated: Using Differentiated Instruction across Multiple Disciplines</td>
 </tr>
 <tr>
 <td>Ariyanti Sukaimi</td>
-<td>Teachers' Conference and ExCEL Fest 2021<br />Title: Understanding e-Pedagogy-Home-based Learning for Malay Language</td>
+<td>Teachers' Conference and ExCEL Fest 2021<br>Title: Understanding e-Pedagogy-Home-based Learning for Malay Language</td>
 </tr>
 <tr>
-<td>Idham Anis Ashiblie<br />Joyce Goh YL<br />Lee LW Lena</td>
-<td>KaleidoscoPE Professional Learning Fiesta 2021<br />Title: Camps for All - G.R.I.T@RMPS, the Radin Mas School Story&nbsp;</td>
+<td>Idham Anis Ashiblie<br>Joyce Goh YL<br>Lee LW Lena</td>
+<td>KaleidoscoPE Professional Learning Fiesta 2021<br>Title: Camps for All - G.R.I.T@RMPS, the Radin Mas School Story&nbsp;</td>
 </tr>
 <tr>
 <td>Saravanan Shanmugam&nbsp;</td>
-<td>Primary STEM ALP Seminar<br />Title: Nurturing 21st Century Competencies through Computational Thinking and Design Thinking&nbsp;</td>
+<td>Primary STEM ALP Seminar<br>Title: Nurturing 21st Century Competencies through Computational Thinking and Design Thinking&nbsp;</td>
 </tr>
 <tr>
 <td>Ariyanti Sukaimi</td>
-<td>Presented at Tech Facilitated Learning@S4.RMPS on 11 November 2021<br />Title: Character and Citizenship Education through Virtual Reality</td>
+<td>Presented at Tech Facilitated Learning@S4.RMPS on 11 November 2021<br>Title: Character and Citizenship Education through Virtual Reality</td>
 </tr>
 <tr>
-<td>Chng Yen Peng Doreen<br />Wong Pauline<br />Malar Vizhi Govindan</td>
-<td>Presented at Tech Facilitated Learning@S4.RMPS on 11 November 2021<br />Title: Nurturing Problem Solvers of Tomorrow - Multidisciplinary Project Work @ RMPS</td>
+<td>Chng Yen Peng Doreen<br>Wong Pauline<br>Malar Vizhi Govindan</td>
+<td>Presented at Tech Facilitated Learning@S4.RMPS on 11 November 2021<br>Title: Nurturing Problem Solvers of Tomorrow - Multidisciplinary Project Work @ RMPS</td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><h4><strong>2021 National Day Awards</strong></h4></label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>2021 National Day Awards</strong></h4></label>
 <div>
 <table>
 <tbody>
@@ -53,7 +53,7 @@ third_nav_title: Staff
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><h4><strong>2021 LEAP Award</strong></h4></label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>2021 LEAP Award</strong></h4></label>
 <div>
 <table>
 <tbody>
@@ -69,7 +69,7 @@ third_nav_title: Staff
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4"><h4><strong>2021 Innergy Award</strong></h4></label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4"><h4><strong>2021 Innergy Award</strong></h4></label>
 <div>
 <table>
 <tbody>
@@ -82,19 +82,19 @@ third_nav_title: Staff
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5"><h4><strong>2021 MOE Service Excellence Award (MSEA)</strong></h4></label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5"><h4><strong>2021 MOE Service Excellence Award (MSEA)</strong></h4></label>
 <div>
 <table>
 <tbody>
 <tr>
-<td>Noorizan Ibrahim<br />Idham Anis Ashiblie<br />Annie Tang Li Ming<br />Chan Hean Mei<br />Chan Sheng Chye<br />Goh Sheow En<br />Jashimah Binte Mohamed Ibrahim<br />Lee Sau Wai Jessie<br />Leng Sok Wah Celina<br />Ng Miu Leng</td>
-<td>Platinum<br />Gold<br />Silver<br />Silver<br />Silver<br />Silver<br />Silver<br />Silver<br />Silver<br />Silver</td>
+<td>Noorizan Ibrahim<br>Idham Anis Ashiblie<br>Annie Tang Li Ming<br>Chan Hean Mei<br>Chan Sheng Chye<br>Goh Sheow En<br>Jashimah Binte Mohamed Ibrahim<br>Lee Sau Wai Jessie<br>Leng Sok Wah Celina<br>Ng Miu Leng</td>
+<td>Platinum<br>Gold<br>Silver<br>Silver<br>Silver<br>Silver<br>Silver<br>Silver<br>Silver<br>Silver</td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6"><h4><strong>2021 Outstanding Contribution Award</strong></h4></label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6"><h4><strong>2021 Outstanding Contribution Award</strong></h4></label>
 <div>
 <table>
 <tbody>
@@ -121,7 +121,7 @@ third_nav_title: Staff
 <td>OCA (Team)</td>
 </tr>
 <tr>
-<td>Case Management Team<br />
+<td>Case Management Team<br>
 <ul>
 <li>Gracia Tye</li>
 <li>Andy Tan Zheng Lun</li>
@@ -135,7 +135,7 @@ third_nav_title: Staff
 <td>OCA (Team)</td>
 </tr>
 <tr>
-<td>Contact Tracing Team&nbsp;<br />
+<td>Contact Tracing Team&nbsp;<br>
 <ul>
 <li>Chua Wee Nam</li>
 <li>Malar Vizhi D/O Govindan</li>
@@ -154,7 +154,7 @@ third_nav_title: Staff
 <td>&nbsp;OCA (Team)</td>
 </tr>
 <tr>
-<td>Art Festival 2021<br />
+<td>Art Festival 2021<br>
 <ul>
 <li>Wong Yu Ling</li>
 <li>Miranti Abdullah</li>
@@ -169,7 +169,7 @@ third_nav_title: Staff
 <td>OCA (Team)&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;P5 &amp; 6 Mother Tongue SLS Oral Package for Self-Directed Learners<br />
+<td>&nbsp;P5 &amp; 6 Mother Tongue SLS Oral Package for Self-Directed Learners<br>
 <ul>
 <li>Lee Sau Wai Jessie</li>
 <li>Yew Chee Ching Anthony</li>
