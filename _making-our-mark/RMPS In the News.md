@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <ol>
-	<li>Minister for Education, Mr Chan Chun Sing, visited RMPS on 7th Feb 2024<br><a target="_blank" href="https://www.instagram.com/reel/C4-SwNCSA5I/?igsh=MWd1MjZ4azBjdGdkMg%3D%3D">Mr Chan Chun Sing's Instagram post</a>
+	<li>RMPS welcomed Minister of Education, Mr Chan Chun Sing to the school on 7 February 2024!<br><a target="_blank" href="https://www.instagram.com/reel/C4-SwNCSA5I/?igsh=MWd1MjZ4azBjdGdkMg%3D%3D">Mr Chan Chun Sing's Instagram post</a>
 	</li>
 <li>RMPS collaboration with MediaCorp Malay news for an inaugural Broadcasting competition published in Berita Harian on 29 Jan 2024:<br><a target="_blank" href="https://berita.mediacorp.sg/singapura/juara-baca-berita-junior-cungkil-bakat-pelajar-jadi-penyampai-berita-tv-820556?fbclid=PAAaYYYFkV5r3raHno8I_IB4j7vlEFT5JwJMDJrzB9Z93Z6Rwcm7eh5R3ArFQ">Juara Baca BERITA Junior cungkil bakat pelajar jadi penyampai BERITA TV
 </a>
