@@ -13,6 +13,8 @@ variant: markdown
 <p><strong>March<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Mar_2024_Notification_for_Parents.pdf">Mar 2024 Notification for Parents/Guardians</a></p>
 
 <p><strong>April<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Apr_2024_Notification.pdf">Apr 2024 Notification for Parents/Guardians</a></p>
+
+<p><strong>May<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Apr_2024_Notification.pdf">Apr 2024 Notification for Parents/Guardians</a></p>
 <br>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2023</strong></label>
