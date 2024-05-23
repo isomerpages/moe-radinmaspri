@@ -5,6 +5,15 @@ description: ""
 variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024 Edition</strong></label>
+<div>
+<a target="_blank" href="/files/Radin%20Mas%20Times/2024/Radin_Mas_Times__Sem1__08_May24_web.pdf">Radin Mas Times 2024 Sem 1</a><br>
+</div>
+</li>
+</ul>
+
+<h3>Archive</h3>
+<ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2018 Edition</strong></label>
 <div>
 <p><strong>Radin Mas Times Newsletter, Published in 2018 </strong><br><strong><a href="/files/Radin%20Mas%20Times%20Newsletter%202018_FINAL.pdf">Radin Mas Times Newsletter 2018_FINAL.pdf</a></strong></p>
@@ -817,11 +826,6 @@ variant: markdown
 <div>
 <a target="_blank" href="/files/radin%20mas%20times%202023%20sem%201.pdf">Radin Mas Times 2023 Sem 1</a><br>
 <a target="_blank" href="/files/Radin_Mas_Times__Sem2_.pdf">Radin Mas Times 2023 Sem 2</a>
-</div>
-</li>
-	<li><input id="accordion10" type="checkbox"> <label for="accordion10"><strong>2024 Edition</strong></label>
-<div>
-<a target="_blank" href="/files/Radin%20Mas%20Times/2024/Radin_Mas_Times__Sem1__08_May24_web.pdf">Radin Mas Times 2024 Sem 1</a><br>
 </div>
 </li>
 </ul>
