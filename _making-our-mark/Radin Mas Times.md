@@ -819,4 +819,9 @@ variant: markdown
 <a target="_blank" href="/files/Radin_Mas_Times__Sem2_.pdf">Radin Mas Times 2023 Sem 2</a>
 </div>
 </li>
+	<li><input id="accordion10" type="checkbox"> <label for="accordion10"><strong>2024 Edition</strong></label>
+<div>
+<a target="_blank" href="/files/Radin%20Mas%20Times/2024/Radin_Mas_Times__Sem1__08_May24_web.pdf">Radin Mas Times 2024 Sem 1</a><br>
+</div>
+</li>
 </ul>
