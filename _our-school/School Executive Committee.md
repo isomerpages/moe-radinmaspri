@@ -37,19 +37,20 @@ variant: markdown
     <tr>
       <td width="33.33%"><img src="/images/EXCO/GohSheowEn.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/LydiaWong.jpg"></td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/Miranti.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>HOD English Language<br>
       </strong>Mr Goh Sheow En</td>
       <td align="center"><strong>LH English Language<br>
       </strong>Mdm Wong Si En Lydia</td>
-      <td align="center">&nbsp;</td>
+      <td align="center"><strong>Senior Teacher (Covering)</strong><br>
+Ms Miranti Abdullah</td>
     </tr>
     <tr>
       <td><a href="mailto:goh_sheow_en@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:wong_si_en_lydia@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td>&nbsp;</td>
+      <td><a href="mailto:miranti_abdullah@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
   </tbody>
 </table>
@@ -126,17 +127,18 @@ variant: markdown
 <table width="100%" border="0">
   <tbody>
     <tr>
+	<td width="33.33%"><img src="/images/EXCO/WanHuaming.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/WaiPing.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/AnthonyYew.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/AnnieTang.jpg"></td>
+      
     </tr>
     <tr>
+		<td align="center"><strong>HOD Mother Tongue<br>
+      </strong>Mr Wan Huaming</td>
       <td align="center"><strong>LH Chinese Language<br>
       </strong>Mdm Lau Wai Ping</td>
 			 <td align="center"><strong>LT Chinese Language<br>
       </strong>Mr Yew Chee Ching Anthony</td>
-    <td align="center"><strong>ST Chinese Language<br>
-      </strong>Mdm Annie Tang Li Meng</td>
     </tr>
     <tr>
       <td><a href="mailto:lau_wai_ping@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
@@ -148,19 +150,20 @@ variant: markdown
 <table width="100%" border="0">
   <tbody>
     <tr>
+      <td width="33.33%"><img src="/images/EXCO/AnnieTang.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/Ariyanti.jpg"></td>
       <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
-			  <td align="center"><strong>ST Malay Language<br>
-				</strong>Mdm Ariyanti Sukaimi</td>
-      <td align="center">&nbsp;</td>
+			  <td align="center"><strong>ST Chinese Language<br>
+              </strong>Mdm Annie Tang Li Meng</td>
+      <td align="center"><strong>ST Malay Language<br>
+      </strong>Mdm Ariyanti Sukaimi</td>
       <td align="center">&nbsp;</td>
     </tr>
     <tr>
+      <td><a href="mailto:tang_li_meng_annie@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:ariyanti_sukaimi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
   </tbody>
@@ -217,19 +220,21 @@ variant: markdown
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/Saravanan.jpg"></td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/Zuraidah.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Stella.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>HOD ICT<br>
       </strong>Mr Saravanan S/O Shanmugam</td>
-      <td align="center">&nbsp;</td>
-      <td align="center">&nbsp;</td>
+      <td align="center"><strong>Subject Head ICT</strong><br>
+Mdm Zuraidah Binte Saidin</td>
+      <td align="center"><strong>Subject Head Data Management (Covering)</strong><br>
+Miss Stella Zhang Wenxin</td>
     </tr>
     <tr>
       <td><a href="mailto:saravanan_shanmugam@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td><a href="mailto:zuraidah_saidin@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:stella_zhang_wenxin@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
   </tbody>
 </table>
