@@ -2,6 +2,7 @@
 title: Science
 permalink: /our-rmps-experiences/science/
 description: ""
+variant: markdown
 ---
 <p>Our Department Photo</p>
 <img src="/images/Dept%202023/science.jpg">
@@ -30,6 +31,10 @@ description: ""
 <td style="text-align: center;">Members</td>
 <td style="text-align: center;">Mr Lim Yong Ming</td>
 </tr>
+	<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Mr Charles Ng</td>
+</tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Choy Mingzi Juliana</td>
@@ -40,7 +45,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Miss Tan HE Joyce</td>
+<td style="text-align: center;">Miss Tan Hui En Joyce</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
