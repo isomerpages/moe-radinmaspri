@@ -3,6 +3,7 @@ title: PE, CCA & Aesthetics
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/pe-cca-aesthetics/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: markdown
 ---
 <p>Our Department Photo</p>
 <img src="/images/Dept%202023/pe_cca_aesthetics.jpg">
@@ -25,7 +26,7 @@ third_nav_title: PE, CCA & Aesthetics
 </tr>
 <tr>
 <td style="text-align: center;">Senior Teacher PE</td>
-<td style="text-align: center;">Mdm Joyce Goh YL</td>
+<td style="text-align: center;">Mdm Joyce Goh Yan Ling</td>
 </tr>
 <tr>
 <td style="text-align: center;">Members</td>
@@ -33,11 +34,11 @@ third_nav_title: PE, CCA & Aesthetics
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Chong Wen Qian</td>
+<td style="text-align: center;">Mr Jonathan Chng</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Lee LW Lena</td>
+<td style="text-align: center;">Mdm Lee Lai Wan Lena</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
@@ -49,7 +50,7 @@ third_nav_title: PE, CCA & Aesthetics
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Cindy Chang SL</td>
+<td style="text-align: center;">Mdm Magdalene Lim</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
