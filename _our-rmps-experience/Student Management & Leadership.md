@@ -2,6 +2,7 @@
 title: Student Management & Leadership
 permalink: /our-rmps-experiences/student-management-n-leadership/
 description: ""
+variant: markdown
 ---
 <p>Our Department Photo</p>
 <img src="/images/Dept%202023/student_management.jpg">
@@ -32,7 +33,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Ong HT Cindy&nbsp;</td>
+<td style="text-align: center;">Mdm Ong Huay Theng Cindy&nbsp;</td>
 </tr>
 </tbody>
 </table>
