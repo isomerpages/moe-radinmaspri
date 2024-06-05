@@ -16,8 +16,8 @@ variant: markdown
 <td style="text-align: center;">Mr Goh Sheow En</td>
 </tr>
 <tr>
-<td style="text-align: center;">Level Head (Covering)</td>
-<td style="text-align: center;">Miss Wong SE Lydia</td>
+<td style="text-align: center;">Level Head</td>
+<td style="text-align: center;">Mdm Wong SE Lydia</td>
 </tr>
 <tr>
 <td style="text-align: center;">Senior Teacher (Educational Support)</td>
@@ -25,7 +25,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Senior Teacher (High Ability Learners)</td>
-<td style="text-align: center;">Mrs Elizabeth Elaine Lim&nbsp;</td>
+<td style="text-align: center;">Mrs Elizabeth Elaine Lim</td>
+</tr>
+<tr>
+<td style="text-align: center;">Senior Teacher (Covering)</td>
+<td style="text-align: center;">Ms Miranti Abdullah</td>
 </tr>
 <tr>
 <td style="text-align: center;">Members</td>
@@ -45,10 +49,6 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Ms Miranti Abdullah</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Michelle Tan</td>
 </tr>
 <tr>
@@ -65,11 +65,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Ms Chai Wan Lim, Lynn</td>
+<td style="text-align: center;">Mrs Yew Poh Kwong</td>
 </tr>
-<tr>
+	<tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Norjannah Bte Ali</td>
+<td style="text-align: center;">Miss Kanapathipillai Gangadevi</td>
 </tr>
 </tbody>
 </table>
