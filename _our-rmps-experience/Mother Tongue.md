@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /our-rmps-experiences/mother-tongue/
 description: ""
+variant: markdown
 ---
 <p>Our Department Photo</p>
 <img src="/images/Dept%202023/mothertongue.jpg">
@@ -10,8 +11,12 @@ description: ""
 <tr>
 <th style="text-align: center;" colspan="2">Our&nbsp;Department</th>
 </tr>
+	<tr>
+<td style="text-align: center;">Head of Department</td>
+<td style="text-align: center;">Mr Wan Huaming</td>
+</tr>
 <tr>
-<td style="text-align: center;">Level Head CL</td>
+<td style="text-align: center;">Level Head (CL)</td>
 <td style="text-align: center;">Mdm Lau Wai Ping</td>
 </tr>
 <tr>
@@ -23,7 +28,7 @@ description: ""
 <td style="text-align: center;">Mdm Annie Tang Li Meng</td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior Teacher (ML) (Covering)</td>
+<td style="text-align: center;">Senior Teacher (ML)</td>
 <td style="text-align: center;">Mdm Ariyanti Sukaimi</td>
 </tr>
 <tr>
@@ -72,19 +77,15 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Tan Yi Ni</td>
+<td style="text-align: center;">Mr Lee Beng Sern</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Low Chioh Tee</td>
+<td style="text-align: center;">Mdm Suguna Mary</td>
 </tr>
 	<tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Abdul Latiff Bin Omar</td>
-</tr>
-	<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Miss Divashini D/O Vinayagaran</td>
+<td style="text-align: center;">Mdm Tan Hai Leng</td>
 </tr>
 </tbody>
 </table>

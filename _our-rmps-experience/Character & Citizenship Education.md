@@ -20,15 +20,15 @@ variant: markdown
 <td style="text-align: center;">Mdm Olivia Tan Wei Peng</td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior Teacher (Special Educational Needs)(Covering)</td>
+<td style="text-align: center;">Senior Teacher (Special Educational Needs)</td>
 <td style="text-align: center;">Mdm Roszanah Kamarudin</td>
 </tr>
-<tr>
-<td style="text-align: center;">Members</td>
+	<tr>
+<td style="text-align: center;">Senior Teacher</td>
 <td style="text-align: center;">Mdm Fairoz Natasha Felix</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Members</td>
 <td style="text-align: center;">Mdm Pang Mui Lee</td>
 </tr>
 <tr>
@@ -43,13 +43,17 @@ variant: markdown
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Sarah Bee Jakfar</td>
 </tr>
+	<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Ms Nasheera Begum Bte Mohamad Shah</td>
+</tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Miss Tan Jia Min</td>
 </tr>
 <tr>
 <td style="text-align: center;">Senior School Counsellor</td>
-<td style="text-align: center;">Mdm Eleanor Neo ES</td>
+<td style="text-align: center;">Mdm Eleanor Neo Ee Shiang</td>
 </tr>
 <tr>
 <td style="text-align: center;">Senior Special Education Needs Officer</td>
