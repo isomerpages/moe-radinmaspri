@@ -77,19 +77,15 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Tan Yi Ni</td>
+<td style="text-align: center;">Mr Lee Beng Sern</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Low Chioh Tee</td>
+<td style="text-align: center;">Mdm Suguna Mary</td>
 </tr>
 	<tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Abdul Latiff Bin Omar</td>
-</tr>
-	<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Miss Divashini D/O Vinayagaran</td>
+<td style="text-align: center;">Mdm Tan Hai Leng</td>
 </tr>
 </tbody>
 </table>
