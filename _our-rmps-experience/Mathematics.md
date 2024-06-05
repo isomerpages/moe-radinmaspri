@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /our-rmps-experiences/mathematics/
 description: ""
+variant: markdown
 ---
 <p>Our Department Photo</p>
 <img src="/images/Dept%202023/math_2023.jpg">
@@ -52,7 +53,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Evelyn Yeo Sze Yee</td>
+<td style="text-align: center;">Mr Andrew Tan</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
@@ -72,15 +73,11 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mrs Yew Poh Kwong</td>
+<td style="text-align: center;">Ms Julia Chua</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Heng Cheng Kiang</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Chee Hui Peng</td>
+<td style="text-align: center;">Ms Gayatri</td>
 </tr>
 </tbody>
 </table>
