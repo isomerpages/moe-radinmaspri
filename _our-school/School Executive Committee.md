@@ -141,9 +141,10 @@ Ms Miranti Abdullah</td>
       </strong>Mr Yew Chee Ching Anthony</td>
     </tr>
     <tr>
+			 <td><a href="mailto:wan_huaming@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:lau_wai_ping@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:yew_chee_ching_anthony@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:tang_li_meng_annie@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+
     </tr>
   </tbody>
 </table>
