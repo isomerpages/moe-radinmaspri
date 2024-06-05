@@ -44,7 +44,7 @@ variant: markdown
       </strong>Mr Goh Sheow En</td>
       <td align="center"><strong>LH English Language<br>
       </strong>Mdm Wong Si En Lydia</td>
-      <td align="center"><strong>Senior Teacher (Covering)</strong><br>
+      <td align="center"><strong>ST English Language (Covering)</strong><br>
 Ms Miranti Abdullah</td>
     </tr>
     <tr>
