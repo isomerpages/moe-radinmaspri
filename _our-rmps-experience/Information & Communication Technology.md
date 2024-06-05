@@ -37,15 +37,15 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Tan ZL Andy&nbsp;</td>
+<td style="text-align: center;">Mr Tan Zheng Lun Andy&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">Desktop Engineers</td>
-<td style="text-align: center;">Miss Nur Hanisah Binte Huzaini</td>
+<td style="text-align: center;">Mr Rohit Alagaraja</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Rohit Alagaraja</td>
+<td style="text-align: center;">Mr Amirul</td>
 </tr>
 </tbody>
 </table>
