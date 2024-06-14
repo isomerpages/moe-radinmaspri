@@ -24,11 +24,11 @@ variant: markdown
 <td style="text-align: center;">Mdm Roszanah Kamarudin</td>
 </tr>
 	<tr>
-<td style="text-align: center;">Senior Teacher</td>
+<td style="text-align: center;">Members</td>
 <td style="text-align: center;">Mdm Fairoz Natasha Felix</td>
 </tr>
 <tr>
-<td style="text-align: center;">Members</td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;">Mdm Pang Mui Lee</td>
 </tr>
 <tr>
