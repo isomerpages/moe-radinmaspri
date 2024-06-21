@@ -4,7 +4,7 @@ permalink: /privacy/
 variant: tiptap
 ---
 <h2><strong>PRIVACY STATEMENT</strong></h2>
-<h3><strong>Radin Mas Primary School PRIVACY STATEMENT</strong></h3>
+<h3><strong>Radin Mas Primary School Privacy Statement</strong></h3>
 <p>1.&nbsp; This is a Radin Mas Primary School website. Thank you for examining
 our privacy statement.</p>
 <p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
