@@ -27,7 +27,8 @@ variant: markdown
 <tr>
 <td>1R</td>
 <td>Mdm Wong Si En Lydia<br>wong_si_en_lydia@schools.gov.sg</td>
-<td>Mdm Chan Yee Mei Ivy<br>chan_yee_mei_ivy@schools.gov.sg</td>
+<td>Mdm Wong Yu Ling
+	<br>wong_yu_ling@schools.gov.sg</td>
 </tr>
 <tr>
 <td>1A</td>
