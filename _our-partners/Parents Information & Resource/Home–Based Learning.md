@@ -12,11 +12,11 @@ variant: markdown
 
 
 <ul class="jekyllcodex_accordion">
-	<li><input id="accordion2" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2024</strong></h4></label>
+	<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2024</strong></h4></label>
 <div>
 <p><strong>HBL Instruction for 12 July 2024 (Olympic Festival)<br></strong><a href="/files/Slides%20for%20Parents/2024/Primary_1_Olympic_Festival_HBL_Lesson_Instructions.pdf">12July2024_Lesson Instructions and Guide-HBL_P1</a><br>
 	<a href="/files/Slides%20for%20Parents/2024/Primary_2_Olympic_Festival_HBL_Lesson_Instructions.pdf">12July2024_Lesson Instructions and Guide-HBL_P2</a><br>
-	</p></div></li><li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2023</strong></h4></label>
+	</p></div></li><li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>HBL 2023</strong></h4></label>
 <div>
 	<p><strong>HBL Instruction for 28 September 2023 and 29 September 2023 (PSLE Written Examination)<br></strong><a target="_blank" href="/files/psle%20written%20examinations%202023%20hbl%20lesson%20instructions%20-%20primary%201.pdf">Primary 1 HBL Lesson Instructions &amp; Guide - 28 and 29 September 2023 (PSLE Written Examination)</a>
 <br><a target="_blank" href="/files/psle%20written%20examinations%202023%20hbl%20lesson%20instructions%20-%20primary%202.pdf">Primary 2 HBL Lesson Instructions &amp; Guide - 2 October 2023 (PSLE Written Examination)</a>
@@ -31,7 +31,7 @@ variant: markdown
 <p><strong>HBL Instruction for 14 July (Olympic Festival)<br></strong><a target="_blank" href="/files/primary%201%20hbl%20lesson%20instructions%20(olympic%20festival).pdf">Primary 1 HBL Lesson Instructions &amp; Guide - 14 July (Olympic Festival)</a><br><a target="_blank" href="/files/primary%202%20hbl%20lesson%20instructions%20(olympic%20festival).pdf">Primary 2 HBL Lesson Instructions &amp; Guide - 14 July (Olympic Festival)</a></p>
 </div>
 </li>
-	<li><input id="accordion2" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2022</strong></h4></label>
+	<li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>HBL 2022</strong></h4></label>
 <div>
 <p><strong>HBL Instruction for 22 July (Olympic Festival)<br></strong><a href="/files/22July2022_Lesson%20Instructions%20and%20Guide-HBL_P1.pdf">22July2022_Lesson Instructions and Guide-HBL_P1.pdf</a><br><a href="/files/22July2022_Lesson%20Instructions%20and%20Guide-HBL_P2.pdf">22July2022_Lesson Instructions and Guide-HBL_P2.pdf</a></p>
 <p><strong>HBL Instruction for 15 to 16 August (PSLE Oral)<br></strong><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P1%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P1 PSLE Oral 15 and 16 August 2022.pdf</a><br><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P2%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P2 PSLE Oral 15 and 16 August 2022.pdf</a><br><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P3%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P3 PSLE Oral 15 and 16 August 2022.pdf</a><br><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P4%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P4 PSLE Oral 15 and 16 August 2022.pdf</a><br><a href="/files/Lesson%20Instructions%20and%20Guide-HBL%20P5%20PSLE%20Oral%2015%20and%2016%20August%202022.pdf">Lesson Instructions and Guide-HBL P5 PSLE Oral 15 and 16 August 2022.pdf</a></p>
@@ -39,7 +39,7 @@ variant: markdown
 <p><strong>HBL Instruction for 29 September to 3 October (PSLE Written Exam)<br></strong><a href="/files/Primary%201%20HBL%20Lesson%20Instructions%20PSLE%20Written%20Exam.pdf">Primary 1 HBL Lesson Instructions PSLE Written Exam.pdf</a><br><a href="/files/Primary%202%20HBL%20Lesson%20Instructions%20PSLE%20Written%20Exam.pdf">Primary 2 HBL Lesson Instructions PSLE Written Exam.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion2"><h4><strong>HBL 2021</strong></h4></label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4"><h4><strong>HBL 2021</strong></h4></label>
 <div>
 <p><strong>HBL Instruction for 1 April (Olympic Festival)<br></strong><a href="/files/Primary%2011.pdf">Primary 1.pdf</a><br><a href="/files/Primary%2022.pdf">Primary 2.pdf</a></p>
 <p><strong>Full HBL Instruction for 19 May to 21 May<br></strong><a href="/files/Full%20Home%20Based%20Learning_18%20May%202021.pdf">Full Home Based Learning_18 May 2021.pdf</a><br><a href="/files/HBL_P1_18%20May%202021.pdf">HBL_P1_18 May 2021.pdf</a><br><a href="/files/HBL_P2_18%20May%202021.pdf">HBL_P2_18 May 2021.pdf</a><br><a href="/files/HBL_P3_18%20May%202021.pdf">HBL_P3_18 May 2021.pdf</a><br><a href="/files/HBL_P4_18%20May%202021.pdf">HBL_P4_18 May 2021.pdf</a><br><a href="/files/HBL_P5_18%20May%202021.pdf">HBL_P5_18 May 2021.pdf</a><br><a href="/files/HBL_P6_18%20May%202021.pdf">HBL_P6_18 May 2021.pdf</a></p>
@@ -110,7 +110,7 @@ variant: markdown
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion4"><h4><strong>ICT Guides</strong></h4></label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5"><h4><strong>ICT Guides</strong></h4></label>
 <div>
 <table>
 <tbody>
