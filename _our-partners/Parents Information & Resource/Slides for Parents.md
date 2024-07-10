@@ -53,7 +53,9 @@ variant: markdown
   <br><br>
   <b>Primary 6</b><br>
   <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_Principal_s_Address_2024.pdf">P6 PTM Principal Address</a><br>
-  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_YH_Address_2024.pdf">P6 PTM YH Address</a></p>
+  <a target="_blank" href="/files/Slides%20for%20Parents/2024/Primary_6_PTM_YH_Address_2024.pdf">P6 PTM YH Address</a><br>
+</p><p><strong>Dialogue with School Leaders<br></strong><a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P5_2024.pdf">Dialogue with SL_P5</a><br>
+<a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P6_2024.pdf">Dialogue with SL_P6</a></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
