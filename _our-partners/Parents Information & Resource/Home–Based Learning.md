@@ -3,14 +3,20 @@ title: Home–Based Learning
 permalink: /our-partners/parents-information-n-resources/home-based-learning/
 description: ""
 third_nav_title: Parents Information & Resource
+variant: markdown
 ---
 <p>Dear RMPS family,</p>
 <p>The coronavirus pandemic has undoubtedly impacted us. We have had to make adjustments to our daily lives in order to adapt to the current situation. It is without a doubt that the adjustments have not been easy, but let's also appreciate the opportunities the situation has afforded us i.e. to grow as an individual, to bond with our family and to appreciate the things we have that we may have taken for granted in the past.</p>
 <p>Although the learning curve is steep, RMPS teachers have risen to the occasion, giving their utmost best to ensure continuous learning takes place with FHBL. In appreciation of RMPS teachers' dedication in grooming our students, RMPS Aesthetics Committee together with our students, are proud to dedicate the following presentation to all of you.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FmE6QPHKvkk" title="RMPS FHBL 2020   A Thankful Heart (Full Res)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
+
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2023</strong></h4></label>
+	<li><input id="accordion2" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2024</strong></h4></label>
+<div>
+<p><strong>HBL Instruction for 12 July 2024 (Olympic Festival)<br></strong><a href="/files/Slides%20for%20Parents/2024/Primary_1_Olympic_Festival_HBL_Lesson_Instructions.pdf">12July2024_Lesson Instructions and Guide-HBL_P1</a><br>
+	<a href="/files/Slides%20for%20Parents/2024/Primary_2_Olympic_Festival_HBL_Lesson_Instructions.pdf">12July2024_Lesson Instructions and Guide-HBL_P2</a><br>
+	</p></div></li><li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>HBL 2023</strong></h4></label>
 <div>
 	<p><strong>HBL Instruction for 28 September 2023 and 29 September 2023 (PSLE Written Examination)<br></strong><a target="_blank" href="/files/psle%20written%20examinations%202023%20hbl%20lesson%20instructions%20-%20primary%201.pdf">Primary 1 HBL Lesson Instructions &amp; Guide - 28 and 29 September 2023 (PSLE Written Examination)</a>
 <br><a target="_blank" href="/files/psle%20written%20examinations%202023%20hbl%20lesson%20instructions%20-%20primary%202.pdf">Primary 2 HBL Lesson Instructions &amp; Guide - 2 October 2023 (PSLE Written Examination)</a>
