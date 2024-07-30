@@ -19,6 +19,8 @@ variant: markdown
 <p><strong>June<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Jun_2024_Notification_for_parents.pdf">June 2024 Notification for Parents/Guardians</a></p>
 
 <p><strong>July<br></strong><a target="_blank" href="/files/Monthly%20Notifications/July_2024_Notification_for_parents.pdf">July 2024 Notification for Parents/Guardians</a></p>
+
+<p><strong>August<br></strong><a href="/files/Monthly%20Notifications/Aug_2024_Notification_for_parents.pdf">Aug 2024 Notification for Parents/Guardians</a></p>
 <br>
 
 <ul class="jekyllcodex_accordion">
