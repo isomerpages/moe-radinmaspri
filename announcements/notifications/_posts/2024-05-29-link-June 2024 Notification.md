@@ -1,6 +1,6 @@
 ---
-title: February Notification
-date: 2024-01-27
+title: June 2024 Notification
+date: 2024-05-29
 layout: link
 description: ""
 image: ""
