@@ -94,7 +94,7 @@ variant: markdown
 <tr>
 <td>2D</td>
 <td>Ms Fairoz Natasha Felix<br>fairoz_natasha_felix@schools.gov.sg</td>
-<td>Mrs Anba<br>k_malarvizhi@schools.gov.sg</td>
+<td>Mdm Lee Lai Wan Lena<br>lee_lai_wan_lena@schools.gov.sg</td>
 </tr>
 <tr>
 <td>2I</td>
