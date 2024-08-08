@@ -160,7 +160,7 @@ variant: markdown
 <tr>
 <td>3N</td>
 <td>Mdm Faizah Mad Atar<br>faizah_mad_atar@schools.gov.sg</td>
-<td>Mdm Lau Wai Ping<br>lau_wai_ping@schools.gov.sg</td>
+<td>Miss Honey Thawdar<br>honey_thawdar_oo@schools.gov.sg</td>
 </tr>
 <tr>
 <td>3M</td>
@@ -211,7 +211,7 @@ variant: markdown
 <tr>
 <td>4N</td>
 <td>Mr Lim Yong Ming<br>lim_yong_ming@schools.gov.sg</td>
-<td>Mdm Lee Lai Wan Lena<br>lee_lai_wan_lena@schools.gov.sg</td>
+<td>Mdm Lau Wai Ping <br>lau_wai_ping@schools.gov.sg</td>
 </tr>
 <tr>
 <td>4M</td>
