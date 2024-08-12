@@ -16,6 +16,11 @@ variant: markdown
 <div>
 <p><strong>HBL Instruction for 12 July 2024 (Olympic Festival)<br></strong><a href="/files/Slides%20for%20Parents/2024/Primary_1_Olympic_Festival_HBL_Lesson_Instructions.pdf">12July2024_Lesson Instructions and Guide-HBL_P1</a><br>
 	<a href="/files/Slides%20for%20Parents/2024/Primary_2_Olympic_Festival_HBL_Lesson_Instructions.pdf">12July2024_Lesson Instructions and Guide-HBL_P2</a><br>
+</p><p><strong>HBL Instruction for 13 to 14 August 2024 (PSLE oral)<br></strong><a href="/files/Slides%20for%20Parents/2024/Primary_1_PSLE_Oral_Exam_HBL_Lesson_Instructions.pdf">13-14Aug2024_Lesson Instructions and Guide-HBL_P1</a><br>	
+	<a href="/files/Slides%20for%20Parents/2024/Primary_2_PSLE_Oral_Exam_HBL_Lesson_Instructions.pdf">13-14Aug2024_Lesson Instructions and Guide-HBL_P2</a><br>	
+	<a href="[](/files/Slides%20for%20Parents/2024/Primary_3_PSLE_Oral_Exam_HBL_Lesson_Instructions.pdf)">13-14Aug2024_Lesson Instructions and Guide-HBL_P3</a><br>	
+	<a href="/files/Slides%20for%20Parents/2024/Primary_4_PSLE_Oral_Exam_HBL_Lesson_Instructions.pdf">13-14Aug2024_Lesson Instructions and Guide-HBL_P4</a><br>	
+	<a href="/files/Slides%20for%20Parents/2024/Primary_5_PSLE_Oral_Exam_HBL_Lesson_Instructions.pdf">13-14Aug2024_Lesson Instructions and Guide-HBL_P5</a><br>	
 	</p></div></li><li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>HBL 2023</strong></h4></label>
 <div>
 	<p><strong>HBL Instruction for 28 September 2023 and 29 September 2023 (PSLE Written Examination)<br></strong><a target="_blank" href="/files/psle%20written%20examinations%202023%20hbl%20lesson%20instructions%20-%20primary%201.pdf">Primary 1 HBL Lesson Instructions &amp; Guide - 28 and 29 September 2023 (PSLE Written Examination)</a>
