@@ -5,6 +5,12 @@ description: ""
 variant: markdown
 ---
 <ol>
+	<li>Our students participated in the Giant Art Installation for Radin Mas Arts Week and National Day Heartland Celebration, Radin Mas Community Arts and Culture Club - CACC's Facebook post on 11 Aug 2024 <br><a target="_blank" href="https://fb.watch/ubRuaCm0_m/">Giant Art Installation for Radin Mas Arts Week and&nbsp;National Day Heartland Celebrations 2024 at Central Singapore PAssion Arts Village</a>
+	</li>
+	<li>Our students performed at Redhill Square during Radin Mas National Day Observance Ceremony, among many of the fantastic performers from schools and community groups, Radin Mas Constituency's Facebook post on 11 Aug 2024 <br><a target="_blank" href="https://www.facebook.com/radinmas.smc/posts/pfbid0C1xmxAF2cgSSeRRNQLUQbGTCpf9hmjeNZGL4tKEAaXBZLmX8A6HAJH6tYCyMjyRHl">Radin Mas National Day Observance Ceremony</a>
+	</li>
+	<li>Our students’ work were exhibited at the National Day Heartland Celebration 2024 &nbsp;@ Central SG (Bishan)! Mr Melvin Yong's Facebook post on 10 Aug 2024 <br><a target="_blank" href="https://www.facebook.com/photo/?fbid=879703640640865&amp;set=pcb.879703947307501">National Day Heartland Celebrations 2024 at Central Singapore</a>
+	</li>
 	<li>#STEMPlayground Challenge 2024 - RMPS students built cotton reel tank that uses rubber band to roll forward! MOE's Facebook post on 17 Apr 2024 <br><a target="_blank" href="https://www.facebook.com/reel/1196010618059223?mibextid=qi2Omg">STEM Challenge 2024 #1</a>
 	</li>
 	<li>RMPS welcomed Minister of Education, Mr Chan Chun Sing to the school on 7 February 2024!<br><a target="_blank" href="https://www.instagram.com/reel/C4-SwNCSA5I/?igsh=MWd1MjZ4azBjdGdkMg%3D%3D">Mr Chan Chun Sing's Instagram post</a>
