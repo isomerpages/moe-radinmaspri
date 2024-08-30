@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 <ol>
+	<li>RMPS students participated in the 28th National Primary Schools On-the-spot Chinese Creative Essay Writing Competition, Published on 新加坡福州会馆笔耕获奖作品 23 <br><a target="_blank" href="/files/28th_national_primary_chinese_creative_essay_writing.pdf">28th National Primary Schools On-the-spot Chinese Creative Essay Writing Competition RMPS students award entries</a>
+	</li>
 	<li>Our students participated in the Giant Art Installation for Radin Mas Arts Week and National Day Heartland Celebration, Radin Mas Community Arts and Culture Club - CACC's Facebook post on 11 Aug 2024 <br><a target="_blank" href="https://fb.watch/ubRuaCm0_m/">Giant Art Installation for Radin Mas Arts Week and&nbsp;National Day Heartland Celebrations 2024 at Central Singapore PAssion Arts Village</a>
 	</li>
 	<li>Our students performed at Redhill Square during Radin Mas National Day Observance Ceremony, among many of the fantastic performers from schools and community groups, Radin Mas Constituency's Facebook post on 11 Aug 2024 <br><a target="_blank" href="https://www.facebook.com/radinmas.smc/posts/pfbid0C1xmxAF2cgSSeRRNQLUQbGTCpf9hmjeNZGL4tKEAaXBZLmX8A6HAJH6tYCyMjyRHl">Radin Mas National Day Observance Ceremony</a>
