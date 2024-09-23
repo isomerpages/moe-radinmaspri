@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 <ol>
+	<li>RMPS students performed in the Bukit Purmei Mid-Autumn Festival 2024! Bukit Purmei Zone A's Facebook post on 14th September 2024<br><a target="_blank" href="https://www.facebook.com/share/p/ZweihKrxXd9CJyRe">2024 Bukit Purmei Mid-Autumn Festival</a>
+	</li>
 	<li>RMPS students participated in the 28th National Primary Schools On-the-spot Chinese Creative Essay Writing Competition, Published on 新加坡福州会馆笔耕获奖作品 23 <br><a target="_blank" href="/files/28th_national_primary_chinese_creative_essay_writing.pdf">28th National Primary Schools On-the-spot Chinese Creative Essay Writing Competition RMPS students award entries</a>
 	</li>
 	<li>Our students participated in the Giant Art Installation for Radin Mas Arts Week and National Day Heartland Celebration, Radin Mas Community Arts and Culture Club - CACC's Facebook post on 11 Aug 2024 <br><a target="_blank" href="https://fb.watch/ubRuaCm0_m/">Giant Art Installation for Radin Mas Arts Week and&nbsp;National Day Heartland Celebrations 2024 at Central Singapore PAssion Arts Village</a>
