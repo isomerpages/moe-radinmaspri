@@ -27,6 +27,7 @@ variant: markdown
 		<a href="/files/Slides%20for%20Parents/2024/13_Sep_Primary_4_HBL_Lesson_Instructions.pdf">13Sep2024_Lesson Instructions and Guide-HBL_P4</a><br>	
 		<a href="/files/Slides%20for%20Parents/2024/13_Sep_Primary_5_HBL_Lesson_Instructions__Updated_.pdf">13Sep2024_Lesson Instructions and Guide-HBL_P5</a><br>	
 	</p><p><strong>HBL Instruction for 26 - 30 September 2024 (PSLE Written)<br></strong><a href="/files/Slides%20for%20Parents/2024/26_27Sep_2024_Primary_1_HBL_Lesson_Instructions.pdf">26-27 Sep 2024_Lesson Instructions and Guide-HBL_P1</a><br>	
+	<a href="/files/Slides%20for%20Parents/2024/Primary_2_HBL_Lesson_Instructions.pdf">30 Sep 2024_Lesson Instructions and Guide-HBL_P2</a><br>	
 </p></div></li><li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>HBL 2023</strong></h4></label>
 <div>
 	<p><strong>HBL Instruction for 28 September 2023 and 29 September 2023 (PSLE Written Examination)<br></strong><a target="_blank" href="/files/psle%20written%20examinations%202023%20hbl%20lesson%20instructions%20-%20primary%201.pdf">Primary 1 HBL Lesson Instructions &amp; Guide - 28 and 29 September 2023 (PSLE Written Examination)</a>
