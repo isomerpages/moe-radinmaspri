@@ -28,7 +28,9 @@ variant: markdown
 <td>1R</td>
 <td>Mdm Wong Si En Lydia<br>wong_si_en_lydia@schools.gov.sg</td>
 <td>Mdm Wong Yu Ling
-	<br>wong_yu_ling@schools.gov.sg</td>
+	<br>wong_yu_ling@schools.gov.sg
+	<br>Mdm Chan Yee Mei Ivy
+	<br>chan_yee_mei_ivy@schools.gov.sg</td>
 </tr>
 <tr>
 <td>1A</td>
@@ -201,7 +203,7 @@ variant: markdown
 <tr>
 <td>4D</td>
 <td>Miss Sharon Tai Soon Yee<br>sharon_tai_soon_yee@schools.gov.sg</td>
-<td>Ms Fion Hong Li Ying<br>fion_hong_li_ying@schools.gov.sg</td>
+<td>Ms Chua Li Joo Julia<br>chua_li_joo_julia@schools.gov.sg</td>
 </tr>
 <tr>
 <td>4I</td>
