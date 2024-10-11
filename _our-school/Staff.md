@@ -152,7 +152,7 @@ variant: markdown
 <tr>
 <td>3D</td>
 <td>Mdm Cindy Tan Li Leng<br>tan_li_leng_cindy@schools.gov.sg</td>
-<td>Mrs Tan Khim Yong<br>tan_khim_yong@schools.gov.sg</td>
+<td>Mr Lim Yi Quan Jobb<br>lim_yiquan@schools.gov.sg</td>
 </tr>
 <tr>
 <td>3I</td>
