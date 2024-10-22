@@ -6,7 +6,7 @@ third_nav_title: PE, CCA & Aesthetics
 variant: markdown
 ---
 <p>Our Department Photo</p>
-<img src="/images/Dept%202023/pe_cca_aesthetics.jpg">
+<img src="/images/2024/Dept/PE__CCA___Aesthetics_24.jpg">
 <table>
 <tbody>
 <tr>
