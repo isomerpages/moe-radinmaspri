@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h3><strong>Our 2024 Form Teachers (P1 to P6)</strong></h3>
-<img src="/images/Dept%202023/all_staff.jpg">
+<img src="/images/2024/Dept/staff2024.jpg">
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>Our P1 Form Teachers 2024</strong></h4></label>
 <div>
