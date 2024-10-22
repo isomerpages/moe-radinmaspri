@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <p>Our Department Photo</p>
-<img src="/images/Dept%202023/mothertongue.jpg">
+<img src="/images/2024/Dept/Mother_Tongue_24.jpg">
 <table>
 <tbody>
 <tr>
