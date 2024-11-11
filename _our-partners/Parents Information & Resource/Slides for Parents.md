@@ -6,7 +6,7 @@ third_nav_title: Parents Information & Resource
 variant: markdown
 ---
 <strong>2025</strong>
-<p><u><strong>Primary 1 Orientation Slides (For 2025 Cohort)<br><strong></strong></strong></u><strong><strong><a target="_blank" href="/files/Slides%20for%20Parents/2024/P1_Orientation_for_Parents_8_Nov_2023.pdf">P1 Orientation for Parents 8 Nov 2024</a><br>
+<p><u><strong>Primary 1 Orientation Slides (For 2025 Cohort)<br><strong></strong></strong></u><strong><strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/P1_Orientation_for_Parents_8_Nov_2024.pdf">P1 Orientation for Parents 8 Nov 2024</a><br>
 </strong></strong></p><ul class="jekyllcodex_accordion"><strong><strong>
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024</strong></label>
 <div>
