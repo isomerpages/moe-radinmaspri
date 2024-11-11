@@ -66,7 +66,7 @@ variant: markdown
 	<a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P4_2024.pdf">Dialogue with SL_P4</a><br>
 	<a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P5_2024.pdf">Dialogue with SL_P5</a><br>
 <a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P6_2024.pdf">Dialogue with SL_P6</a></p>
-</div></li></ul><strong><strong>
+</div></li>
 
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
 <div>
@@ -132,4 +132,4 @@ variant: markdown
 <p><strong><u>P6 Camp<br></u></strong><a href="/files/P6%20Overseas%20Camp_2019.pdf">P6 Overseas Camp_2019.pdf</a><br><a href="/files/Itinerary_30Oct-1Nov_2019.pdf">Itinerary_30Oct-1Nov_2019.pdf</a><br><a href="/files/Itinerary_6-8Nov_2019.pdf">Itinerary_6-8Nov_2019.pdf</a></p>
 </div>
 	</li>
-	</strong></strong>
+</ul>
