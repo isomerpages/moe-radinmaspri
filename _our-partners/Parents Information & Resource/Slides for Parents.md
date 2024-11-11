@@ -12,7 +12,7 @@ variant: markdown
 	</strong><br></strong></p><strong>
 
 
-</strong><ul class="jekyllcodex_accordion"><strong>
+<ul class="jekyllcodex_accordion"><strong>
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024</strong></label><div>
 <p><u><strong>Primary 1 Orientation Slides (For 2024 Cohort)<br></strong></u><a target="_blank" href="/files/Slides%20for%20Parents/2024/P1_Orientation_for_Parents_10_Nov_2023.pdf">P1 Orientation for Parents 10 Nov 2023</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/2023_School_Tour.pdf">School Tour</a><br>
@@ -132,4 +132,5 @@ variant: markdown
 <p><strong>P6<br></strong><a href="/files/Principal's%20Address%20to%20Primary%206%20Parents.pdf">Principal's Address to Primary 6 Parents.pdf</a><br><a href="/files/P6%20YH%20Briefing%202019.pdf">P6 YH Briefing 2019.pdf</a><br><a href="/files/P6%20EL%20Briefing%202019.pdf">P6 EL Briefing 2019.pdf</a><br><a href="/files/P6%20Math%20Briefing%202019.pdf">P6 Math Briefing 2019.pdf</a><br><a href="/files/P6%20MT%20Briefing%202019.pdf">P6 MT Briefing 2019.pdf</a><br><a href="/files/P6%20PTM/P6%20Science%20Briefing%202019.pdf">P6 Science Briefing 2019.pdf</a></p>
 <p><strong><u>P6 Camp<br></u></strong><a href="/files/P6%20Overseas%20Camp_2019.pdf">P6 Overseas Camp_2019.pdf</a><br><a href="/files/Itinerary_30Oct-1Nov_2019.pdf">Itinerary_30Oct-1Nov_2019.pdf</a><br><a href="/files/Itinerary_6-8Nov_2019.pdf">Itinerary_6-8Nov_2019.pdf</a></p>
 </div>
-	</li></strong></strong>
+	</li>
+	</strong></strong></strong>
