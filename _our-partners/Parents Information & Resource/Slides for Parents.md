@@ -10,10 +10,9 @@ variant: markdown
 </strong>
 <strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/RMPS_Guide_for_Parents_compressed.pdf">RMPS Guide for Parents</a><br>
 </strong></p><p></p>
-
+<div>
 <ul class="jekyllcodex_accordion"><strong><strong>
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024</strong></label>
-<div>
 <p><u><strong>Primary 1 Orientation Slides (For 2024 Cohort)<br></strong></u><a target="_blank" href="/files/Slides%20for%20Parents/2024/P1_Orientation_for_Parents_10_Nov_2023.pdf">P1 Orientation for Parents 10 Nov 2023</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/2023_School_Tour.pdf">School Tour</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/Finance_Matters.pdf">Finance Matters</a><br>
@@ -67,8 +66,8 @@ variant: markdown
 	<a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P4_2024.pdf">Dialogue with SL_P4</a><br>
 	<a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P5_2024.pdf">Dialogue with SL_P5</a><br>
 <a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P6_2024.pdf">Dialogue with SL_P6</a></p>
-</div>
-</li>
+</li></strong></strong></ul></div><strong><strong>
+
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
 <div>
 <p><u><strong>Primary 1 Orientation Slides (For 2023 Cohort)<br></strong></u><a href="/files/P1%20Orientation%20for%20Parents%2011%20Nov%202022.pdf">P1 Orientation for Parents 11 Nov 2022.pdf</a></p>
@@ -133,4 +132,4 @@ variant: markdown
 <p><strong><u>P6 Camp<br></u></strong><a href="/files/P6%20Overseas%20Camp_2019.pdf">P6 Overseas Camp_2019.pdf</a><br><a href="/files/Itinerary_30Oct-1Nov_2019.pdf">Itinerary_30Oct-1Nov_2019.pdf</a><br><a href="/files/Itinerary_6-8Nov_2019.pdf">Itinerary_6-8Nov_2019.pdf</a></p>
 </div>
 </li>
-</strong></strong></ul>
+</strong></strong>
