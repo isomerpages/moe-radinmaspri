@@ -5,9 +5,14 @@ description: ""
 third_nav_title: Parents Information & Resource
 variant: markdown
 ---
+<strong>2025</strong>
+<p><u><strong>Primary 1 Orientation Slides (For 2025 Cohort)<br></strong></u><strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/P1_Orientation_for_Parents_8_Nov_2024.pdf">P1 Orientation for Parents 8 Nov 2024</a>
+</strong><br>
+<strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/RMPS_Guide_for_Parents_compressed.pdf">RMPS Guide for Parents</a></strong><br>
+<strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/PL_P1Orientation2024_compressed.pdf">Parent Link</a></strong></p>
+
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024</strong></label>
-<div>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024</strong></label><div>
 <p><u><strong>Primary 1 Orientation Slides (For 2024 Cohort)<br></strong></u><a target="_blank" href="/files/Slides%20for%20Parents/2024/P1_Orientation_for_Parents_10_Nov_2023.pdf">P1 Orientation for Parents 10 Nov 2023</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/2023_School_Tour.pdf">School Tour</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/Finance_Matters.pdf">Finance Matters</a><br>
@@ -61,8 +66,8 @@ variant: markdown
 	<a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P4_2024.pdf">Dialogue with SL_P4</a><br>
 	<a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P5_2024.pdf">Dialogue with SL_P5</a><br>
 <a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P6_2024.pdf">Dialogue with SL_P6</a></p>
-</div>
-</li>
+</div></li>
+
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
 <div>
 <p><u><strong>Primary 1 Orientation Slides (For 2023 Cohort)<br></strong></u><a href="/files/P1%20Orientation%20for%20Parents%2011%20Nov%202022.pdf">P1 Orientation for Parents 11 Nov 2022.pdf</a></p>
@@ -126,5 +131,5 @@ variant: markdown
 <p><strong>P6<br></strong><a href="/files/Principal's%20Address%20to%20Primary%206%20Parents.pdf">Principal's Address to Primary 6 Parents.pdf</a><br><a href="/files/P6%20YH%20Briefing%202019.pdf">P6 YH Briefing 2019.pdf</a><br><a href="/files/P6%20EL%20Briefing%202019.pdf">P6 EL Briefing 2019.pdf</a><br><a href="/files/P6%20Math%20Briefing%202019.pdf">P6 Math Briefing 2019.pdf</a><br><a href="/files/P6%20MT%20Briefing%202019.pdf">P6 MT Briefing 2019.pdf</a><br><a href="/files/P6%20PTM/P6%20Science%20Briefing%202019.pdf">P6 Science Briefing 2019.pdf</a></p>
 <p><strong><u>P6 Camp<br></u></strong><a href="/files/P6%20Overseas%20Camp_2019.pdf">P6 Overseas Camp_2019.pdf</a><br><a href="/files/Itinerary_30Oct-1Nov_2019.pdf">Itinerary_30Oct-1Nov_2019.pdf</a><br><a href="/files/Itinerary_6-8Nov_2019.pdf">Itinerary_6-8Nov_2019.pdf</a></p>
 </div>
-</li>
+	</li>
 </ul>

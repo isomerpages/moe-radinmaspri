@@ -4,13 +4,11 @@ permalink: /making-our-mark/radin-mas-times/
 description: ""
 variant: markdown
 ---
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024 Edition</strong></label>
-<div>
+<strong>2024 Edition</strong>
+
 <a target="_blank" href="/files/Radin%20Mas%20Times/2024/Radin_Mas_Times__Sem1__08_May24_web.pdf">Radin Mas Times 2024 Sem 1</a><br>
-</div>
-</li>
-</ul>
+<a target="_blank" href="/files/Radin%20Mas%20Times/2024/Radin_Mas_Times__Sem2__2024_web.pdf">Radin Mas Times 2024 Sem 2</a><br>[]()
+
 
 <h3>Archive</h3>
 <ul class="jekyllcodex_accordion">
