@@ -8,12 +8,10 @@ variant: markdown
 <strong>2025</strong>
 <p><u><strong>Primary 1 Orientation Slides (For 2025 Cohort)<br></strong></u><strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/P1_Orientation_for_Parents_8_Nov_2024.pdf">P1 Orientation for Parents 8 Nov 2024</a>
 </strong><br>
-<strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/RMPS_Guide_for_Parents_compressed.pdf">RMPS Guide for Parents</a><br>
-<strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/PL_P1Orientation2024_compressed.pdf">Parent Link</a>
-	</strong></strong></p><strong>
+<strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/RMPS_Guide_for_Parents_compressed.pdf">RMPS Guide for Parents</a></strong><br>
+<strong><a target="_blank" href="/files/Slides%20for%20Parents/2025/PL_P1Orientation2024_compressed.pdf">Parent Link</a></strong></p>
 
-
-</strong><ul class="jekyllcodex_accordion"><strong>
+<ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024</strong></label><div>
 <p><u><strong>Primary 1 Orientation Slides (For 2024 Cohort)<br></strong></u><a target="_blank" href="/files/Slides%20for%20Parents/2024/P1_Orientation_for_Parents_10_Nov_2023.pdf">P1 Orientation for Parents 10 Nov 2023</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/2023_School_Tour.pdf">School Tour</a><br>
@@ -68,7 +66,7 @@ variant: markdown
 	<a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P4_2024.pdf">Dialogue with SL_P4</a><br>
 	<a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P5_2024.pdf">Dialogue with SL_P5</a><br>
 <a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P6_2024.pdf">Dialogue with SL_P6</a></p>
-</div></li></strong></ul><strong><strong>
+</div></li></ul><strong><strong>
 
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
 <div>
