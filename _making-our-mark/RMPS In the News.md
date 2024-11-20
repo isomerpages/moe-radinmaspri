@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 <ol>
+	<li>Post PSLE interview with Alicia Khong - Fuelling Passion through coding by Mediacorp 8world on 20th November 2024<br><a target="_blank" href="https://www.8world.com/singapore/psle-profile-radin-mas-primary-school-alicia-2627501">Post PSLE interview with Alicia Khong</a>
+	</li>
 	<li>RMPS students performed in the Bukit Purmei Mid-Autumn Festival 2024! Bukit Purmei Zone A's Facebook post on 14th September 2024<br><a target="_blank" href="https://www.facebook.com/share/p/ZweihKrxXd9CJyRe">2024 Bukit Purmei Mid-Autumn Festival</a>
 	</li>
 	<li>RMPS students participated in the 28th National Primary Schools On-the-spot Chinese Creative Essay Writing Competition, Published on 新加坡福州会馆笔耕获奖作品 23 <br><a target="_blank" href="/files/28th_national_primary_chinese_creative_essay_writing.pdf">28th National Primary Schools On-the-spot Chinese Creative Essay Writing Competition RMPS students award entries</a>
