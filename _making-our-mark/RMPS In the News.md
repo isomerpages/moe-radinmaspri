@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 <ol>
-	<li>Post PSLE interview with Alicia Khong - Fuelling Passion through coding by Mediacorp 8world &amp; Lianhe Zaobao on 20th November 2024<br><a target="_blank" href="https://www.8world.com/singapore/psle-profile-radin-mas-primary-school-alicia-2627501">Article on Mediacorp 8world</a><br><a target="_blank" href="https://fb.watch/v_j6mxa7-I">Interview with Lianhe Zaobao</a>
+	<li>Post PSLE interview with Alicia Khong - Fuelling Passion through coding by Mediacorp 8world, Lianhe Zaobao and Capital 958 on 20th November 2024<br><a target="_blank" href="https://www.8world.com/singapore/psle-profile-radin-mas-primary-school-alicia-2627501">Article on Mediacorp 8world</a><br><a target="_blank" href="https://fb.watch/v_j6mxa7-I">Interview video with Lianhe Zaobao</a>
+		<br><a target="_blank" href="https://www.zaobao.com.sg/realtime/singapore/story20241120-5375113">Interview article with Lianhe Zaobao</a><br><a target="_blank" href="https://fb.watch/v_grWANHm6/?mibextid=qC1gEa">Interview video with Mediacorp Capital 958</a>
 	</li>
 	<li>RMPS students performed in the Bukit Purmei Mid-Autumn Festival 2024! Bukit Purmei Zone A's Facebook post on 14th September 2024<br><a target="_blank" href="https://www.facebook.com/share/p/ZweihKrxXd9CJyRe">2024 Bukit Purmei Mid-Autumn Festival</a>
 	</li>
