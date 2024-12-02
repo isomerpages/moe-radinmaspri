@@ -24,7 +24,7 @@ description: School Canteen Advertisement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Western</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -35,7 +35,18 @@ description: School Canteen Advertisement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Korean</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Japanese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
