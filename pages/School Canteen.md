@@ -66,7 +66,9 @@ etc</p>
 <li>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School’s General Office.
-<br>Address: 1 Bukit Purmei Avenue Singapore 099840
+<br>
+</p>
+<p>Address: 1 Bukit Purmei Avenue Singapore 099840
 <br>Contact No: 6273 3937
 <br>Email: <a href="mailto:rmps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rmps@moe.edu.sg</a>
 <br>Contact Person: Mdm Gracia Tye</p>
