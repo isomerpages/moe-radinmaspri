@@ -62,31 +62,22 @@ hardcopy from the School’s General Office.
 <br>List of proposed menu and pricing for all items
 <br>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
-<p></p>
 </li>
 <li>
 <p>Submit the completed application form and documents by closing date via
-email OR to the School’s General Office.</p>
-<p>Address: 1 Bukit Purmei Avenue Singapore 099840</p>
-<p>Contact No: 6273 3937</p>
-<p>Email: <a href="mailto:rmps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rmps@moe.edu.sg</a>
-</p>
-<p>Contact Person: Mdm Gracia Tye</p>
+email OR to the School’s General Office.
+<br>Address: 1 Bukit Purmei Avenue Singapore 099840
+<br>Contact No: 6273 3937
+<br>Email: <a href="mailto:rmps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rmps@moe.edu.sg</a>
+<br>Contact Person: Mdm Gracia Tye</p>
 </li>
 </ol>
 <p><strong>How to get there?</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nearest MRT: Tiong Bahru (EW17) / Harbourfront (NE1/CC29)</p>
-</li>
-<li>
-<p>Bus number: 123 / 123M / 131 / 131M to Bukit Purmei
-<br>
+<p>Nearest MRT: Tiong Bahru (EW17) / Harbourfront (NE1/CC29)
+<br>Bus number: 123 / 123M / 131 / 131M to Bukit Purmei
 <br>123 / 123M / 131 / 131M / 855 / 195 / 121 / 65 to Lower Delta (bus stop
 infront and opposite of St Theresa's Convent)</p>
-</li>
-</ul>
 <p><strong>Interest applicants must meet the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
