@@ -117,6 +117,7 @@ Singapore Food Agency (SFA).</p>
 </li>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
-</p>
-<p><a href="https://www.andersonpri.moe.edu.sg/connect/service-providers/school-bus/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<a href="https://www.andersonpri.moe.edu.sg/connect/service-providers/school-bus/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>
 </p>
