@@ -1,7 +1,7 @@
 ---
 title: School Canteen
 permalink: /school-canteen/
-variant: markdown
+variant: tiptap
 description: School Canteen Advertisement
 ---
 <table style="minWidth: 75px">
@@ -24,21 +24,10 @@ description: School Canteen Advertisement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western</p>
+<p>Chinese Economy Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Korean</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>15 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -46,13 +35,13 @@ description: School Canteen Advertisement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Japanese</p>
+<p>Halal Western</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pizza, waffles, sandwiches, mashed potatoes</p>
 </td>
 </tr>
 </tbody>
