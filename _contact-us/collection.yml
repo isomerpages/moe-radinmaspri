@@ -2,9 +2,9 @@ collections:
   contact-us:
     output: true
     order:
-      - School Canteen.md
       - School Information.md
       - School Bus.md
-      - Student Care.md
+      - School Canteen.md
       - School Bookshop & School Uniform.md
+      - Student Care.md
       - SLS Support for Home–Based Learning.md
