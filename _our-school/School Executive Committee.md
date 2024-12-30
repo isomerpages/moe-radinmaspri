@@ -4,26 +4,25 @@ permalink: /our-school/school-executive-committee/
 description: ""
 variant: markdown
 ---
-<img src="/images/2024/Dept/EXCO_24.jpg">
 <h4><strong>School Leaders</strong></h4>
 <hr>
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%"><img src="/images/EXCO/MrFarizal.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MrsWang.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/MrsTan_NgLiYi_.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024_v2.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>Principal<br>
-      </strong>Mr Muhammad Farizal Bin Umar Effendi</td>
+      </strong>Mrs Wang-Tan Sun Sun</td>
       <td align="center"><strong>Vice Principal (Academic)<br>
       </strong>Mrs Tan Li Yi</td>
       <td align="center"><strong>Vice Principal (Admin)<br>
       </strong>Ms Mary Goh</td>
     </tr>
     <tr>
-      <td><a href="mailto:muhd_farizal_umar_effe@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:tan_sun_sun@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:NG_Li_Yi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:mary_goh@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
@@ -35,22 +34,21 @@ variant: markdown
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%"><img src="/images/EXCO/GohSheowEn.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/LydiaWong.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/Miranti.jpg"></td>
+			<td width="33.33%"></td>
     </tr>
     <tr>
-      <td align="center"><strong>HOD English Language<br>
-      </strong>Mr Goh Sheow En</td>
       <td align="center"><strong>LH English Language<br>
       </strong>Mdm Wong Si En Lydia</td>
       <td align="center"><strong>ST English Language (Covering)</strong><br>
 Ms Miranti Abdullah</td>
+			<td align="center"></td>
     </tr>
     <tr>
-      <td><a href="mailto:goh_sheow_en@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:wong_si_en_lydia@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:miranti_abdullah@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+			<td></td>
     </tr>
   </tbody>
 </table>
@@ -59,22 +57,21 @@ Ms Miranti Abdullah</td>
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%"><img src="/images/EXCO/CelinaLeng.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/RuiSi.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/LeowChayHuan.jpg"></td>
+			<td width="33.33%"></td>
     </tr>
     <tr>
-      <td align="center"><strong>HOD Mathematics<br>
-      </strong>Mdm Leng Sok Wah Celina</td>
       <td align="center"><strong>LH Mathematics<br>
       </strong>Mdm See Rui Si</td>
       <td align="center"><strong>ST Mathematics<br>
       </strong>Mdm Leow Chay Huan</td>
+<td align="center"></td>
     </tr>
     <tr>
-      <td><a href="mailto:leng_sok_wah_celina@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:see_rui_si@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:leow_chay_huan@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+ <td></td>
     </tr>
   </tbody>
 </table>
@@ -84,41 +81,21 @@ Ms Miranti Abdullah</td>
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/HeanMei.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MadelineChang.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/CindyHan.jpg"></td>
+			<td width="33.33%"><img src="/images/EXCO/ZulaihaShireen.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>HOD Science<br>
-      </strong>Mdm Chan Hean Mei</td>
-			 <td align="center"><strong>LT Science<br>
-      </strong>Miss Madeline Chang</td>
+				</strong>Mdm Chan Hean Mei</td>
       <td align="center"><strong>LH Science<br>
 				</strong>Mdm Cindy Han Qiuyan</td>
+			<td align="center"><strong>ST Science<br>
+      </strong>Mdm Zulaiha Shireen Bte Mohamed Salleh</td>
     </tr>
     <tr>
       <td><a href="mailto:chan_hean_mei@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:chang_seok_peng_madeline@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
 			<td><a href="mailto:han_qiuyan_cindy@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-  </tbody>
-</table>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/ZulaihaShireen.jpg"></td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>ST Science<br>
-      </strong>Mdm Zulaiha Shireen Bte Mohamed Salleh</td>
-      <td align="center">&nbsp;</td>
-      <td align="center">&nbsp;</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:zulaiha_shireen@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+			<td><a href="mailto:zulaiha_shireen@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
   </tbody>
 </table>
@@ -129,8 +106,7 @@ Ms Miranti Abdullah</td>
     <tr>
 	<td width="33.33%"><img src="/images/EXCO/WanHuaming.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/WaiPing.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/AnthonyYew.jpg"></td>
-      
+			<td width="33.33%"><img src="/images/EXCO/AnthonyYew.jpg"></td>
     </tr>
     <tr>
 		<td align="center"><strong>HOD Mother Tongue<br>
@@ -144,7 +120,6 @@ Ms Miranti Abdullah</td>
 			 <td><a href="mailto:wan_huaming@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:lau_wai_ping@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:yew_chee_ching_anthony@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-
     </tr>
   </tbody>
 </table>
