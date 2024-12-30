@@ -4,7 +4,7 @@ permalink: /our-school/from-the-principals-desk/
 description: ""
 variant: markdown
 ---
-![](/images/P_Message_2024.jpg)
+![](/images/MrsWang_message.jpg)
 
 The rich heritage of Radin Mas Primary School forms the bedrock for quality holistic education.&nbsp;&nbsp;&nbsp; Since the humble beginnings of our school in 1926, we have evolved in keeping with times and raised generations of active and contributing citizens.
 
