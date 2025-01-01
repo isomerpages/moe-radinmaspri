@@ -204,7 +204,7 @@ Ms Miranti Abdullah</td>
       </strong>Mr Saravanan S/O Shanmugam</td>
       <td align="center"><strong>Subject Head ICT</strong><br>
 Mdm Zuraidah Binte Saidin</td>
-      <td align="center"><strong>Subject Head Data Management (Covering)</strong><br>
+      <td align="center"><strong>Subject Head Data Management</strong><br>
 Miss Stella Zhang Wenxin</td>
     </tr>
     <tr>

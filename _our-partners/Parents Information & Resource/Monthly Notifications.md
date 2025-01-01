@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Parents Information & Resource
 variant: markdown
 ---
+<strong>2025</strong>
+<p><strong>January<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Jan_2025_Notification_for_parents.pdf">Jan 2025 Notification for Parents/Guardians</a></p>
 
 <strong>2024</strong>
 <p><strong>January<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Jan_2024_Notification_for_parents_Final.pdf">Jan 2024 Notification for Parents/Guardians</a></p>
