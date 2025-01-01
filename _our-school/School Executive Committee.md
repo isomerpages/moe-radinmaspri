@@ -9,7 +9,7 @@ variant: markdown
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%"><img src="/images/EXCO/MrsWang.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MrsWang_1.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/MrsTan_NgLiYi_.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024_v2.jpg"></td>
     </tr>
