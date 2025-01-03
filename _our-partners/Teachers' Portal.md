@@ -10,6 +10,7 @@ variant: markdown
 <li><a href="https://www.hrp.gov.sg/hrp/#/" target="_blank" rel="noopener">HRP Portal</a></li>
 <li><a href="http://workspace.google.com/dashboard" target="_blank" rel="noopener">ICON2</a></li>
 <li><a href="https://iexams.seab.gov.sg/" target="_blank" rel="noopener">iEXAMS2</a></li>
+<li><a href="https://intranet.moe.gov.sg" target="_blank" rel="noopener">Intranet</a></li>
 <li><a href="https://www.mesrc.net/" target="_blank" rel="noopener">MESRC</a></li>
 <li><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank" rel="noopener">MIMS Portal</a></li>
 <li><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3D-59cyhAwWGzgYY773pWg39HZoKdwl6xuWryS_Szpz8b02%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3D8i6xA7ZQEjK03FHJufBShIe1ta0hVfOKnMoDe_YVMS0%26code_challenge_method%3DS256%26nonce%3D-59cyhAwWGzgYY773pWg39HZoKdwl6xuWryS_Szpz8b02" target="_blank" rel="noopener">OPAL2.0</a></li>
