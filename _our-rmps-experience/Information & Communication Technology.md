@@ -20,7 +20,7 @@ variant: markdown
 <td style="text-align: center;">Mdm Zuraidah Binte Saidin</td>
 </tr>
 <tr>
-<td style="text-align: center;">Subject Head Data Management (Covering)</td>
+<td style="text-align: center;">Subject Head Data Management</td>
 <td style="text-align: center;">Miss Stella Zhang Wenxin</td>
 </tr>
 <tr>
