@@ -12,12 +12,8 @@ variant: markdown
 <th style="text-align: center;" colspan="2">Our&nbsp;Department</th>
 </tr>
 <tr>
-<td style="text-align: center;">Head of Department</td>
-<td style="text-align: center;">Mdm Leng Sok Wah Celina</td>
-</tr>
-<tr>
 <td style="text-align: center;">Level Head</td>
-<td style="text-align: center;">Ms See Rui Si</td>
+<td style="text-align: center;">Mdm See Rui Si</td>
 </tr>
 <tr>
 <td style="text-align: center;">Senior Teacher</td>
@@ -77,7 +73,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Ms Gayatri</td>
+<td style="text-align: center;">Ms Nancy</td>
 </tr>
 </tbody>
 </table>
