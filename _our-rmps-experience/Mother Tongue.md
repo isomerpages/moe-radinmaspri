@@ -61,19 +61,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mrs K Malarvizhi</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Poh Chiew Hui</td>
+<td style="text-align: center;">Mdm K Malarvizhi <br>(Mrs Anba)</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Ms Nurhanis Binte Aziz</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mrs Tan Khim Yong</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
@@ -82,10 +74,6 @@ variant: markdown
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Suguna Mary</td>
-</tr>
-	<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Tan Hai Leng</td>
 </tr>
 </tbody>
 </table>
