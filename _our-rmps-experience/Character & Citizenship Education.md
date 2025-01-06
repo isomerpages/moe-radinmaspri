@@ -48,10 +48,6 @@ variant: markdown
 <td style="text-align: center;">Ms Nasheera Begum Bte Mohamad Shah</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Miss Tan Jia Min</td>
-</tr>
-<tr>
 <td style="text-align: center;">Senior School Counsellor</td>
 <td style="text-align: center;">Mdm Eleanor Neo Ee Shiang</td>
 </tr>
