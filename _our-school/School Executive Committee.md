@@ -35,19 +35,17 @@ variant: markdown
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/LydiaWong.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Miranti.jpg"></td>
+      <td width="33.33%"></td>
 			<td width="33.33%"></td>
     </tr>
     <tr>
       <td align="center"><strong>LH English Language<br>
-      </strong>Mdm Wong Si En Lydia</td>
-      <td align="center"><strong>ST English Language (Covering)</strong><br>
-Ms Miranti Abdullah</td>
+				</strong>Mdm Wong Si En Lydia</td>
 			<td align="center"></td>
     </tr>
     <tr>
       <td><a href="mailto:wong_si_en_lydia@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:miranti_abdullah@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td></td>
 			<td></td>
     </tr>
   </tbody>
@@ -220,41 +218,21 @@ Miss Stella Zhang Wenxin</td>
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/Idham.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/YuLing.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/JunKiat.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/JoyceGoh.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>HOD PE, CCA &amp; Aesthetics<br>
       </strong>Mr Idham Anis Ashiblie</td>
-      <td align="center"><strong>SH Aesthetics<br>
-      </strong>Mdm Wong Yu Ling</td>
       <td align="center"><strong>SH PE &amp; CCA<br>
       </strong>Mr Ng Jun Kiat</td>
+      <td align="center"><strong>ST PE<br>
+      </strong>Mdm Joyce Goh (Mrs Won)</td>
     </tr>
     <tr>
       <td><a href="mailto:idham_anis_ashiblie@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:wong_yu_ling@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:ng_jun_kiat@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-  </tbody>
-</table>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/JoyceGoh.jpg"></td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>ST PE<br>
-      </strong>Mdm Joyce Goh (Mrs Won)</td>
-      <td align="center">&nbsp;</td>
-      <td align="center">&nbsp;</td>
-    </tr>
-    <tr>
       <td><a href="mailto:goh_yan_ling_joyce@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
     </tr>
   </tbody>
 </table>

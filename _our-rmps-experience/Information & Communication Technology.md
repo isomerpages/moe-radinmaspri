@@ -33,11 +33,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Nanthini Krishnasamy</td>
+<td style="text-align: center;">Mdm Nanthini d/o Krishnasamy</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Tan Zheng Lun Andy&nbsp;</td>
+<td style="text-align: center;">ICT Associate</td>
+<td style="text-align: center;">Mr Tan Zheng Lun Andy</td>
 </tr>
 <tr>
 <td style="text-align: center;">Desktop Engineers</td>
