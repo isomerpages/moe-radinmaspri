@@ -35,19 +35,17 @@ variant: markdown
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/LydiaWong.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Miranti.jpg"></td>
+      <td width="33.33%"></td>
 			<td width="33.33%"></td>
     </tr>
     <tr>
       <td align="center"><strong>LH English Language<br>
-      </strong>Mdm Wong Si En Lydia</td>
-      <td align="center"><strong>ST English Language (Covering)</strong><br>
-Ms Miranti Abdullah</td>
+				</strong>Mdm Wong Si En Lydia</td>
 			<td align="center"></td>
     </tr>
     <tr>
       <td><a href="mailto:wong_si_en_lydia@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:miranti_abdullah@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td></td>
 			<td></td>
     </tr>
   </tbody>
