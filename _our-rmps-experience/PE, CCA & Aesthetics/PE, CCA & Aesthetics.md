@@ -17,10 +17,6 @@ variant: markdown
 <td style="text-align: center;">Mr Idham Anis Ashiblie</td>
 </tr>
 <tr>
-<td style="text-align: center;">Subject Head Aesthetics</td>
-<td style="text-align: center;">Mdm Wong Yu Ling</td>
-</tr>
-<tr>
 <td style="text-align: center;">Subject Head PE &amp; CCA</td>
 <td style="text-align: center;">Mr Ng Jun Kiat</td>
 </tr>
@@ -50,15 +46,23 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Magdalene Lim</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Miss Winnie Dang</td>
+<td style="text-align: center;">Mr Ong Kai Sin</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Ms Gioann Lim</td>
+</tr>
+	<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Mr Lim Yiquan Jobb</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Mdm Wong Yu Ling</td>
+</tr>
+	<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Mdm Magdalene Lim</td>
 </tr>
 </tbody>
 </table>
