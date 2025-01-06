@@ -16,10 +16,6 @@ variant: markdown
 <td style="text-align: center;">Mdm Chan Hean Mei</td>
 </tr>
 <tr>
-<td style="text-align: center;">Lead Teacher</td>
-<td style="text-align: center;">Miss Madeline Chang</td>
-</tr>
-<tr>
 <td style="text-align: center;">Level Head</td>
 <td style="text-align: center;">Mdm Han Qiuyan Cindy</td>
 </tr>
