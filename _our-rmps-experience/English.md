@@ -12,10 +12,6 @@ variant: markdown
 <th style="text-align: center;" colspan="2">Our&nbsp;Department&nbsp;</th>
 </tr>
 <tr>
-<td style="text-align: center;">Head of Department</td>
-<td style="text-align: center;">Mr Goh Sheow En</td>
-</tr>
-<tr>
 <td style="text-align: center;">Level Head</td>
 <td style="text-align: center;">Mdm Wong SE Lydia</td>
 </tr>
@@ -28,11 +24,11 @@ variant: markdown
 <td style="text-align: center;">Mrs Elizabeth Elaine Lim</td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior Teacher (Covering)</td>
+<td style="text-align: center;">Members</td>
 <td style="text-align: center;">Ms Miranti Abdullah</td>
 </tr>
 <tr>
-<td style="text-align: center;">Members</td>
+<td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Miss Chan May Ling</td>
 </tr>
 <tr>
@@ -63,13 +59,12 @@ variant: markdown
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Sharon Tai SY</td>
 </tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mrs Yew Poh Kwong</td>
-</tr>
 	<tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Miss Kanapathipillai Gangadevi</td>
+</tr>	<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Ms Maria</td>
 </tr>
 </tbody>
 </table>
