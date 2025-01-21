@@ -9,8 +9,8 @@ variant: markdown
 <table border="1" width="100%">
   <tbody>
     <tr>
-      <td><img src="/images/WhatsApp_Image_2025_01_21_at_09_16_03.jpg"></td>
-      <td><img src="/images/WhatsApp_Image_2025_01_21_at_09_16_04.jpg"></td>
+      <td><img src="/images/plate_artwork1.jpg"></td>
+      <td><img src="/images/plate_artwork2.jpg"></td>
     </tr>
   </tbody>
 </table>
