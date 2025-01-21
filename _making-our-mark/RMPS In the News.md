@@ -5,6 +5,12 @@ description: ""
 variant: markdown
 ---
 <ol>
+	<li>Art work done by Radin Mas Primary School for Radin Mas Arts Week in July 2024. Displayed outside Blk 108 Bukit Purmei Zone A RN Centre after event Currently preparing for display at Chingay F1 Pit on 7 &amp; 8 February 2025<br>
+
+| ![](/images/WhatsApp_Image_2025_01_21_at_09_16_03.jpg) | ![](/images/WhatsApp_Image_2025_01_21_at_09_16_04.jpg) | 
+| -------- | -------- | 
+|      |     |
+</li>
 	<li>Post PSLE interview with Alicia Khong - Fuelling Passion through coding by Mediacorp 8world, Lianhe Zaobao and Capital 958 on 20th November 2024<br><a target="_blank" href="https://www.8world.com/singapore/psle-profile-radin-mas-primary-school-alicia-2627501">Article on Mediacorp 8world</a><br><a target="_blank" href="https://fb.watch/v_j6mxa7-I">Interview video with Lianhe Zaobao</a>
 		<br><a target="_blank" href="https://www.zaobao.com.sg/realtime/singapore/story20241120-5375113">Interview article with Lianhe Zaobao</a><br><a target="_blank" href="https://fb.watch/v_grWANHm6/?mibextid=qC1gEa">Interview video with Mediacorp Capital 958</a>
 	</li>
