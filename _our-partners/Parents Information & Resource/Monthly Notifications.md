@@ -5,10 +5,14 @@ description: ""
 third_nav_title: Parents Information & Resource
 variant: markdown
 ---
-<strong>2025</strong>
-<p><strong>January<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Jan_2025_Notification_for_parents.pdf">Jan 2025 Notification for Parents/Guardians</a></p>
-
-<strong>2024</strong>
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2025</strong></label>
+<div>
+<p><strong>January<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Jan_2025_Notification_for_parents.pdf">Jan 2025 Notification for Parents/Guardians</a>
+</p>
+</div></li>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2024</strong></label>
+<div>
 <p><strong>January<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Jan_2024_Notification_for_parents_Final.pdf">Jan 2024 Notification for Parents/Guardians</a></p>
 
 <p><strong>February<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Feb_2024_Notification_for_Parents.pdf">Feb 2024 Notification for Parents/Guardians</a></p>
@@ -29,11 +33,10 @@ variant: markdown
 
 <p><strong>October<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Oct_2024_Notification_for_parents.pdf">Oct 2024 Notification for Parents/Guardians</a></p>
 
-<p><strong>November<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Nov_2024_Notification_for_parents.pdf">Nov 2024 Notification for Parents/Guardians</a></p>
-<br>
-
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2023</strong></label>
+<p><strong>November<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Nov_2024_Notification_for_parents.pdf">Nov 2024 Notification for Parents/Guardians</a>
+</p>
+</div></li>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3"><strong>2023</strong></label>
 <div>
 <p><strong>January<br></strong><a href="/files/Jan%202023%20for%20P1%20parents_final.pdf">Jan 2023 for P1 parents_final.pdf</a><br><a href="/files/Jan%202023%20for%20P2-6%20parents_final.pdf">Jan 2023 for P2-6 parents_final.pdf</a></p>
 <p><strong>February<br></strong><a href="/files/2023%20RMPS%20P6%20Camp%20Packing%20List.pdf">2023 RMPS P6 Camp Packing List.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P1_P2.pdf">Feb 2023 Notification for parents_P1_P2.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P3.pdf">Feb 2023 Notification for parents_P3.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P4.pdf">Feb 2023 Notification for parents_P4.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P5.pdf">Feb 2023 Notification for parents_P5.pdf</a><br><a href="/files/Feb%202023%20Notification%20for%20parents_P6.pdf">Feb 2023 Notification for parents_P6.pdf</a><br><a href="/files/P3%20School-based%20assessments_2023.pdf">P3 School-based assessments_2023.pdf</a><br><a href="/files/P4%20School-based%20assessments_2023.pdf">P4 School-based assessments_2023.pdf</a><br><a href="/files/P5%20School-based%20assessments_2023.pdf">P5 School-based assessments_2023.pdf</a><br><a href="/files/P6%20Assessment%20Circular_2023.pdf">P6 Assessment Circular_2023.pdf</a></p>
@@ -51,10 +54,10 @@ variant: markdown
 	<p><strong>October<br></strong><a target="_blank" href="/files/Monthly%20Notifications/oct%202023%20notification%20for%20parents.pdf">Oct 2023 Notification for Parents</a>
 	</p>
 	<p><strong>November<br></strong><a target="_blank" href="/files/Monthly%20Notifications/nov%202023%20notification%20for%20parents.pdf">Nov 2023 Notification for Parents</a>
-	</p>
+</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2022</strong></label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4"><strong>2022</strong></label>
 <div>
 <p><strong>January<br></strong><a href="/files/Jan%202022%20for%20P1%20parents_final.pdf">Jan 2022 for P1 parents_final.pdf</a><br><a href="/files/Jan%202022%20for%20P2-6%20parents_final.pdf">Jan 2022 for P2-6 parents_final.pdf</a></p>
 <p><strong>February<br></strong><a href="/files/Feb%202022%20for%20Parents_Final.pdf">Feb 2022 for Parents_Final.pdf</a><br><a href="/files/Feb%202022%20for%20Parents_P3.pdf">Feb 2022 for Parents_P3.pdf</a><br><a href="/files/Feb%202022%20for%20Parents_P5.pdf">Feb 2022 for Parents_P5.pdf</a></p>
@@ -69,7 +72,7 @@ variant: markdown
 <p><strong>November<br></strong><a href="/files/Nov%202022%20Notification%20for%20parents_final.pdf">Nov 2022 Notification for parents_final.pdf</a><br><a href="/files/Annex%202-Buying-Guide-101-user-guide.pdf">Annex 2-Buying-Guide-101-user-guide.pdf</a><br><a href="/files/RMPS%202022%20Uniform%20Pricelist_1-1.pdf">RMPS 2022 Uniform Pricelist_1-1.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3"><strong>2021</strong></label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5"><strong>2021</strong></label>
 <div>
 <p><strong>January</strong><br><a href="/files/Jan%202021%20P1.pdf">Jan 2021 P1.pdf</a><br><a href="/files/Jan%202021%20P2-P6.pdf">Jan 2021 P2-P6.pdf</a></p>
 <p><strong>February<br></strong><a href="/files/Feb%202021.pdf">Feb 2021.pdf</a></p>
@@ -83,7 +86,7 @@ variant: markdown
 <p><strong>November<br></strong><a href="/files/Nov_21%20Notification.pdf">Nov_21 Notification.pdf</a><br><a href="/files/Annex%202%20-%20Steps%20on%20purchasing%20of%20uniform%20online.pdf">Annex 2 - Steps on purchasing of uniform online.pdf</a><br><a href="/files/Annex%203%20-%20Info%20sheet%20on%20school%20bus%20services.pdf">Annex 3 - Info sheet on school bus services.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4"><strong>2020</strong></label>
+<li><input id="accordion6> <label for=" type="checkbox"><strong>2020</strong>
 <div>
 <p><strong>January<br></strong><a href="/files/Jan%202020.pdf">Jan 2020.pdf</a></p>
 <p><strong>February&nbsp;<br></strong><a href="/files/Feb%202020.pdf">Feb 2020.pdf</a><br><a href="/files/P3%20Assessment%20Circular.pdf">P3 Assessment Circular.pdf</a></p>
@@ -97,7 +100,7 @@ variant: markdown
 <p><strong>November<br></strong><a href="/files/Nov%202020.pdf">Nov 2020.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5"><strong>2019</strong></label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7"><strong>2019</strong></label>
 <div>
 <p><strong>January<br></strong><a href="/files/Jan%202019.pdf">Jan 2019.pdf</a></p>
 <p><strong>February<br></strong><a href="/files/Feb%202019.pdf">Feb 2019.pdf</a></p>
