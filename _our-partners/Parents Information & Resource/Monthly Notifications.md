@@ -86,7 +86,7 @@ variant: markdown
 <p><strong>November<br></strong><a href="/files/Nov_21%20Notification.pdf">Nov_21 Notification.pdf</a><br><a href="/files/Annex%202%20-%20Steps%20on%20purchasing%20of%20uniform%20online.pdf">Annex 2 - Steps on purchasing of uniform online.pdf</a><br><a href="/files/Annex%203%20-%20Info%20sheet%20on%20school%20bus%20services.pdf">Annex 3 - Info sheet on school bus services.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion6> <label for=" type="checkbox"><strong>2020</strong>
+	<li><input id="accordion6" type="checkbox">  <label for="accordion6"><strong>2020</strong></label>
 <div>
 <p><strong>January<br></strong><a href="/files/Jan%202020.pdf">Jan 2020.pdf</a></p>
 <p><strong>February&nbsp;<br></strong><a href="/files/Feb%202020.pdf">Feb 2020.pdf</a><br><a href="/files/P3%20Assessment%20Circular.pdf">P3 Assessment Circular.pdf</a></p>
