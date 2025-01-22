@@ -6,7 +6,8 @@ third_nav_title: Parents Information & Resource
 variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2025</strong></label><div>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2025</strong></label>
+	<div>
 <p><u><strong>Primary 1 Orientation Slides (For 2025 Cohort)<br></strong></u><a target="_blank" href="/files/Slides%20for%20Parents/2025/P1_Orientation_for_Parents_8_Nov_2024.pdf">P1 Orientation for Parents 8 Nov 2024</a>
 <br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2025/RMPS_Guide_for_Parents_compressed.pdf">RMPS Guide for Parents</a><br>
@@ -18,9 +19,15 @@ variant: markdown
 	<a target="_blank" href="/files/Slides%20for%20Parents/2025/Mother_Tongue_P1_2025.pdf">MT P1 Parents Briefing 2025</a><br>
 	<a target="_blank" href="/files/Slides%20for%20Parents/2025/PE__Art_Music_P1_2025.pdf">PE, Art, Music P1 Parents Briefing 2025</a><br>
 	<a target="_blank" href="/files/Slides%20for%20Parents/2025/MontfortCare_Transition_to_P1_Slides_2025.pdf">Transition to P1 Slides</a><br>
-	<a target="_blank" href="/files/Slides%20for%20Parents/2025/MontfortCare_Transition2P1_TipSheet_2025.pdf">Transition to P1 Tipsheet</a><br>
-	</p></div></li>
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2024</strong></label><div>
+	<a target="_blank" href="/files/Slides%20for%20Parents/2025/MontfortCare_Transition2P1_TipSheet_2025.pdf">Transition to P1 Tipsheet</a><br><br>
+	<strong>Primary 6</strong><br>
+<a target="_blank" href="/files/Slides%20for%20Parents/2025/P6_PTM_P_Address_2025.pdf">P6 PTM Principal Address 2025</a><br>
+	<a target="_blank" href="/files/Slides%20for%20Parents/2025/P6_PTM_SL_Address_2025.pdf">P6 PTM SL Address 2025</a><br>
+	<a target="_blank" href="/files/Slides%20for%20Parents/2025/P6_PTM_Year_Head_Address_2025.pdf">P6 PTM Year Head Address 2025</a></p>
+	</div>
+	</li>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2024</strong></label>
+	<div>
 <p><u><strong>Primary 1 Orientation Slides (For 2024 Cohort)<br></strong></u><a target="_blank" href="/files/Slides%20for%20Parents/2024/P1_Orientation_for_Parents_10_Nov_2023.pdf">P1 Orientation for Parents 10 Nov 2023</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/2023_School_Tour.pdf">School Tour</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/Finance_Matters.pdf">Finance Matters</a><br>
@@ -76,7 +83,7 @@ variant: markdown
 <a href="/files/Slides%20for%20Parents/2024/Dialogue_with_School_Leaders_P6_2024.pdf">Dialogue with SL_P6</a></p>
 </div></li>
 
-<li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2023</strong></label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3"><strong>2023</strong></label>
 <div>
 <p><u><strong>Primary 1 Orientation Slides (For 2023 Cohort)<br></strong></u><a href="/files/P1%20Orientation%20for%20Parents%2011%20Nov%202022.pdf">P1 Orientation for Parents 11 Nov 2022.pdf</a></p>
 <p><u></u><strong><u>Parents' Briefing Slides<br></u></strong><strong>Primary 1<br>
@@ -96,7 +103,7 @@ variant: markdown
 	<p><u><strong>Primary 5 Cohort Camp 2023 Slides<br></strong></u><a target="_blank" href="/files/Slides%20for%20Parents/2023/p5%20cohort%20camp%202023_presentation%20for%20parents.pdf">P5 Cohort Camp 2023 Slides.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3"><strong>2022</strong></label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4"><strong>2022</strong></label>
 <div>
 <p><u><strong>P1 e-Orientation Slides (For 2022 Cohort)<br></strong></u><a href="/files/P1%20e-orientation%2012%20Nov%202021%20parents.pdf">P1 e-orientation 12 Nov 2021 parents.pdf</a></p>
 <p><strong><u>Parents' Briefing Slides<br></u></strong><strong>P1<br></strong><a href="/files/2022_P1_Parents%20Briefing%20Slides%20by%20School%20Leaders.pdf">2022_P1_Parents Briefing Slides by School Leaders.pdf</a><br><a href="/files/2022_P1_English%20Briefing.pdf">2022_P1_English Briefing.pdf</a><br><a href="/files/2022_P1_Mathematics%20Briefing.pdf">2022_P1_Mathematics Briefing.pdf</a><br><a href="/files/2022_P1_MT%20Briefing.pdf">2022_P1_MT Briefing.pdf</a><br><a href="/files/2022_P1_PAM%20Briefing.pdf">2022_P1_PAM Briefing.pdf</a><br><a href="/files/2022_P1_CCE%20Briefing.pdf">2022_P1_CCE Briefing.pdf</a><br><a href="/files/2022_P1%20Transition%20Talk.pdf">2022_P1 Transition Talk.pdf</a></p>
@@ -109,7 +116,7 @@ variant: markdown
 <p><strong>Dialogue with School Leaders<br></strong><a href="/files/Dialogue%20with%20SL_P1.pdf">Dialogue with SL_P1.pdf</a><br><a href="/files/Dialogue%20with%20SL_P2.pdf">Dialogue with SL_P2.pdf</a><br><a href="/files/Dialogue%20with%20SL_P3.pdf">Dialogue with SL_P3.pdf</a><br><a href="/files/Dialogue%20with%20SL_P4.pdf">Dialogue with SL_P4.pdf</a><br><a href="/files/Dialogue%20with%20SL_P5.pdf">Dialogue with SL_P5.pdf</a><br><a href="/files/Dialogue%20with%20SL_P6.pdf">Dialogue with SL_P6.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4"><strong>2021</strong></label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5"><strong>2021</strong></label>
 <div>
 <p><u><strong>P1 e-Orientation Slides (For 2021 Cohort)<br></strong></u>The slides and videos shared during P1 e-Orientation can be found&nbsp;<a href="https://drive.google.com/drive/folders/1bf_T5sJMjuR8-bhV6o9JanLI_JEw2-F7?usp=sharing" target="_blank" rel="noopener">here</a>.</p>
 <p><u></u><strong><u>Parents' Briefing Slides<br></u></strong><strong>P1<br></strong><a href="/files/2021_P1%20Parents%20Briefing%20Slides_Principal%20Message.pdf">2021_P1 Parents Briefing Slides_Principal Message.pdf</a><br><a href="/files/2021_P1_English%20Briefing.pdf">2021_P1_English Briefing.pdf</a><br><a href="/files/2021_P1_Math%20Briefing.pdf">2021_P1_Math Briefing.pdf</a><br><a href="/files/2021_P1_Mother%20Tongue%20Briefing.pdf">2021_P1_Mother Tongue Briefing.pdf</a><br><a href="/files/2021_P1_PAM%20Briefing.pdf">2021_P1_PAM Briefing.pdf</a><br><a href="/files/2021_P1_CCE%20Briefing.pdf">2021_P1_CCE Briefing.pdf</a><br><a href="/files/2021_P1_Discipline%20Briefing.pdf">2021_P1_Discipline Briefing.pdf</a></p>
@@ -120,7 +127,7 @@ variant: markdown
 <p><strong>P6<br></strong><a href="/files/P6PTM2021_P_Address.pdf">P6PTM2021_P_Address.pdf</a><br><a href="/files/P6PTM2021_YH_Address.pdf">P6PTM2021_YH_Address.pdf</a><br><a href="/files/P6PTM2021_EL.pdf">P6PTM2021_EL.pdf</a><br><a href="/files/P6PTM2021_Ma.pdf">P6PTM2021_Ma.pdf</a><br><a href="/files/P6PTM2021_Sc.pdf">P6PTM2021_Sc.pdf</a><br><a href="/files/P6PTM2021_MT.pdf">P6PTM2021_MT.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5"><strong>2020</strong></label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6"><strong>2020</strong></label>
 <div>
 <p><strong>P1<br></strong><a href="/files/2020_P1%20Parents%20Briefing%20Slides_Principal%20Message.pdf">2020_P1 Parents Briefing Slides_Principal Message.pdf</a><br><a href="/files/2020_P1%20Parents%20Briefing%20Slides_EL.pdf">2020_P1 Parents Briefing Slides_EL.pdf</a><br><a href="/files/2020_P1%20Parents%20Briefing%20Slides_MA.pdf">2020_P1 Parents Briefing Slides_MA.pdf</a><br><a href="/files/2020_P1%20Parents%20Briefing%20Slides_CL.pdf">2020_P1 Parents Briefing Slides_CL.pdf</a><br><a href="/files/2020_P1%20Parents%20Briefing%20Slides_ML.pdf">2020_P1 Parents Briefing Slides_ML.pdf</a><br><a href="/files/2020_P1%20Parents%20Briefing%20Slides_TL.pdf">2020_P1 Parents Briefing Slides_TL.pdf</a><br><a href="/files/2020_P1%20Parents%20Briefing%20Slides_CCE.pdf">2020_P1 Parents Briefing Slides_CCE.pdf</a><br><a href="/files/2020_P1%20Parents%20Briefing%20Slides_ICT.pdf">2020_P1 Parents Briefing Slides_ICT.pdf</a><br><a href="/files/2020_P1%20Parents%20Briefing%20Slides_PAM.pdf">2020_P1 Parents Briefing Slides_PAM.pdf</a>&nbsp;</p>
 <p><strong>P3<br></strong><a href="/files/YH%20address%20to%20Primary%203%20PARENTS.pdf">YH address to Primary 3 PARENTS.pdf</a><br><a href="/files/P3%20EL%20Briefing%202020.pdf">P3 EL Briefing 2020.pdf</a><br><a href="/files/P3%20MA%20Briefing%202020.pdf">P3 MA Briefing 2020.pdf</a><br><a href="/files/P3%20MTL%20Briefing%202020.pdf">P3 MTL Briefing 2020.pdf</a><br><a href="/files/P3%20Science%20Briefing%202020.pdf">P3 Science Briefing 2020.pdf</a></p>
@@ -129,7 +136,7 @@ variant: markdown
 <p><strong>P6<br></strong><a href="/files/P6%20PTM/P6%20Principal/'s%20Address%202020.pdf">P6 Principal's Address 2020.pdf</a><br><a href="/files/P6%20YH%20Briefing%202020.pdf">P6 YH Briefing 2020.pdf</a><br><a href="/files/P6%20EL%20Briefing%202020.pdf">P6 EL Briefing 2020.pdf</a><br><a href="/files/P6%20MA%20Briefing%202020.pdf">P6 MA Briefing 2020.pdf</a><br><a href="/files/P6%20MTL%20Briefing%202020.pdf">P6 MTL Briefing 2020.pdf</a><br><a href="/files/P6%20Science%20Briefing%202020.pdf">P6 Science Briefing 2020.pdf</a></p>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6"><strong>2019</strong></label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7"><strong>2019</strong></label>
 <div>
 <p><strong><u>Parents' Briefing Slides<br></u></strong><strong>P1<br></strong><a href="/files/2019_P1%20Parents%20Briefing%20Slides_Principal%20Address.pdf">2019_P1 Parents Briefing Slides_Principal Address.pdf</a><br><a href="/files/2019_P1%20Parents%20Briefing%20Slides_EL.pdf">2019_P1 Parents Briefing Slides_EL.pdf</a><br><a href="/files/2019_P1%20Parents%20Briefing%20Slides_MA.pdf">2019_P1 Parents Briefing Slides_MA.pdf</a>&nbsp;<br><a href="/files/2019_P1%20Parents%20Briefing%20Slides_CL.pdf">2019_P1 Parents Briefing Slides_CL.pdf</a><br><a href="/files/2019_P1%20Parents%20Briefing%20Slides_ML.pdf">2019_P1 Parents Briefing Slides_ML.pdf</a>&nbsp;<br><a href="/files/2019_P1%20Parents%20Briefing%20Slides_TL.pdf">2019_P1 Parents Briefing Slides_TL.pdf</a><br><a href="/files/2019_P1%20Parents%20Briefing%20Slides_CCE.pdf">2019_P1 Parents Briefing Slides_CCE.pdf</a><br><a href="/files/2019_P1%20Parents%20Briefing%20Slides_ICT.pdf">2019_P1 Parents Briefing Slides_ICT.pdf</a><br><a href="/files/2019_P1%20Parents%20Briefing%20Slides_PAM.pdf">2019_P1 Parents Briefing Slides_PAM.pdf</a></p>
 <p><strong>P2<br></strong><a href="/files/Principal%E2%80%99s%20Address%20to%20Primary%202%20Parents.pdf">Principal’s Address to Primary 2 Parents.pdf</a><br><a href="/files/P2%20YH%20Briefing%202019.pdf">P2 YH Briefing 2019.pdf</a><br><a href="/files/P2%20EL%20Briefing%202019.pdf">P2 EL Briefing 2019.pdf</a><br><a href="/files/P2%20Math%20Briefing%202019.pdf">P2 Math Briefing 2019.pdf</a><br><a href="/files/P2%20MT%20Briefing%202019.pdf">P2 MT Briefing 2019.pdf</a></p>
