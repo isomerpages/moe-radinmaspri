@@ -6,7 +6,8 @@ third_nav_title: Parents Information & Resource
 variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2025</strong></label><div>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2025</strong></label>
+	<div>
 <p><u><strong>Primary 1 Orientation Slides (For 2025 Cohort)<br></strong></u><a target="_blank" href="/files/Slides%20for%20Parents/2025/P1_Orientation_for_Parents_8_Nov_2024.pdf">P1 Orientation for Parents 8 Nov 2024</a>
 <br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2025/RMPS_Guide_for_Parents_compressed.pdf">RMPS Guide for Parents</a><br>
@@ -22,9 +23,11 @@ variant: markdown
 	<strong>Primary 6</strong><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2025/P6_PTM_P_Address_2025.pdf">P6 PTM Principal Address 2025</a><br>
 	<a target="_blank" href="/files/Slides%20for%20Parents/2025/P6_PTM_SL_Address_2025.pdf">P6 PTM SL Address 2025</a><br>
-	<a target="_blank" href="/files/Slides%20for%20Parents/2025/P6_PTM_Year_Head_Address_2025.pdf">P6 PTM Year Head Address 2025</a><br>
-	</p></div></li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2024</strong></label><div>
+	<a target="_blank" href="/files/Slides%20for%20Parents/2025/P6_PTM_Year_Head_Address_2025.pdf">P6 PTM Year Head Address 2025</a></p>
+	</div>
+	</li>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2024</strong></label>
+	<div>
 <p><u><strong>Primary 1 Orientation Slides (For 2024 Cohort)<br></strong></u><a target="_blank" href="/files/Slides%20for%20Parents/2024/P1_Orientation_for_Parents_10_Nov_2023.pdf">P1 Orientation for Parents 10 Nov 2023</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/2023_School_Tour.pdf">School Tour</a><br>
 <a target="_blank" href="/files/Slides%20for%20Parents/2024/Finance_Matters.pdf">Finance Matters</a><br>
