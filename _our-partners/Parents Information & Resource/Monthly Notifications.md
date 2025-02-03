@@ -8,8 +8,9 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1"><strong>2025</strong></label>
 <div>
-<p><strong>January<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Jan_2025_Notification_for_parents.pdf">Jan 2025 Notification for Parents/Guardians</a>
-</p>
+<p><strong>January<br></strong><a target="_blank" href="/files/Monthly%20Notifications/Jan_2025_Notification_for_parents.pdf">Jan 2025 Notification for Parents/Guardians</a></p>
+	
+<p><strong>February<br></strong><a href="/files/Monthly%20Notifications/Feb_2025_Notification_for_parents.pdf">Feb 2025 Notification for Parents/Guardians</a></p>
 </div></li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2"><strong>2024</strong></label>
 <div>
