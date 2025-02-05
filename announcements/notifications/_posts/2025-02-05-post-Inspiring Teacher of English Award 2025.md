@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/inspiring_teacher_award_2025.png">
+</div>
 <p><strong>You are invited to nominate teachers of English for the Inspiring Teachers of English Award. This is a national award for English teachers in Singapore schools. It acknowledges teachers who ignite a love for the English language, and are effective in helping their students speak and write accurately.</strong>
 </p>
 <p><strong>If you would like to nominate your child’s teacher, you can download and complete the </strong>
