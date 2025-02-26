@@ -4,4 +4,4 @@ permalink: /our-school/calendar/
 description: ""
 variant: markdown
 ---
-<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_09d5d22740846bafdc5279c2dda0b5da2b67f734d1decadd48582b6ecba5ab67%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border-width:0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;showTitle=0&amp;hl=en_GB&amp;src=Y18wOWQ1ZDIyNzQwODQ2YmFmZGM1Mjc5YzJkZGEwYjVkYTJiNjdmNzM0ZDFkZWNhZGQ0ODU4MmI2ZWNiYTVhYjY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23C0CA33"></iframe>

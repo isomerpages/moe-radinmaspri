@@ -38,8 +38,4 @@ sections:
           description: ""
           linktext: FIND OUT MORE
           url: https://www.radinmaspri.moe.edu.sg/our-partners/parents-information-n-resources/monthly-notifications/
-        - title: Parent Volunteer Application Form 2025
-          description: ""
-          linktext: FIND OUT MORE
-          url: https://go.gov.sg/rmps-pv-2025
 ---
