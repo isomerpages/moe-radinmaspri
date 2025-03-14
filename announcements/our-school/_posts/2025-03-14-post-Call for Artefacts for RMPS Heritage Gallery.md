@@ -44,5 +44,6 @@ Gallery, please take a photo of the item(s) and submit the photo via the
 link: <a href="https://go.gov.sg/rmps100" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rmps100</a> by
 30 April 2025. We will contact you by 30 May 2025 if we want to display
 your item.&nbsp;&nbsp;</p>
-<p>If you have any questions, please feel free to contact Ms Olivia Tan (
-<a href="mailto:wei_peng_olivia_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wei_peng_olivia_tan@moe.edu.sg</a>) or Mdm Marianna (<a href="mailto:marianna_bt_mohamad_hanafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marianna_bt_mohamad_hanafi@moe.edu.sg</a>).</p>
+<p>If you have any questions, please feel free to contact:
+<br>Ms Olivia Tan ( <a href="mailto:wei_peng_olivia_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wei_peng_olivia_tan@moe.edu.sg</a>)
+<br>Mdm Marianna (<a href="mailto:marianna_bt_mohamad_hanafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marianna_bt_mohamad_hanafi@moe.edu.sg</a>).</p>
