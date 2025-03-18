@@ -27,7 +27,7 @@ description: School Canteen Advertisement
 <p>Chinese Economy Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Feb 2025</p>
+<p>30 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -38,7 +38,7 @@ description: School Canteen Advertisement
 <p>Halal Western</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Feb 2025</p>
+<p>30 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pizza, waffles, sandwiches, mashed potatoes</p>
