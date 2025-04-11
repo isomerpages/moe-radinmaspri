@@ -10,7 +10,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWmAvg7wbgVon0Q6Ce7-00AzkCKcpN-77p3zS4ZgRGWALtIknPFdsIJaoWh6qj876GGnKJdEP-s3Fy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p><strong>O</strong>ur CCA</p>
+<h4><strong>Our CCA</strong></h4>
 <p>Art &amp; Crafts CCA at Radin Mas Primary School is a creative space where
 imagination meets hands-on creativity. Designed for students passionate
 about the Visual Arts, this CCA goes beyond traditional drawing and coloring,
@@ -47,7 +47,7 @@ artwork.</p>
 <p>Nature-Inspired Art - Use natural materials for eco-friendly crafts.</p>
 </li>
 </ul>
-<p><strong>O</strong>ur Teacher(s) in charge:</p>
+<h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mrs Jayakumar</p>
@@ -62,7 +62,7 @@ artwork.</p>
 <p>Mdm Faizah</p>
 </li>
 </ul>
-<p><strong>O</strong>ur CCA schedule:</p>
+<h4><strong>Our CCA schedule:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Every Monday, 2.15 pm - 4.15pm</p>
