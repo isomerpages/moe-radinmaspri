@@ -5,26 +5,11 @@ description: ""
 third_nav_title: PE, CCA & Aesthetics
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/GB.jpg">
+<p><strong>P3 Modular CCAs</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqh-hQsPZBTgSN5NmzWPknE_nSLLk0AfG7T8DJ-VMa8asp2X4r-GUe2YJ46ITDcLL4TT4r2VQQ1Toz/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/football.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>In pursuit of a well-rounded education, our P3 students will have the
 opportunity to engage in Modular CCAs during Semester 1. The primary objectives
 of Modular CCAs are to broaden students' horizons through exposure to domains
@@ -37,25 +22,4 @@ students per group. Each group will participate in three consecutive sessions,
 rotating through the three Modular CCAs. This rotational approach ensures
 that all students have the chance to experience and explore various interests.
 All students will complete 9 sessions by the end of their Modular CCA experience.</p>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/infocomm.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/string.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
