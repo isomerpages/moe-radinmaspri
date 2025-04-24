@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PE, CCA & Aesthetics
 variant: tiptap
 ---
-<p><strong>Chinese String Ensemble &amp; Chinese Orchestra Photo Gallery</strong>
+<p><strong>Chinese String Ensemble Photo Gallery</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiXQkUoCBMCy5UEVGeCnag0jEJLjGOwCX_Dn3pmiA-LeS2TcmWU_pPzFtKIlS4b3uxCqfXgDTqL0uS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
