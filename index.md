@@ -37,5 +37,5 @@ sections:
         - title: Parents' Portal
           description: ""
           linktext: FIND OUT MORE
-          url: https://www.radinmaspri.moe.edu.sg/our-partners/parents-information-n-resources/monthly-notifications/
+          url: https://www.radinmaspri.moe.edu.sg/our-partners/parents-information-n-resources/slides-for-parents/
 ---

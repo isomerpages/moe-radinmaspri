@@ -3,31 +3,50 @@ title: Basketball
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/basketball/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
-variant: markdown
+variant: tiptap
 ---
+<h4></h4>
+<p><strong>Basketball Photo Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtOTK20tPwd8P9VTLhaTIYuUqlA3OxI-Z9uGQnkQ3Gz_SzCFpVrNt0vRWL-QfbGGUH7qkTHV8txP9E/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4><strong>Our CCA</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzQcCt4GHcEyXtf5keLaCILYgdUROFEnB3GR-qYmE4kG0D7DzT4akoGcxisQAmpzUPjk1BsWkozq--/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<p style="text-align: center;"><strong>Basketball Photo Gallery</strong></p>
-<p>Basketball is one of the Sports CCAs offered in Radin Mas Primary School. Through this fast-paced and competitive team sport, we hope to develop the character of our members and inculcate vital life lessons to them.</p>
-<p>During training sessions, our members learn both personal and team basketball skills. Team spirit amongst members is also developed to strengthen their physical and mental aspects of the game. Basketball is a team sport that allows players to learn life skills with a positive attitude; an important process that students have to learn as they are bound to face challenges in their lives.</p>
-<p>Through the training sessions and various competitions, we hope that our members will learn the meaning of the school motto "Work Hard and Play Hard" and realise that success can only be achieved through endurance, perseverance, hard work and discipline.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/bb4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/bb5.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/bb6.jpg"></td>
-</tr>
-</tbody>
-</table>
+<p>Basketball is one of the exciting Sports CCAs offered at Radin Mas Primary
+School. Through this fast-paced and competitive team sport, we aim to develop
+the character of our members while instilling vital life lessons that will
+benefit them beyond the court.</p>
+<p>In our training sessions, members focus on developing both personal and
+team basketball skills. The spirit of teamwork is encouraged, helping players
+strengthen their physical and mental aspects of the game. Basketball offers
+an opportunity for students to learn essential life skills with a positive
+attitude, preparing them for the challenges they will face in life.</p>
+<p>Through consistent training and participation in various competitions,
+we hope our members will embrace the meaning of the school motto, "Work
+Hard and Play Hard." They will learn that success comes only through endurance,
+perseverance, hard work, and discipline.</p>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
-<ul>
-	<li>Mr Lee Beng Sern</li>
-<li>Mr Liao Donglin</li>
-<li>Mdm Cindy Ong (Mrs Cindy Cheng)</li>
-<li>Mdm Suguna Mary</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Lee Beng Sern</p>
+</li>
+<li>
+<p>Mr Liao Donglin</p>
+</li>
+<li>
+<p>Mdm Cindy Ong (Mrs Cindy Cheng)</p>
+</li>
+<li>
+<p>Mdm Suguna Mary</p>
+</li>
+<li>
+<p>Mr Raphael Yeong</p>
+</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
-<ul>
-<li>Every Monday, 2.15 pm - 4.15pm</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Monday, 2.15 pm - 4.15pm</p>
+</li>
 </ul>
+<p></p>

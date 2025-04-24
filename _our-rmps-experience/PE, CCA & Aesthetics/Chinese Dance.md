@@ -3,39 +3,49 @@ title: Chinese Dance
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/chinese-dance/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
+variant: tiptap
 ---
+<p><strong>Chinese Dance Photo Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShVROTzQdCLpeWRfX0LIwIwA5D4--7y4g195Lw2HVFd662Fip5TcZP036DygYWtU5zfyFjsF7oLEqA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Our CCA</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtyHOmBGBxpNYDMITYiwI9FocXtnzPqzaxp_68h2FdWytf0co_qXOhRZsnesCarvlIfkg7ZmyTr8Wo/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<p style="text-align: center;"><strong>Chinese Dance Photo Gallery</strong></p>
-<p>Chinese Dance is one of the school’s Performing Arts CCAs and is a committed dance group with more than 30 members.</p>
-<p>Each year, we welcome a consistent intake of promising dancers, allowing for growth in strength and numbers. We aim to foster expertise and experience in Chinese Dance, as well as an appreciation for Chinese culture. We also want our girls to learn to appreciate Chinese Arts through a distinct blend of traditional and contemporary dance techniques.</p>
-<p>Every year, the dance group will perform for Chinese New Year Celebration and Mid-Autumn Festival Celebration. The dance group also participates in the SYF Arts Presentation for Dance. Our girls will continue to aim high and work hard to improve their abilities and performances.</p>
-<p><strong>CNY Celebration 2021</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<img src="/images/cd1.jpg">
-<p><strong>Chinese New Year Celebration (2018)</strong></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<img src="/images/cd2.jpg">
-<p><strong>Singapore Youth Festival (2018) Arts Presentation For Dance</strong></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<img src="/images/cd3.jpg">
-<p><strong>Singapore Youth Festival (2018) Arts Presentation For Dance</strong></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>At Radin Mas Primary School, Chinese Dance is more than just an art form—it
+is a celebration of culture, heritage, and self-expression. Our Chinese
+Dance programme offers students the opportunity to engage in an expressive
+form of art that combines grace, athleticism, and discipline. Through movement,
+storytelling, and music, students immerse themselves in the rich cultural
+heritage of Chinese dance, fostering a deeper appreciation for Chinese
+arts.</p>
+<p>Our goal is to cultivate expertise in Chinese Dance while nurturing a
+profound understanding of both traditional and contemporary dance techniques.
+By offering a well-rounded dance experience, we aim to help our students
+build confidence, teamwork, and resilience.</p>
+<p>Each year, we welcome a new group of promising dancers from the Primary
+3 cohort, fostering growth and strength within the team. The group regularly
+performs at school events such as the Chinese New Year Celebration, Mid-Autumn
+Festival Celebration, and Aesthetic Week, as well as community events like
+the Mid-Autumn Festival organized by the Resident Committee.</p>
+<p>Our dancers also participate in the Singapore Youth Festival (SYF) Arts
+Presentation for Dance. We are proud to have achieved the <strong>Certificate of Distinction</strong> in
+both the SYF 2022 and 2024 Arts Presentation for Dance.</p>
+<p>The RMPS Chinese Dance group will continue to set high goals and work
+diligently to enhance their skills, performances, and cultural understanding.
+Join us as we celebrate the beauty and tradition of Chinese dance!</p>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
-<ul>
-<li>Mdm Pang Mui Lee</li>
-<li>Mdm Sun Yan</li>
-<li>Mdm Reenu</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Pang Mui Lee</p>
+</li>
+<li>
+<p>Mdm Reenu</p>
+</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
-<ul>
-<li>Every Monday, 2.15 pm - 4.15pm</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Monday, 2.15 pm - 4.15pm</p>
+</li>
 </ul>
+<p></p>

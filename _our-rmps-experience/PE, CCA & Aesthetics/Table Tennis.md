@@ -3,39 +3,54 @@ title: Table Tennis
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/table-tennis/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
-variant: markdown
+variant: tiptap
 ---
+<p><strong>Table Tennis Photo Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRq5D82Ns9Rd3ZTcJ0AOF-fgsemfapHuvk_NLow_nFHYFMw2xu0ZIcHECi_E3-ZxcScs4jWLGM52Enw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Our CCA</strong></h4>
-<p>RMPS Table Tennis CCA hopes to cultivate a sense of appreciation and passion for table tennis in our students as well as develop their skills in the sport.</p>
-<p>Table Tennis is a sport that relies on quick reflexes, agility and strength. Our members are put through a training programme to help them develop these key areas and strengthen their techniques of the game. During CCA time, we also aim to build character rooted in sound moral values like sportsmanship, and instilling a sense of discipline and responsibility in our students.</p>
-<p>Every year, our members participate in the South Zone Inter Primary Schools Table Tennis Championships, National Individual Table Tennis Championships and Crocodile Challenge Cup organised by Singapore Table Tennis Association. Through these valuable experiences, our members will be able to gain a better understanding of the sport as well as develop their resilience and mental toughness as they face the challenges and pressure of these competitions.</p>
-<p>To prepare for the competitions, selected members will be invited to attend school-team training sessions, in addition to the usual CCA training sessions. Members who have shown outstanding skills and discipline consistently will also be nominated as CCA leaders.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p>South Zone Table Tennis Championships 2018 Senior Division Girls 3rd</p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p>South Zone Table Tennis Championships 2018 Senior Division Boys 4th</p>
-</td>
-<td style="width: 33.3333%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/tt1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/tt2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/tt3.jpg"></td>
-</tr>
-</tbody>
-</table>
+<p>RMPS Table Tennis CCA fosters an inclusive environment where students
+of all abilities can participate, develop their potential, and cultivate
+a passion for the sport. We aim to instill an appreciation for table tennis
+while helping students improve their reflexes, agility, strength, and techniques.</p>
+<p>Through our training program, students not only enhance their technical
+skills but also develop important values like teamwork, self-discipline,
+and determination.</p>
+<p>Those who demonstrate perseverance and commitment will be invited to represent
+the school in national competitions, gaining valuable experiences that
+build resilience and sportsmanship.</p>
+<p>Selected members will attend school team training sessions in addition
+to regular CCA sessions, offering further opportunities for growth. Members
+who show consistent dedication and skill may also be given leadership roles,
+such as mentoring or assisting with training, to further develop their
+personal growth.</p>
+<p>Participating in table tennis nurtures confidence, perseverance, and a
+growth mindset, encouraging students to embrace setbacks and continuously
+strive for improvement.</p>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
-<li>Mdm Lena Lee Lai Wan</li>
-<li>Ms Che Lei</li>
-<li>Mdm Hou Lin</li>
-<li>Mdm Mumtaz Bte Mohd Maideen</li>
+<li>
+<p>Mdm Lena Lee Lai Wan</p>
+</li>
+<li>
+<p>Ms Che Lei</p>
+</li>
+<li>
+<p>Mdm Hou Lin</p>
+</li>
+<li>
+<p>Mdm Leow Chay Huan</p>
+</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
-<ul>
-<li>Every Monday, 2.15 pm - 4.15pm</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Monday, 2.15 pm - 4.15pm</p>
+</li>
+<li>
+<p>Selected Wednesdays 2.00 pm - 4.00 pm for selected players</p>
+</li>
 </ul>
+<p></p>
