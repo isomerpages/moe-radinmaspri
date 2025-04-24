@@ -3,36 +3,77 @@ title: Floorball & Hockey
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/floorball-hockey/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
-variant: markdown
+variant: tiptap
 ---
+<p><strong>Hockey Photo Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRasowxR8p_vStNv_d8Jdns8OkQ5NhaIlct_nu6MJl537-tjZQ85TlR4PaXnOHSjvvWkuXqIxBzZ3YI/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+</div>
 <h4><strong>Our CCA</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRasowxR8p_vStNv_d8Jdns8OkQ5NhaIlct_nu6MJl537-tjZQ85TlR4PaXnOHSjvvWkuXqIxBzZ3YI/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<p style="text-align: center;"><strong>Hockey Photo Gallery</strong></p>
-<p>Radin  Mas Primary School has proudly offered Hockey as a CCA since 2006. Over the  years, our Hockey CCA has achieved recognition and remarkable success within  the primary school hockey community.</p>
-<p>In  Hockey, we have always placed a strong emphasis on developing not only our  students' skills in the sport but also their confidence and determination to  excel. We instill discipline both on and off the pitch, firmly believing that  the values our students learn on the pitch have a direct impact on their  academic pursuits.</p>
-<p>As we look forward to the future, we're excited to  announce a transition in our CCA offerings. Starting in 2024, we will introduce  Floorball for our P3, P4 and P5 students. This transition will mark an exciting  new chapter in our CCA journey.</p>
-<p>Floorball  is a fun, fast-paced and inclusive sport played indoors with floorball sticks  and a ball. The sport is easy to pick up with simple rules and promotes  teamwork, agility, and strategic thinking. It offers our students a chance to  engage in physical activity, develop their hand-eye coordination, and enhance  their cardiovascular fitness. Additionally, Floorball is accessible to students  of all skill levels, making it an inclusive sport that encourages participation  and fosters a sense of belonging within our school community. We believe that  the skills, camaraderie, and personal growth opportunities that Floorball  provides will be instrumental in shaping well-rounded individuals who are not  only successful in sports but also in their academic endeavours and beyond.</p>
-<img src="/images/floorball.jpg">
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/hock1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/hock2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/hock3.jpg"></td>
-</tr>
-</tbody>
-</table>
+<p>Radin Mas Primary School has proudly offered Floorball as a CCA since
+2024, switching from Hockey to Floorball. Over the years, our Hockey and
+Floorball CCA members have enjoyed recognition for their skills through
+DSA to secondary schools.</p>
+<p>In Floorball, we place a strong emphasis on developing not only our students'
+skills in the sport but also their confidence and determination to excel.
+We instill discipline both on and off the pitch, firmly believing that
+the values our students learn on the pitch have a direct impact on their
+academic pursuits.</p>
+<p>Floorball is a fun, fast-paced and inclusive sport played indoors with
+floorball sticks and a ball. The sport is easy to pick up with simple rules
+and promotes teamwork, agility, and strategic thinking. It offers our students
+a chance to engage in physical activity, develop their hand-eye coordination,
+and enhance their cardiovascular fitness.&nbsp;</p>
+<p>Additionally, Floorball is a sport that encourages teamwork and fosters
+a sense of belonging amongst members. We believe that the skills, camaraderie,
+and personal growth opportunities that Floorball provides will be instrumental
+in shaping well-rounded individuals who are not only successful in sports
+but also in their academic endeavours and beyond.</p>
+<p><strong>Floorball CCA – Fast, Fun, and Full of Team Spirit!</strong>
+</p>
+<p>Are you ready to run, dribble, and score? Join our <strong>Floorball CCA</strong> and
+experience the thrill of this <strong>fast-paced and exciting sport</strong>!</p>
+<p><strong>What is Floorball?<br></strong>Floorball is a dynamic indoor sport
+similar to hockey but played with a lightweight plastic stick and ball.
+It’s easy to pick up, super fun, and perfect for players of all skill levels!</p>
+<p><strong>Why Join Floorball?<br></strong>✔ <strong>Fast &amp; Exciting</strong> –
+Sprint, pass, and shoot your way to victory!
+<br>✔ <strong>Great for Teamwork</strong> – Work together, strategize, and build
+strong friendships.
+<br>✔ <strong>Improves Fitness &amp; Coordination</strong> – Develop agility,
+speed, and hand-eye coordination.
+<br>✔ <strong>Opportunities to Compete</strong> – Represent our school in friendly
+matches and competitions!</p>
+<p><strong>What to Expect?<br></strong>🏑 Learn essential floorball skills
+from our passionate coach
+<br>🏑 Fun drills, games, and friendly competitions
+<br>🏑 Training sessions filled with teamwork and sportsmanship</p>
+<p>Whether you’re a beginner or have played before, Floorball CCA is the
+perfect place to <strong>learn, grow, and have fun</strong>! Sign up today
+and be part of the action!</p>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
-<li>Mr Peter Low</li>
-<li>Mdm Nasheera</li>
-<li>Ms Tan Wei Peng Olivia</li>
-	<li>Mrs Joyce Won (Mdm Joyce Goh)</li>
-<li>Mdm Siti Nuriryani Waled</li>
-	<li>Miss Lau Jing Yi Angeline</li>
+<li>
+<p>Mrs Joyce Won (Mdm Joyce Goh)</p>
+</li>
+<li>
+<p>Miss Lau Jing Yi Angeline</p>
+</li>
+<li>
+<p>Mr Peter Low Han Yew</p>
+</li>
+<li>
+<p>Mdm Siti Nuriryani Waled</p>
+</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
-<ul>
-<li>Every Monday, 2.15 pm - 4.15pm&nbsp;</li>
-<li>Selected Wednesdays 2.00 pm - 4.00 pm for selected players</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Monday, 2.15 pm - 4.15pm&nbsp;</p>
+</li>
+<li>
+<p>Selected Wednesdays 2.00 pm - 4.00 pm for selected players</p>
+</li>
 </ul>
+<p></p>
