@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PE, CCA & Aesthetics
 variant: tiptap
 ---
-<p><strong>Hockey Photo Gallery</strong>
+<p><strong>Floorball Photo Gallery</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTMTboRyR77US-TctEjA6AFznoS7nRXTVYpnsdrjwzeFCDWvmSseDU-uZzqEujJtutQ8W6QtSpE4RWw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
