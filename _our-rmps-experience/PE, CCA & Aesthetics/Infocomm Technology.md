@@ -3,40 +3,67 @@ title: Infocomm Technology
 permalink: /our-rmps-experiences/pe-cca-n-aesthetics/infocomm-technology/
 description: ""
 third_nav_title: PE, CCA & Aesthetics
-variant: markdown
+variant: tiptap
 ---
+<p><strong>Infocomm Technology Photo Gallery</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlpaQC839IwQYqFggifTlpcwQYOMSLjUCZDATniUKaZPf9RCGQZYW38WR5pys70FmYc-cVTV0Hz3dj/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Our CCA</strong></h4>
-<p>The Infocomm Technology Club is a dynamic modular-based CCA which equips its members with skills in animation, AV media, game-making and cyber wellness modules in their 4-year CCA journey. Through engaging students in animation, AV media, cyber wellness and game-making, the club strives to train and develop students to be passionate and creative in their work, as well as equipping them with 21st century competencies and ICT skills.</p>
-<p>Game-making motivates students to learn the topic in depth and encourages self-directed learning in order to create the games for their academic subjects. Students learn how to use 3D design software to design prototypes applying design thinking processes.</p>
-<p>Student-initiated cyber wellness activities are designed and crafted by students themselves and are used for the school’s annual Cyber Wellness Day. Presenting to their peers and advocating cyber wellness values boost their self-esteem and hone their presentation skills.</p>
-<p>Animation empowers students with the necessary skills that are vital to producing animation clips that convey powerful messages. AV media equip students with necessary skills to handle AV systems and equipment during stage shows and events.</p>
-<p>The four modules value-add and train the Infocomm Technology Club members to be competent in 21st century ICT skills.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<img src="/images/it1.jpg">
-<p>Building mBot</p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<img style="width: 65%;" src="/images/it2.jpg">
-<p>Connecting sensors to robotic arm</p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<img src="/images/it3.jpg">
-<p>Cyberwellness recess activities</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>The Infocomm Technology Club is a dynamic modular-based CCA that equips
+members with valuable skills in Micro:bit coding, game-design, LEGO Education
+SPIKE Prime and New Media Program over their 4-year CCA journey. Through
+engaging and hands-on activities, the club aims to nurture students to
+be passionate, creative and proficient in ICT, while developing essential
+21st century competencies.</p>
+<p><strong>Micro:bit coding &amp; Game Design</strong>
+</p>
+<p>These modules reinforce key computational thinking concepts such as decomposition,
+abstraction, pattern recognition, and algorithm design. Through hands-on
+projects, students develop problem-solving skills by applying sequencing,
+selection, iteration, and logical reasoning. These activities also enhance
+students’ coding proficiency, logical thinking, and creativity in digital
+making—laying a strong foundation for more advanced programming in the
+future.</p>
+<p><strong>LEGO Education SPIKE Prime&nbsp;</strong>
+</p>
+<p>This module introduces students to the basics of coding and engineering
+through LEGO robotics. It serves as a foundation for participation in advanced
+competitions like the FIRST LEGO League (FLL). Students gain a solid understanding
+of the SPIKE Prime system, including its hardware and programming environment.
+The module also cultivates 21st-century competencies such as collaboration,
+self-management, social awareness, sportsmanship, and responsible decision-making.</p>
+<p><strong>New Media Program</strong>
+</p>
+<p>This module empowers students with digital content creation skills using
+iPads. Through photography, videography, augmented reality, digital drawing,
+artificial intelligence, and podcasting, students gain hands-on experience
+in various forms of new media. The program emphasizes responsible media
+production, digital literacy, and the creation of socially meaningful content,
+while fostering students’ creativity and communication skills.</p>
+<p>Together, these four modules provide a holistic and enriching experience
+that prepares Infocomm Technology Club members to thrive in the digital
+age and become confident users and creators of technology.</p>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
-<li>Mdm Cindy Tan</li>
-	<li>Mdm Thai Yu Shan</li>
-<li>Mdm Wu Chun</li>
-	<li>Mdm Zuraidah Binte Saidin</li>
+<li>
+<p>Mdm Wu Chun</p>
+</li>
+<li>
+<p>Mdm Thai Yu Shan</p>
+</li>
+<li>
+<p>Mdm Cindy Tan</p>
+</li>
+<li>
+<p>Mdm Zuraidah Binte Saidin</p>
+</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
-<ul>
-<li>Every Monday, 2.15 pm - 4.15pm</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Monday, 2.15 pm - 4.15pm</p>
+</li>
 </ul>
+<p></p>
