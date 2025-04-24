@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>Hockey Photo Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRasowxR8p_vStNv_d8Jdns8OkQ5NhaIlct_nu6MJl537-tjZQ85TlR4PaXnOHSjvvWkuXqIxBzZ3YI/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTMTboRyR77US-TctEjA6AFznoS7nRXTVYpnsdrjwzeFCDWvmSseDU-uZzqEujJtutQ8W6QtSpE4RWw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Our CCA</strong></h4>
 <p>Radin Mas Primary School has proudly offered Floorball as a CCA since
