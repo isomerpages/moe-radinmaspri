@@ -4,26 +4,71 @@ title: "Learning for Life Programme: Growth Mindset Resilience Independence
 permalink: /our-rmps-experiences/uniquely-radin-mas/learning-for-life-programme/
 description: ""
 third_nav_title: Uniquely Radin Mas
+variant: tiptap
 ---
-<p>As part of the RMPS experience, all Primary 1-6 students will participate in cohort camps specially designed for every level. Through participating in these camps, students will be able to develop ruggedness and resilience through outdoor experiences, forge camaraderie and instil values of teamwork and individual responsibility, and enhance their sense of adventure and curiosity with the outdoors. We hope that our students will adopt a positive attitude towards adventure and challenging activities and lead a healthy lifestyle for life.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p>A key component of the RMPS experience, Primary 1, 3, and 5 students will
+participate in level-specific camps designed to foster growth mindset,
+resilience, and essential life skills. Through immersive outdoor experiences,
+students will develop meaningful relationships, teamwork skills, individual
+responsibility, self-awareness, and a sense of adventure and appreciation
+for nature. These progressive camps will equip students with values and
+skills that benefit them throughout their educational journey.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;">
-<img src="/images/grit1.jpg">
-<p><strong>P1 &lsquo;Ready for School&rsquo; Camp</strong></p>
-<p>Our P1 students preparing their own healthy sandwich as part of learning healthy eating habits during the first week of school. The main intentions of the day camp are to orientate our new students to understand more about the school environment, get acquainted with the school values and foster positive relationships with their new classmates and teachers.</p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Camp.jpg">
+</div>
+<p><strong>P1 ‘Ready for School’ Camp</strong>
+</p>
+<p>The 'P1 Ready for School Camp' is designed to welcome and integrate our
+new Primary 1 students into the school community. Through a variety of
+activities, students will become familiar with the school environment and
+values, form positive relationships with classmates and teachers, and develop
+essential skills such as independence, physical and mental resilience,
+and positive social interactions, helping them to overcome initial nerves
+and settle confidently into school life.</p>
 </td>
-<td style="width: 33.3333%;">
-<img src="/images/grit2.jpg">
-<p><strong>P4 Outdoor Escapade Camp&nbsp;</strong></p>
-<p>A group of P4 students learning basic knots and lashings to build a catapult at the Singapore Zoological Gardens. This overnight camp aims to equip our students with the skills and know-how of surviving the outdoors and to also challenge their fears and reservations. Apart from learning basic knots and lashing, they get to apply other basic camping skills taught in P3 such as pitching a tent, packing and navigating their way around. There is also a greater emphasis on managing and taking care of themselves and their peers as well as working cooperatively together to solve problems.&nbsp;</p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Camp.jpg">
+</div>
+<p><strong>P3 Outdoor Escapade Camp&nbsp;</strong>
+</p>
+<p>The P3 Camp is a one-day outdoor adventure held at a nearby location,
+such as Telok Blangah Hill, Labrador Park, or Sentosa. The camp aims to
+cultivate a sense of place and community among students by exploring the
+local flora, fauna, and history. Additionally, the camp serves as a precursor
+to the P5 overnight camp, equipping students with essential outdoor skills
+such as packing, basic first aid, navigation and map-reading skills. Through
+interactive activities, students will develop self-reliance, learn to manage
+their needs, and provide basic care for others. The camp also fosters positive
+relationships among classmates and teachers, promoting teamwork, communication,
+and mutual support.</p>
 </td>
-<td style="width: 33.3333%;">
-<img src="/images/grit3.jpg">
-<p><strong>P6 Urban &amp; Cultural Camp</strong></p>
-<p>A group of P6 students happily engaged in a traditional kampong game at Kampung Parit Penghulu in Malacca. During this 3-day 2-night urban and cultural overseas camp organised after PSLE, our students get to put their cross-cultural thinking and understanding to the test as they immerse themselves in another culture and place. They get to reflect on how those experiences have coloured their perception of themselves, their families and also their country.</p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Camp.jpg">
+</div>
+<p><strong>P5 Outdoor Adventure Camp</strong>
+</p>
+<p>The P5 camp at MOE's Outdoor Adventure Learning Centre (OALC) features
+challenging obstacle courses that cater to students' physical and mental
+abilities. These obstacles help students overcome fears and experience
+success through completing challenges. Highlights include the high tower
+challenge circuit, rock wall climbing, abseiling, and a hike. Other activities,
+such as low elements, tent pitching, night walk, and campfire, promote
+effective communication, responsible decision-making, and teamwork. Through
+individual and collective decision-making, students are empowered to participate
+in activities and overcome obstacles, fostering self-confidence and resilience.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
