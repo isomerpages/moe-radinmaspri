@@ -20,7 +20,7 @@ while promoting class bonding through inter-class competitions. By participating
 students develop essential life skills, including communication, teamwork,
 and resilience, while embracing the importance of regular exercise and
 a healthy lifestyle.</p>
-<p><strong><u>Mini Olympics </u></strong>
+<p><strong><u>Mini Olympics</u></strong>
 </p>
 <p>As part of our Children's Day Celebrations, our Primary 1-2 students will
 participate in the annual Lower Primary Sports Day, featuring inter-class
