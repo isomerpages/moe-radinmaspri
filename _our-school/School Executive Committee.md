@@ -319,7 +319,7 @@ Miss Stella Zhang Wenxin</td>
       <td align="center"><strong>Administrative Manager<br>
       </strong>Mdm Gracia Tye</td>
       <td align="center"><strong>Administrative Manager<br>
-      </strong> Bernice Wong</td>
+      </strong> Mdm Bernice Wong</td>
       <td align="center"><strong>Operations Manager<br>
 				</strong>Mr Alan Chu</td>
     </tr>
