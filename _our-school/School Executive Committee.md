@@ -312,20 +312,21 @@ Miss Stella Zhang Wenxin</td>
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/GraciaTye.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/HoChoongOn.jpg"></td>
-      <td width="33.33%">&nbsp;</td>
+      <td width="33.33%"><img src="/images/EXCO/BerniceWong.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/AlanChu.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>Administrative Manager<br>
       </strong>Mdm Gracia Tye</td>
+      <td align="center"><strong>Administrative Manager<br>
+      </strong> Bernice Wong</td>
       <td align="center"><strong>Operations Manager<br>
-      </strong>Mr Ho Choong On</td>
-      <td align="center">&nbsp;</td>
+				</strong>Mr Alan Chu</td>
     </tr>
     <tr>
       <td><a href="mailto:Gracia_Tye@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:Ho_Choong_On@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td>&nbsp;</td>
+      <td><a href="mailto:wong_may_fong@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:chu_heng_keat@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
   </tbody>
 </table>
