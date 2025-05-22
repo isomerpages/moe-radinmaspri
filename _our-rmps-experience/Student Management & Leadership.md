@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <p>Our Department Photo</p>
-<img src="/images/2024/Dept/Student_Management___Leadership_24.jpg">
+<img src="/images/Dept%202025/sml_2025.jpg">
 <table>
 <tbody>
 <tr>
