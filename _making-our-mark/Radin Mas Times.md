@@ -4,10 +4,14 @@ permalink: /making-our-mark/radin-mas-times/
 description: ""
 variant: markdown
 ---
+<strong>2025 Edition</strong>
+
+<a target="_blank" href="/files/Radin%20Mas%20Times/2024/Radin_Mas_Times__Sem1__08_May24_web.pdf">Radin Mas Times 2025 Sem 1</a><br>
+
 <strong>2024 Edition</strong>
 
 <a target="_blank" href="/files/Radin%20Mas%20Times/2024/Radin_Mas_Times__Sem1__08_May24_web.pdf">Radin Mas Times 2024 Sem 1</a><br>
-<a target="_blank" href="/files/Radin%20Mas%20Times/2024/Radin_Mas_Times__Sem2__2024_web.pdf">Radin Mas Times 2024 Sem 2</a><br>[]()
+<a target="_blank" href="/files/Radin%20Mas%20Times/2024/Radin_Mas_Times__Sem2__2024_web.pdf">Radin Mas Times 2024 Sem 2</a><br>
 
 
 <h3>Archive</h3>
