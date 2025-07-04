@@ -60,7 +60,7 @@ variant: markdown
 			<td width="33.33%"></td>
     </tr>
     <tr>
-      <td align="center"><strong>LH Mathematics<br>
+      <td align="center"><strong>HOD Mathematics<br>
       </strong>Mdm See Rui Si</td>
       <td align="center"><strong>ST Mathematics<br>
       </strong>Mdm Leow Chay Huan</td>
@@ -200,9 +200,9 @@ variant: markdown
     <tr>
       <td align="center"><strong>HOD ICT<br>
       </strong>Mr Saravanan S/O Shanmugam</td>
-      <td align="center"><strong>Subject Head ICT</strong><br>
+      <td align="center"><strong>SH ICT</strong><br>
 Mdm Zuraidah Binte Saidin</td>
-      <td align="center"><strong>Subject Head Data Management</strong><br>
+      <td align="center"><strong>SH Data Management</strong><br>
 Miss Stella Zhang Wenxin</td>
     </tr>
     <tr>
