@@ -200,9 +200,9 @@ variant: markdown
     <tr>
       <td align="center"><strong>HOD ICT<br>
       </strong>Mr Saravanan S/O Shanmugam</td>
-      <td align="center"><strong>Subject Head ICT</strong><br>
+      <td align="center"><strong>SH ICT</strong><br>
 Mdm Zuraidah Binte Saidin</td>
-      <td align="center"><strong>Subject Head Data Management</strong><br>
+      <td align="center"><strong>SH Data Management</strong><br>
 Miss Stella Zhang Wenxin</td>
     </tr>
     <tr>
