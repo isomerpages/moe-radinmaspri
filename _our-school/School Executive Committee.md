@@ -60,7 +60,7 @@ variant: markdown
 			<td width="33.33%"></td>
     </tr>
     <tr>
-      <td align="center"><strong>LH Mathematics<br>
+      <td align="center"><strong>HOD Mathematics<br>
       </strong>Mdm See Rui Si</td>
       <td align="center"><strong>ST Mathematics<br>
       </strong>Mdm Leow Chay Huan</td>
