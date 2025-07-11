@@ -38,7 +38,7 @@ Required from Vendor)</p>
 <p>Contact No: 6273 3937</p>
 <p>Email: <a href="mailto:rmps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rmps@moe.edu.sg</a>
 </p>
-<p>Contact Person: Mdm Gracia Tye</p>
+<p>Contact Person: Ms Gracia Tye</p>
 </li>
 </ol>
 <p><strong><u>How to get there?</u></strong>
