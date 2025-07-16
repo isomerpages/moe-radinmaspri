@@ -5,7 +5,9 @@ description: ""
 variant: markdown
 ---
 <ol>
-	<li>Radin Mas Primary School is honoured to be invited to celebrate the opening preview with ArtScience Laboratory on 17 February 2025.
+	<li>RMPS students explored Singapore journalism through the years at Straits Times’ 180th anniversary&nbsp;exhibition on 15 July 2025.
+		<br><a target="_blank" href="https://www.straitstimes.com/singapore/tracing-headlines-through-time-pupils-explore-journalism-at-sts-180th-anniversary-exhibition">The Straits Times</a><br>
+	</li><li>Radin Mas Primary School is honoured to be invited to celebrate the opening preview with ArtScience Laboratory on 17 February 2025.
 		<br><a target="_blank" href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MTY3MDQ1MzE3MzMwODIz?story_media_id=3569963062948402137_3207079452&amp;igsh=MTk4cGY3ZjNwMzVmbQ==">ArtScience Museum Instagram</a><br>
 	 <a target="_blank" href="https://cnalifestyle.channelnewsasia.com/advertorial/uncover-thought-provoking-explorations-artscience-laboratory-462556?cid=adv_fb_paid_20250415&amp;fbclid=IwZXh0bgNhZW0BMABhZGlkAAAGGsxq4kYBHn_90PVJQ9-NA_aMzUqaf5LnGLWggmqXR-8MFeXMIPPimadJct36XoQgUgGw_aem_BuLCRC40UHxRbna_C28GUw&amp;utm_medium=paid&amp;utm_source=fb&amp;utm_id=6712161894158&amp;utm_content=6712161894958&amp;utm_term=6712161894558&amp;utm_campaign=6712161894158&amp;sfnsn=wa">Channel News Asia</a><br>
 		<a target="_blank" href="https://www.straitstimes.com/singapore/parenting-education/fun-with-kids-artscience-laboratorys-free-workshops-theatre-show-cartoon-for-pre-schoolers">The Straits Times</a><br>
