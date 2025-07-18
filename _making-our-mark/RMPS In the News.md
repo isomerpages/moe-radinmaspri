@@ -70,6 +70,5 @@ variant: markdown
 <img src="/images/news.png"></li>
 <li><strong><u><a href="https://www.schoolbag.sg/story/empathy-matters" target="">Empathy Matters,</a>&nbsp;</u>Published in Schoolbag on 23 January 2018</strong></li>
 <li><strong><a href="https://www.straitstimes.com/singapore/education/help-kids-ride-tech-waves-safely">Help kids ride tech waves safely</a></strong><strong><u>,</u></strong>&nbsp;<strong>Published in Straitstimes on 7 December 2015<br></strong></li>
-<li><strong><u><a href="https://www.straitstimes.com/singapore/schools-moving-into-high-tech-gear" target="">Schools moving into high-tech gear</a>,</u></strong>&nbsp;<strong>Published in Straitstimes on 5 August 2013<br></strong></li>
 <li><strong><u><a href="https://www.schoolbag.sg/story/pupils-read-it-right-at-reading-competition" target="">Pupil Read It Right at Reading Competition,</a></u></strong>&nbsp;<strong>Published in Schoolbag on 15 December 2009</strong></li>
 </ol>
