@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Radin Mas Family/Staff.md
       - Our Radin Mas Family/School Executive Committee.md
       - Our Radin Mas Family/.keep
       - School History.md
