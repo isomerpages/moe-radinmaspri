@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Radin Mas Family/.keep
       - School History.md
       - Vision, Mission, Values.md
       - School Crest.md
