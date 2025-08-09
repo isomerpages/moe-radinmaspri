@@ -2,9 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Our Radin Mas Family/Staff.md
-      - Our Radin Mas Family/School Executive Committee.md
-      - Our Radin Mas Family/.keep
       - School History.md
       - Vision, Mission, Values.md
       - School Crest.md
@@ -13,6 +10,9 @@ collections:
       - From the Principal's Desk.md
       - From the Vice–Principal's (EO) Desk.md
       - From the Vice–Principal's (A) Desk.md
+      - Our Radin Mas Family/.keep
+      - Our Radin Mas Family/Staff.md
+      - Our Radin Mas Family/School Executive Committee.md
       - Discipline Philosophy & School Rules.md
       - Use of Personal Data.md
       - Calendar.md
