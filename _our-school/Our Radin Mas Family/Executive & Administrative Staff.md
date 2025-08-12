@@ -58,8 +58,8 @@ third_nav_title: Our Radin Mas Family
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Angie Ng
-<br>Mr Ong Kian Huat
-<br>Mr Muhammad Aidil</p>
+<br>Mr Muhammad Aidil
+<br>Mr Ong Kian Huat</p>
 </td>
 </tr>
 <tr>
