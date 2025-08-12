@@ -1,8 +1,9 @@
 ---
-title: Staff
+title: Form Teachers
 permalink: /our-school/staff/our-2025-form-teachers-p1-to-p6/
 description: ""
 variant: markdown
+third_nav_title: Our Staff
 ---
 <h3><strong>Our 2025 Form Teachers (P1 to P6)</strong></h3>
 <img src="/images/Dept%202025/rmps_2025.jpg">

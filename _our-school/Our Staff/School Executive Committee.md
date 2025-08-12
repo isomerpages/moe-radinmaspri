@@ -3,6 +3,7 @@ title: School Executive Committee
 permalink: /our-school/school-executive-committee/
 description: ""
 variant: markdown
+third_nav_title: Our Staff
 ---
 <h4><strong>School Leaders</strong></h4>
 <hr>
