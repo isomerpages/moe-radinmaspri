@@ -38,7 +38,7 @@ third_nav_title: Our Radin Mas Family
 <td rowspan="1" colspan="1">
 <p>Ms Sonia Chia
 <br>Ms Tan Siow Yean
-<br>Miss Wan Siew Ling</p>
+<br>Ms Wan Siew Ling</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ third_nav_title: Our Radin Mas Family
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jashimah
+<p>Ms Jashimah
 <br>Mdm Wendy Gwee</p>
 </td>
 </tr>
