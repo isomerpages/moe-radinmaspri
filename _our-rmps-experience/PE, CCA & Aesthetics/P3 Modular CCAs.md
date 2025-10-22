@@ -18,8 +18,8 @@ uniformed groups. These sessions also serve as a platform for students
 to explore their interests and discover their talents before committing
 to a specific CCA for the remainder of their school journey.</p>
 <p>Our P3 students are organized into three groups, with approximately 70
-students per group. Each group will participate in three consecutive sessions,
+students per group. Each group will participate in two consecutive sessions,
 rotating through the three Modular CCAs. This rotational approach ensures
 that all students have the chance to experience and explore various interests.
-All students will complete 9 sessions by the end of their Modular CCA experience.</p>
+All students will complete 6 sessions by the end of their Modular CCA experience.</p>
 <p></p>
