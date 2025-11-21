@@ -8,12 +8,12 @@ variant: markdown
 <strong>2026</strong><br>
 <strong>Booklist for 2026 Cohort</strong>
 <ul>
-<li><a target="_blank" href="/files/Booklist/2025/2025_P1.pdf">P1 booklist.pdf</a></li>
-<li><a target="_blank" href="/files/Booklist/2025/2025_P2.pdf">P2 booklist.pdf</a></li>
-<li><a target="_blank" href="/files/Booklist/2025/2025_P3.pdf">P3 booklist.pdf</a></li>
-<li><a target="_blank" href="/files/Booklist/2025/2025_P4.pdf">P4 booklist.pdf</a></li>
-<li><a target="_blank" href="/files/Booklist/2025/2025_P5.pdf">P5 booklist.pdf</a></li>
-<li><a target="_blank" href="/files/Booklist/2025/2025_P6.pdf">P6 booklist.pdf</a></li>
+<li><a target="_blank" href="/files/Booklist/2026/2026_RMPS_P1.pdf">P1 booklist.pdf</a></li>
+<li><a target="_blank" href="/files/Booklist/2026/2026_RMPS_P2.pdf">P2 booklist.pdf</a></li>
+<li><a target="_blank" href="/files/Booklist/2026/2026_RMPS_P3.pdf">P3 booklist.pdf</a></li>
+<li><a target="_blank" href="/files/Booklist/2026/2026_RMPS_P4.pdf">P4 booklist.pdf</a></li>
+<li><a target="_blank" href="/files/Booklist/2026/2026_RMPS_P5.pdf">P5 booklist.pdf</a></li>
+<li><a target="_blank" href="/files/Booklist/2026/2026_RMPS_P6.pdf">P6 booklist.pdf</a></li>
 </ul>
 <br>
 
