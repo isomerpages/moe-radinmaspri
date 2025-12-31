@@ -40,9 +40,6 @@ Chinese music.</p>
 <li>
 <p>Mdm Chen Qi</p>
 </li>
-<li>
-<p>Mdm Chua Geok Pei</p>
-</li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul data-tight="true" class="tight">
