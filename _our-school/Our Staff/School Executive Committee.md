@@ -12,20 +12,38 @@ third_nav_title: Our Staff
     <tr>
       <td width="33.33%"><img src="/images/EXCO/MrsWang_1.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/MrsTan_NgLiYi_.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024_v2.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MsTan3.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>Principal<br>
       </strong>Mrs Wang-Tan Sun Sun</td>
       <td align="center"><strong>Vice Principal (Academic)<br>
       </strong>Mrs Tan Li Yi</td>
-      <td align="center"><strong>Vice Principal (Admin)<br>
-      </strong>Ms Mary Goh</td>
+      <td align="center"><strong>Vice Principal (Academic)<br>
+      </strong>Ms Geralin Tan</td>
     </tr>
     <tr>
       <td><a href="mailto:tan_sun_sun@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:NG_Li_Yi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:Geralin_Tan@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+    </tr>
+		<tr>
+      <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024_v2.jpg"></td>
+      <td width="33.33%"></td>
+      <td width="33.33%"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Vice Principal (Admin)<br>
+      </strong>Ms Mary Goh</td>
+      <td align="center"><strong><br>
+      </strong></td>
+      <td align="center"><strong><br>
+      </strong></td>
+    </tr>
+    <tr>
       <td><a href="mailto:mary_goh@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -35,18 +53,21 @@ third_nav_title: Our Staff
 <table width="100%" border="0">
   <tbody>
     <tr>
+      <td width="33.33%"><img src="/images/EXCO/Derek.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/LydiaWong.jpg"></td>
-      <td width="33.33%"></td>
 			<td width="33.33%"></td>
     </tr>
     <tr>
-      <td align="center"><strong>LH English Language<br>
+      <td align="center"><strong>HOD English Language<br>
+				</strong>Mr Tan Tsong Li Derek</td>
+			<td align="center"><strong>LH English Language<br>
 				</strong>Mdm Wong Si En Lydia</td>
+			<td align="center"></td>
 			<td align="center"></td>
     </tr>
     <tr>
+      <td><a href="mailto:tan_tsong_li_derek@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:wong_si_en_lydia@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td></td>
 			<td></td>
     </tr>
   </tbody>
@@ -126,19 +147,18 @@ third_nav_title: Our Staff
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/AnnieTang.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Ariyanti.jpg"></td>
+      <td width="33.33%"></td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
 			  <td align="center"><strong>ST Chinese Language<br>
               </strong>Mdm Annie Tang Li Meng</td>
-      <td align="center"><strong>ST Malay Language<br>
-      </strong>Mdm Ariyanti Sukaimi</td>
+      <td align="center"></td>
       <td align="center">&nbsp;</td>
     </tr>
     <tr>
       <td><a href="mailto:tang_li_meng_annie@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:ariyanti_sukaimi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td></td>
       <td>&nbsp;</td>
     </tr>
   </tbody>
@@ -218,22 +238,40 @@ Miss Stella Zhang Wenxin</td>
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%"><img src="/images/EXCO/Idham.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Ridzal.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/JunKiat.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/JoyceGoh.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Charis1.jpg"></td>
     </tr>
     <tr>
-      <td align="center"><strong>HOD PE, CCA &amp; Aesthetics<br>
-      </strong>Mr Idham Anis Ashiblie</td>
+      <td align="center"><strong>HOD PE &amp; CCA<br>
+      </strong>Mr Mohammed Ridzal B Mohammed Ali</td>
       <td align="center"><strong>SH PE &amp; CCA<br>
       </strong>Mr Ng Jun Kiat</td>
-      <td align="center"><strong>ST PE<br>
-      </strong>Mdm Joyce Goh (Mrs Won)</td>
+     <td align="center"><strong>SH Aesthetics<br>
+      </strong>Ms Ooi En Ping Charis</td>
     </tr>
     <tr>
-      <td><a href="mailto:idham_anis_ashiblie@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:Mohammed_Ridzal_Mohammed_Ali@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:ng_jun_kiat@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+     <td><a href="mailto:Ooi_En_Ping_Charis@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+    </tr>
+		<tr>
+			<td width="33.33%"><img src="/images/EXCO/JoyceGoh.jpg"></td>
+      <td width="33.33%"></td>
+      <td width="33.33%"></td>
+    </tr>
+    <tr>
+			<td align="center"><strong>ST PE<br>
+      </strong>Mdm Joyce Goh (Mrs Won)</td>
+      <td align="center"><strong><br>
+      </strong></td>
+      <td align="center"><strong><br>
+      </strong></td>
+    </tr>
+    <tr>
       <td><a href="mailto:goh_yan_ling_joyce@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -290,18 +328,18 @@ Miss Stella Zhang Wenxin</td>
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="33.33%"><img src="/images/EXCO/BingSum.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Mohan2.jpg"></td>
       <td width="33.33%">&nbsp;</td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
       <td align="center"><strong>SSD<br>
-      </strong>Mdm Wong Bing Sum</td>
+      </strong>Mr Mohan S/O Suppiah</td>
       <td align="center">&nbsp;</td>
       <td align="center">&nbsp;</td>
     </tr>
     <tr>
-      <td><a href="mailto:wong_bing_sum@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:mohan_suppiah@moe.edu.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>

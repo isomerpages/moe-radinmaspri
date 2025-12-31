@@ -47,8 +47,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jashimah
-<br>Mdm Wendy Gwee</p>
+<p>Ms Jashimah</p>
 </td>
 </tr>
 <tr>

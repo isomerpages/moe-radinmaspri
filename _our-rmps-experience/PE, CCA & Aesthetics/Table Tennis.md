@@ -38,9 +38,6 @@ strive for improvement.</p>
 <p>Ms Che Lei</p>
 </li>
 <li>
-<p>Mdm Hou Lin</p>
-</li>
-<li>
 <p>Mdm Leow Chay Huan</p>
 </li>
 </ul>

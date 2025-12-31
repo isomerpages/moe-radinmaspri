@@ -39,6 +39,9 @@ Join us as we celebrate the beauty and tradition of Chinese dance!</p>
 <p>Mdm Pang Mui Lee</p>
 </li>
 <li>
+<p>Mdm Sun Yan</p>
+</li>
+<li>
 <p>Mdm Reenu</p>
 </li>
 </ul>

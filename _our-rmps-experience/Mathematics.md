@@ -12,7 +12,7 @@ variant: markdown
 <th style="text-align: center;" colspan="2">Our&nbsp;Department</th>
 </tr>
 <tr>
-<td style="text-align: center;">Level Head</td>
+<td style="text-align: center;">Head of Department</td>
 <td style="text-align: center;">Mdm See Rui Si</td>
 </tr>
 <tr>
