@@ -1,5 +1,5 @@
 ---
-title: From the Vice–Principal's (Academic 1) Desk
+title: From the Vice–Principal's (Academic) Desk
 permalink: /our-school/from-the-vice-principals-eo-desk/
 description: ""
 variant: markdown

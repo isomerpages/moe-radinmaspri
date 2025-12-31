@@ -1,5 +1,5 @@
 ---
-title: From the Vice–Principal's (Academic 2) Desk
+title: From the Vice–Principal's (Academic ) Desk
 permalink: /from-ms-tan-the-vice-principal-s-eo-desk/
 variant: tiptap
 description: ""
