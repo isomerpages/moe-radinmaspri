@@ -58,9 +58,6 @@ and be part of the action!</p>
 <p>Mrs Joyce Won (Mdm Joyce Goh)</p>
 </li>
 <li>
-<p>Miss Lau Jing Yi Angeline</p>
-</li>
-<li>
 <p>Mr Peter Low Han Yew</p>
 </li>
 <li>
