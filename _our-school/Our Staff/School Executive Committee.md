@@ -147,19 +147,18 @@ third_nav_title: Our Staff
   <tbody>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/AnnieTang.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Ariyanti.jpg"></td>
+      <td width="33.33%"></td>
       <td width="33.33%">&nbsp;</td>
     </tr>
     <tr>
 			  <td align="center"><strong>ST Chinese Language<br>
               </strong>Mdm Annie Tang Li Meng</td>
-      <td align="center"><strong>ST Malay Language<br>
-      </strong>Mdm Ariyanti Sukaimi</td>
+      <td align="center"></td>
       <td align="center">&nbsp;</td>
     </tr>
     <tr>
       <td><a href="mailto:tang_li_meng_annie@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:ariyanti_sukaimi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td></td>
       <td>&nbsp;</td>
     </tr>
   </tbody>
