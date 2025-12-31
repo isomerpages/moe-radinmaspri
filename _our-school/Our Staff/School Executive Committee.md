@@ -243,7 +243,7 @@ Miss Stella Zhang Wenxin</td>
       <td width="33.33%"><img src="/images/EXCO/Charis1.jpg"></td>
     </tr>
     <tr>
-      <td align="center"><strong>HOD PE, CCA &amp; Aesthetics<br>
+      <td align="center"><strong>HOD PE &amp; CCA<br>
       </strong>Mr Mohammed Ridzal B Mohammed Ali</td>
       <td align="center"><strong>SH PE &amp; CCA<br>
       </strong>Mr Ng Jun Kiat</td>
