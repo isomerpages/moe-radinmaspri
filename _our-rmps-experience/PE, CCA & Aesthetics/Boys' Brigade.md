@@ -28,9 +28,6 @@ and character needed for the 21st Century.</p>
 <p>Miss Chan May Ling</p>
 </li>
 <li>
-<p>Mdm Lau Wai Ping</p>
-</li>
-<li>
 <p>Mr Ong Kai Sin</p>
 </li>
 </ul>
