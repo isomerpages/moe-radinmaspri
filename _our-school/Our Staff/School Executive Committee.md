@@ -12,20 +12,38 @@ third_nav_title: Our Staff
     <tr>
       <td width="33.33%"><img src="/images/EXCO/MrsWang_1.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/MrsTan_NgLiYi_.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024_v2.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/MsTan3.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>Principal<br>
       </strong>Mrs Wang-Tan Sun Sun</td>
       <td align="center"><strong>Vice Principal (Academic)<br>
       </strong>Mrs Tan Li Yi</td>
-      <td align="center"><strong>Vice Principal (Admin)<br>
-      </strong>Ms Mary Goh</td>
+      <td align="center"><strong>Vice Principal (Academic)<br>
+      </strong>Ms Geralin Tan</td>
     </tr>
     <tr>
       <td><a href="mailto:tan_sun_sun@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:NG_Li_Yi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:mary_goh@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+    </tr>
+		<tr>
+      <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024_v2.jpg"></td>
+      <td width="33.33%"></td>
+      <td width="33.33%"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Vice Principal (Admin)<br>
+      </strong>Ms Mary Goh</td>
+      <td align="center"><strong><br>
+      </strong></td>
+      <td align="center"><strong><br>
+      </strong></td>
+    </tr>
+    <tr>
+      <td><a href="mailto:mary_goh@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -35,18 +53,21 @@ third_nav_title: Our Staff
 <table width="100%" border="0">
   <tbody>
     <tr>
+      <td width="33.33%"><img src="/images/EXCO/Derek.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/LydiaWong.jpg"></td>
-      <td width="33.33%"></td>
 			<td width="33.33%"></td>
     </tr>
     <tr>
-      <td align="center"><strong>LH English Language<br>
+      <td align="center"><strong>HOD English Language<br>
+				</strong>Mr Tan Tsong Li Derek</td>
+			<td align="center"><strong>LH English Language<br>
 				</strong>Mdm Wong Si En Lydia</td>
+			<td align="center"></td>
 			<td align="center"></td>
     </tr>
     <tr>
+      <td><a href="mailto:"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:wong_si_en_lydia@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td></td>
 			<td></td>
     </tr>
   </tbody>
