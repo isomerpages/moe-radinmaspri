@@ -14,11 +14,15 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Head of Department</td>
-<td style="text-align: center;">Mr Idham Anis Ashiblie</td>
+<td style="text-align: center;">Mr Mohammed Ridzal B Mohammed Ali</td>
 </tr>
 <tr>
 <td style="text-align: center;">Subject Head PE &amp; CCA</td>
 <td style="text-align: center;">Mr Ng Jun Kiat</td>
+</tr>
+<tr>
+<td style="text-align: center;">Subject Head Aesthetics</td>
+<td style="text-align: center;">Ms Ooi En Ping Charis</td>
 </tr>
 <tr>
 <td style="text-align: center;">Senior Teacher PE</td>
@@ -47,10 +51,6 @@ variant: markdown
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mr Ong Kai Sin</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Ms Gioann Lim</td>
 </tr>
 	<tr>
 <td style="text-align: center;">&nbsp;</td>
