@@ -33,9 +33,6 @@ will make their mark, both on the field and in their personal growth</p>
 <h4><strong>Our Teacher(s) in charge:</strong></h4>
 <ul>
 <li>
-<p>Mr Chng Chin Chuang</p>
-</li>
-<li>
 <p>Mr Ang Ming Huat</p>
 </li>
 <li>
