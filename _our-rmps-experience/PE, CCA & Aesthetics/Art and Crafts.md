@@ -53,13 +53,10 @@ artwork.</p>
 <p>Mrs Jayakumar</p>
 </li>
 <li>
-<p>Mdm Ariyanti Sukaimi</p>
-</li>
-<li>
-<p>Ms Gioann Lim</p>
-</li>
-<li>
 <p>Mdm Faizah</p>
+</li>
+<li>
+<p>Ms Ooi En Ping Charis</p>
 </li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
