@@ -32,7 +32,7 @@ role in society.</p>
 <p>Mdm Tan Pei Shi Sandy</p>
 </li>
 <li>
-<p>Miss Sharon Tai</p>
+<p>Mdm Ivy Chan</p>
 </li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
