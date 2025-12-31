@@ -66,7 +66,7 @@ third_nav_title: Our Staff
 			<td align="center"></td>
     </tr>
     <tr>
-      <td><a href="mailto:"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:tan_tsong_li_derek@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:wong_si_en_lydia@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
 			<td></td>
     </tr>
@@ -251,9 +251,9 @@ Miss Stella Zhang Wenxin</td>
       </strong>Ms Ooi En Ping Charis</td>
     </tr>
     <tr>
-      <td><a href="mailto:"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:Mohammed_Ridzal_Mohammed_Ali@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:ng_jun_kiat@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-     <td><a href="mailto:"><img style="width: 40%;" src="/images/email.png"></a></td>
+     <td><a href="mailto:Ooi_En_Ping_Charis@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
 		<tr>
 			<td width="33.33%"><img src="/images/EXCO/JoyceGoh.jpg"></td>
@@ -339,7 +339,7 @@ Miss Stella Zhang Wenxin</td>
       <td align="center">&nbsp;</td>
     </tr>
     <tr>
-      <td><a href="mailto:"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:mohan_suppiah@moe.edu.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
