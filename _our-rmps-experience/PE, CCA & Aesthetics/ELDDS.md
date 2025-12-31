@@ -36,10 +36,10 @@ Debate Competition (Wits and Words).</p>
 <p>Ms Miranti Abdullah</p>
 </li>
 <li>
-<p>Mdm Joyce Lim May Ying</p>
+<p>Mdm Lau Wai Ping</p>
 </li>
 <li>
-<p>Mrs Anba</p>
+<p>Ms Gaytri</p>
 </li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
