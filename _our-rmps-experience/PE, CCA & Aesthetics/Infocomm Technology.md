@@ -51,10 +51,7 @@ age and become confident users and creators of technology.</p>
 <p>Mdm Wu Chun</p>
 </li>
 <li>
-<p>Mdm Thai Yu Shan</p>
-</li>
-<li>
-<p>Mdm Cindy Tan</p>
+<p>Mdm Chua Geok Pei</p>
 </li>
 <li>
 <p>Mdm Zuraidah Binte Saidin</p>
