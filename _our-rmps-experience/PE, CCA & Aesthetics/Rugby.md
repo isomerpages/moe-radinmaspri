@@ -41,7 +41,7 @@ Runner-up</p>
 <p>Mdm Rosmawati</p>
 </li>
 <li>
-<p>Mdm See Rui Si</p>
+<p>Mdm Thai Yushan</p>
 </li>
 </ul>
 <h4><strong>Our CCA schedule:</strong></h4>
