@@ -25,7 +25,7 @@ third_nav_title: Our Staff
     <tr>
       <td><a href="mailto:tan_sun_sun@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td><a href="mailto:NG_Li_Yi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:mary_goh@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:Geralin_Tan@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
     </tr>
 		<tr>
       <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024_v2.jpg"></td>
