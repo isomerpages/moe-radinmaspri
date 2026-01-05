@@ -39,10 +39,6 @@ variant: markdown
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Marini Bohari</td>
 </tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Sarah Bee Jakfar</td>
-</tr>
 	<tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Ms Nasheera Begum Bte Mohamad Shah</td>

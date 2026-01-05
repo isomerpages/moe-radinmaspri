@@ -28,20 +28,12 @@ variant: markdown
 <td style="text-align: center;">Mdm Annie Tang Li Meng</td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior Teacher (ML)</td>
-<td style="text-align: center;">Mdm Ariyanti Sukaimi</td>
-</tr>
-<tr>
 <td style="text-align: center;">Members</td>
 <td style="text-align: center;">Mr Liao Donglin</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Wu Chun</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mdm Hou Lin</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
