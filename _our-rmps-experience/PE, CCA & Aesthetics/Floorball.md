@@ -67,7 +67,7 @@ and be part of the action!</p>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Every Monday, 2.15 pm - 4.15pm&nbsp;</p>
+<p>Every Monday, 2pm - 4pm&nbsp;</p>
 </li>
 <li>
 <p>Selected Wednesdays 2.00 pm - 4.00 pm for selected players</p>
