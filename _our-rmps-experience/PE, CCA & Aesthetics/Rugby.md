@@ -47,10 +47,10 @@ Runner-up</p>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Every Monday, 2.15 pm - 4.15pm&nbsp;</p>
+<p>Every Monday, 2pm - 4pm&nbsp;</p>
 </li>
 <li>
-<p>Selected Wednesdays, 2pm - 4pm</p>
+<p>Selected Wednesdays, 2.15pm - 4.15pm</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
