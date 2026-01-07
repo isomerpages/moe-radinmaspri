@@ -45,7 +45,7 @@ Debate Competition (Wits and Words).</p>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Every Monday, 2.15 pm - 4.15pm</p>
+<p>Every Monday, 2pm - 4pm</p>
 </li>
 </ul>
 <p></p>
