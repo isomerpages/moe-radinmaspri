@@ -45,7 +45,7 @@ will make their mark, both on the field and in their personal growth</p>
 <h4><strong>Our CCA schedule:</strong></h4>
 <ul>
 <li>
-<p>Every Monday, 2.15 pm - 4.15pm</p>
+<p>Every Monday, 2pm - 4pm</p>
 </li>
 <li>
 <p>Selected Friday, 2.00pm to 4.00pm (school team only)</p>
