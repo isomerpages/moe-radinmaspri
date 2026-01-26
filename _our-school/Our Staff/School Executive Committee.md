@@ -339,7 +339,7 @@ Miss Stella Zhang Wenxin</td>
       <td align="center">&nbsp;</td>
     </tr>
     <tr>
-      <td><a href="mailto:mohan_suppiah@moe.edu.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
+      <td><a href="mailto:mohan_suppiah@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
