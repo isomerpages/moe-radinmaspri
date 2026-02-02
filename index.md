@@ -38,8 +38,4 @@ sections:
           description: ""
           linktext: FIND OUT MORE
           url: https://www.radinmaspri.moe.edu.sg/our-partners/parents-information-n-resources/slides-for-parents/
-        - title: Parent Volunteer 2026
-          description: ""
-          linktext: APPLICATION FORM
-          url: https://go.gov.sg/rmps-pv-form
 ---
