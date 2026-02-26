@@ -4,8 +4,6 @@ permalink: /our-rmps-experiences/english/
 description: ""
 variant: markdown
 ---
-<p>Our Department Photo</p>
-<img src="/images/Dept%202025/english_2025.jpg">
 <table>
 <tbody>
 <tr>
