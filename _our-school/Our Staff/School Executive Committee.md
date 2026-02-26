@@ -306,7 +306,7 @@ Miss Stella Zhang Wenxin</td>
     <tr>
       <td width="33.33%"><img src="/images/EXCO/Rosmawati.jpg"></td>
       <td width="33.33%"><img src="/images/EXCO/ElaineLim.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Roszanah.jpg"></td>
+      <td width="33.33%"><img src="/images/EXCO/Roszanah2.jpg"></td>
     </tr>
     <tr>
       <td align="center"><strong>ST Learners Profile (Educational Support)<br>
