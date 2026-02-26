@@ -4,8 +4,6 @@ permalink: /our-rmps-experiences/information-n-communication-technology/
 description: ""
 variant: markdown
 ---
-<p>Our Department Photo</p>
-<img src="/images/Dept%202025/ict_2025.jpg">
 <table>
 <tbody>
 <tr>
