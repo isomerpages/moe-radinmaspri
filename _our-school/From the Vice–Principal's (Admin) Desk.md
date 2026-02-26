@@ -4,8 +4,6 @@ permalink: /our-school/from-the-vice-principals-a-desk/
 description: ""
 variant: markdown
 ---
-![](/images/MsGoh_message_2024_v2.jpg)
-
 My entry into the world had shaped my values, which continued to guide me in my career and life journey. Every day I count my blessings having been born prematurely because of an accident.
 
 The various roadblocks during my life journey have developed resilience and courage in me as I marked the different milestones in my journey.

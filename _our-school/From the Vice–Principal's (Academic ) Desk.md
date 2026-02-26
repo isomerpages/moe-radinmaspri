@@ -4,10 +4,6 @@ permalink: /from-ms-tan-the-vice-principal-s-eo-desk/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MsTan_message.jpg">
-</div>
 <p>I am thrilled to join this vibrant school community and share the educational
 philosophy that will guide me in this journey. At the heart of my educational
 philosophy lies a fundamental belief: every individual, whether staff member

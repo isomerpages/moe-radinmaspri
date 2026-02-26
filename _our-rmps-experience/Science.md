@@ -4,8 +4,6 @@ permalink: /our-rmps-experiences/science/
 description: ""
 variant: markdown
 ---
-<p>Our Department Photo</p>
-<img src="/images/Dept%202025/sci_2025.jpg">
 <table>
 <tbody>
 <tr>

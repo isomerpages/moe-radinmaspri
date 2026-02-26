@@ -4,8 +4,6 @@ permalink: /our-school/from-the-principals-desk/
 description: ""
 variant: markdown
 ---
-![](/images/MrsWang_message_1.jpg)
-
 The rich heritage of Radin Mas Primary School forms the bedrock for quality holistic education.&nbsp;&nbsp;&nbsp; Since the humble beginnings of our school in 1926, we have evolved in keeping with times and raised generations of active and contributing citizens.
 
 Education is about nurturing the whole child to be the best person that he can be.&nbsp; To educate a person is to prepare him for life. &nbsp;Education Minister Chan Chun Sing emphasized that given the landscape in our world today, no amount of frontloading will ever be sufficient to prepare our people for life.&nbsp; Instead, the first 15 years must build the foundations upon which learning continues for the next 50 years of life.&nbsp; Our mission here at Radin Mas Primary School is to develop each child holistically and equip him with competencies for the future.&nbsp; The foundations we build enable every child to embrace life-long learning, ride the waves of changes in life confidently and bounce back with resilience in the face of challenges.&nbsp;

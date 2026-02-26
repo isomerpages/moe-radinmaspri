@@ -2,370 +2,412 @@
 title: School Executive Committee
 permalink: /our-school/school-executive-committee/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Our Staff
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <h4><strong>School Leaders</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/MrsWang_1.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MrsTan_NgLiYi_.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MsTan3.jpg"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Principal<br>
-      </strong>Mrs Wang-Tan Sun Sun</td>
-      <td align="center"><strong>Vice Principal (Academic)<br>
-      </strong>Mrs Tan Li Yi</td>
-      <td align="center"><strong>Vice Principal (Academic)<br>
-      </strong>Ms Geralin Tan</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:tan_sun_sun@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:NG_Li_Yi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:Geralin_Tan@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-		<tr>
-      <td width="33.33%"><img src="/images/EXCO/MsGoh_image_2024_v2.jpg"></td>
-      <td width="33.33%"></td>
-      <td width="33.33%"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Vice Principal (Admin)<br>
-      </strong>Ms Mary Goh</td>
-      <td align="center"><strong><br>
-      </strong></td>
-      <td align="center"><strong><br>
-      </strong></td>
-    </tr>
-    <tr>
-      <td><a href="mailto:mary_goh@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Wang-Tan Sun Sun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Principal</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Li Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal (Academic)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Geralin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal (Academic)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mary Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal (Admin)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>English Language</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/Derek.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/LydiaWong.jpg"></td>
-			<td width="33.33%"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>HOD English Language<br>
-				</strong>Mr Tan Tsong Li Derek</td>
-			<td align="center"><strong>LH English Language<br>
-				</strong>Mdm Wong Si En Lydia</td>
-			<td align="center"></td>
-			<td align="center"></td>
-    </tr>
-    <tr>
-      <td><a href="mailto:tan_tsong_li_derek@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:wong_si_en_lydia@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-			<td></td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Tsong Li Derek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HOD English Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Si En Lydia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LH English Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>Mathematics</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/RuiSi.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/LeowChayHuan.jpg"></td>
-			<td width="33.33%"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>HOD Mathematics<br>
-      </strong>Mdm See Rui Si</td>
-      <td align="center"><strong>ST Mathematics<br>
-      </strong>Mdm Leow Chay Huan</td>
-<td align="center"></td>
-    </tr>
-    <tr>
-      <td><a href="mailto:see_rui_si@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:leow_chay_huan@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
- <td></td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm See Rui Si</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Mathematics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Leow Chay Huan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST Mathematics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>Science</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/HeanMei.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/CindyHan.jpg"></td>
-			<td width="33.33%"><img src="/images/EXCO/ZulaihaShireen.jpg"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>HOD Science<br>
-				</strong>Mdm Chan Hean Mei</td>
-      <td align="center"><strong>LH Science<br>
-				</strong>Mdm Cindy Han Qiuyan</td>
-			<td align="center"><strong>ST Science<br>
-      </strong>Mdm Zulaiha Shireen Bte Mohamed Salleh</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:chan_hean_mei@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-			<td><a href="mailto:han_qiuyan_cindy@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-			<td><a href="mailto:zulaiha_shireen@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Hean Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Science</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cindy Han Qiuyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LH Science</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zulaiha Shireen Bte Mohamed Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST Science</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>Mother Tongue</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-	<td width="33.33%"><img src="/images/EXCO/WanHuaming.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/WaiPing.jpg"></td>
-			<td width="33.33%"><img src="/images/EXCO/AnthonyYew.jpg"></td>
-    </tr>
-    <tr>
-		<td align="center"><strong>HOD Mother Tongue<br>
-      </strong>Mr Wan Huaming</td>
-      <td align="center"><strong>LH Chinese Language<br>
-      </strong>Mdm Lau Wai Ping</td>
-			 <td align="center"><strong>LT Chinese Language<br>
-      </strong>Mr Yew Chee Ching Anthony</td>
-    </tr>
-    <tr>
-			 <td><a href="mailto:wan_huaming@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:lau_wai_ping@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:yew_chee_ching_anthony@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-  </tbody>
-</table>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/AnnieTang.jpg"></td>
-      <td width="33.33%"></td>
-      <td width="33.33%">&nbsp;</td>
-    </tr>
-    <tr>
-			  <td align="center"><strong>ST Chinese Language<br>
-              </strong>Mdm Annie Tang Li Meng</td>
-      <td align="center"></td>
-      <td align="center">&nbsp;</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:tang_li_meng_annie@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td></td>
-      <td>&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wan Huaming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Mother Tongue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Wai Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LH Chinese Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yew Chee Ching Anthony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LT Chinese Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Annie Tang Li Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST Chinese Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>Character and Citizenship Education</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/Marianna.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Olivia.jpg"></td>
-      <td width="33.33%">&nbsp;</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>HOD Character and Citizenship Education<br>
-      </strong>Mdm Marianna Bt Mohamad Hanafi</td>
-      <td align="center"><strong>SH Character and Citizenship Education<br>
-      </strong>Ms Olivia Tan</td>
-      <td align="center">&nbsp;</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:marianna_bt_mohamad_hanafi@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:olivia_tan@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td>&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Marianna Bt Mohamad Hanafi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Character and Citizenship Education</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Olivia Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH Character and Citizenship Education</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>Student Management and Leadership</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/WeeNam.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/DonnChan.jpg"></td>
-      <td width="33.33%">&nbsp;</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>HOD Student Management and Leadership<br>
-      </strong>Mr Chua Wee Nam</td>
-      <td align="center"><strong>SH Student Management and Leadership<br>
-      </strong>Mr Chan Jianhua</td>
-      <td align="center">&nbsp;</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:chua_wee_nam@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:chan_jianhua@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td>&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Wee Nam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Student Management and Leadership</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Jianhua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH Student Management and Leadership</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>Information and Communication Technology</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/Saravanan.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Zuraidah.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Stella.jpg"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>HOD ICT<br>
-      </strong>Mr Saravanan S/O Shanmugam</td>
-      <td align="center"><strong>SH ICT</strong><br>
-Mdm Zuraidah Binte Saidin</td>
-      <td align="center"><strong>SH Data Management</strong><br>
-Miss Stella Zhang Wenxin</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:saravanan_shanmugam@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:zuraidah_saidin@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:stella_zhang_wenxin@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Saravanan S/O Shanmugam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HOD ICT</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zuraidah Binte Saidin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH ICT</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Stella Zhang Wenxin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH Data Management</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>PE, CCA &amp; Aesthetics</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/Ridzal.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/JunKiat.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Charis1.jpg"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>HOD PE &amp; CCA<br>
-      </strong>Mr Mohammed Ridzal B Mohammed Ali</td>
-      <td align="center"><strong>SH PE &amp; CCA<br>
-      </strong>Mr Ng Jun Kiat</td>
-     <td align="center"><strong>SH Aesthetics<br>
-      </strong>Ms Ooi En Ping Charis</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:Mohammed_Ridzal_Mohammed_Ali@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:ng_jun_kiat@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-     <td><a href="mailto:Ooi_En_Ping_Charis@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-		<tr>
-			<td width="33.33%"><img src="/images/EXCO/JoyceGoh.jpg"></td>
-      <td width="33.33%"></td>
-      <td width="33.33%"></td>
-    </tr>
-    <tr>
-			<td align="center"><strong>ST PE<br>
-      </strong>Mdm Joyce Goh (Mrs Won)</td>
-      <td align="center"><strong><br>
-      </strong></td>
-      <td align="center"><strong><br>
-      </strong></td>
-    </tr>
-    <tr>
-      <td><a href="mailto:goh_yan_ling_joyce@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Ridzal B Mohammed Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HOD PE &amp; CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Jun Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH PE &amp; CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ooi En Ping Charis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH Aesthetics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Joyce Goh (Mrs Won)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST PE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>Year Heads</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/DoreenChng.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/PaulineWong.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/MalarVizhi.jpg"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Year Head LP<br>
-      </strong>Mdm Chng Yen Peng Doreen</td>
-      <td align="center"><strong>Year Head MP<br>
-      </strong>Mdm Wong Pauline</td>
-      <td align="center"><strong>Year Head UP<br>
-      </strong>Mdm Malar Vizhi Govindan</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:chng_yen_peng_doreen@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:pauline_wong@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:malar_vizhi_govindan@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chng Yen Peng Doreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head LP</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Pauline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head MP</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Malar Vizhi Govindan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head UP</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>Learners Profile</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/Rosmawati.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/ElaineLim.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/Roszanah2.jpg"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>ST Learners Profile (Educational Support)<br>
-      </strong>Mdm Rosmawati Ali</td>
-      <td align="center"><strong>ST Learners Profile (High Ability Learners)<br>
-      </strong>Mrs Elizabeth Elaine Lim Lixian</td>
-      <td align="center"><strong>ST Learners Profile (Special Educational Needs)<br>
-      </strong>Mdm Roszanah Kamarudin</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:rosmawati_ali@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:lim_lixian_elaine@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:roszanah_kamarudin@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosmawati Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST Learners Profile (Educational Support)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Elizabeth Elaine Lim Lixian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST Learners Profile (High Ability Learners)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Roszanah Kamarudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST Learners Profile (Special Educational Needs)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>School Staff Developer</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/Mohan2.jpg"></td>
-      <td width="33.33%">&nbsp;</td>
-      <td width="33.33%">&nbsp;</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>SSD<br>
-      </strong>Mr Mohan S/O Suppiah</td>
-      <td align="center">&nbsp;</td>
-      <td align="center">&nbsp;</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:mohan_suppiah@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohan S/O Suppiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SSD</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>School Admin Team</strong></h4>
-<hr>
-<table width="100%" border="0">
-  <tbody>
-    <tr>
-      <td width="33.33%"><img src="/images/EXCO/GraciaTye.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/BerniceWong.jpg"></td>
-      <td width="33.33%"><img src="/images/EXCO/AlanChu.jpg"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Administrative Manager<br>
-      </strong>Mdm Gracia Tye</td>
-      <td align="center"><strong>Administrative Manager<br>
-      </strong> Mdm Bernice Wong</td>
-      <td align="center"><strong>Operations Manager<br>
-				</strong>Mr Alan Chu</td>
-    </tr>
-    <tr>
-      <td><a href="mailto:Gracia_Tye@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:wong_may_fong@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-      <td><a href="mailto:chu_heng_keat@schools.gov.sg"><img style="width: 40%;" src="/images/email.png"></a></td>
-    </tr>
-  </tbody>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Gracia Tye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Manager</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Bernice Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Manager</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alan Chu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>

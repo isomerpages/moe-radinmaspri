@@ -4,8 +4,6 @@ permalink: /our-rmps-experiences/from-the-students-desk/
 description: ""
 variant: markdown
 ---
-![](/images/kaiherng_message.jpg)
-
 Dear Radin Mas family,
 
 Throughout this entire year, I had encountered many different challenges and obstacles. Nevertheless, every cloud has a silver lining, and I achieved many successes, too.
