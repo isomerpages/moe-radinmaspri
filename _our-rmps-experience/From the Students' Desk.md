@@ -4,18 +4,18 @@ permalink: /our-rmps-experiences/from-the-students-desk/
 description: ""
 variant: markdown
 ---
-Dear Radin Mas family,
+Dear Radin Mas Family,
 
-Throughout this entire year, I had encountered many different challenges and obstacles. Nevertheless, every cloud has a silver lining, and I achieved many successes, too.
+As the Head Prefect serving Radin Mas Primary School in 2025-2026, I have had the privilege of learning valuable lessons that extend beyond academics. As a student leader, I represented the student body and worked closely with the school administration to create a positive and inclusive school environment. When I first took on this position, it was, and remains, my belief that leadership is about serving others and making a positive impact. As Head Prefect, I strove to be approachable, fair, and transparent in my decision-making, and to represent the student body in a fair and honest manner.
 
-When I first started my prefect journey in Primary 3, there were a lot of people telling me about their problems and asking for advice. This led me to believe that I had to learn everything just to be prepared for any questions posed to me. However, as I grew older and started looking at the bigger picture, I realised that even a prefect cannot be perfect and there would always be something new to learn every day.
+One key takeaway during my tenure is the importance of staying calm under pressure. Whether it is managing lastminute event prep, resolving conflicts, or handling unexpected situations, keeping myself calm has helped me make better decisions and lead my team more effectively.
 
-Throughout my primary school journey, I have always been eager to participate in different types of extra-curriculum activities that my parents and teachers sign me up for. In school, I participated in different E2Ks – the hands-on projects imparted skills and knowledge that students in secondary school learn. After school, I also attended coding lessons and badminton lessons. Each class taught me new skills. All these activities have not only equipped me with a versatile skillset, they have also deepened my Desire for Learning – spurring me to seek out new experiences, skills and information that improve my abilities and enjoyment.
+I've also learned to prioritize the needs of others. As a leader, it's easy to get caught up in responsibilities, but putting students, teachers, and peers first has taught me empathy, teamwork, and the value of serving others. It was my vision to foster a school culture that is supportive, empathetic, and empowering. I believe that every student should feel valued, heard, and encouraged to reach their full potential. As Head Prefect, it has not always easy, but it has been incredibly rewarding to see how small acts of kindness and support can make a big difference in our school community.
 
-As a student leader, I believe that serving my school is extremely important. As a leader, fellow students will look to you, and you will be their role model. Student leaders are not only supposed to be a good leader, but to also be a servant leader. Being a leader means that you understand priorities, listen, and put others before self. For example, during the high elements section in P5 camp, one of my friends was nervous about falling but I encouraged him that he would be fine, and we both made it across the obstacle course.
+These experiences have shaped me into a more patient, understanding, and resilient leader. I am grateful for the opportunities I have had and look forward to applying these lessons in future endeavours.
 
-Looking ahead to 2024, I hope that the Covid-19 pandemic will end once and for all so that everyone in school will have a much better time. For some of us, we may feel nervous, happy or stressed about next year but all I want to say is just enjoy yourself and make some new friends!
+I am grateful for the opportunities that Radin Mas Primary School has given me.
 
-I want to thank my parents and all my teachers, schoolmates and friends for guiding me along in this wonderful journey as without them I would not be where I am at today. Let us all Work Hard, Play Hard and Make a Mark!
+Thank you for your support.
 
-**Tan Kai Herng, RMPS Head Prefect (2023/2024)**
+**Ryner Chow, Head Prefect (2025-2026)**
