@@ -2,163 +2,297 @@
 title: Discipline Philosophy & School Rules
 permalink: /our-school/discipline-philosophy-n-school-rules/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4><strong>Discipline Philosophy</strong></h4></label>
-<div>
-<p>Radin Mas Primary School believes in the importance of inculcating strong values and a sense of personal responsibility. The school is committed to guiding all our students through a journey of self-discipline, graciousness, and kindness to imbue a culture of respect for self, peers, and all school staff.&nbsp; These values and dispositions serve as the school’s pillars as we Work Hard, Play Hard and Make A Mark.</p>
+<h2><strong>Discipline Philosophy</strong></h2>
+<p>Radin Mas Primary School believes in the importance of inculcating strong
+values and a sense of personal responsibility. The school is committed
+to guiding all our students through a journey of self-discipline, graciousness,
+and kindness to imbue a culture of respect for self, peers, and all school
+staff.&nbsp; These values and dispositions serve as the school’s pillars
+as we Work Hard, Play Hard and Make A Mark.</p>
+<h3><strong>Our School Rules</strong></h3>
+<p>As a student of Radin Mas Primary School, I pledge to always do the right
+thing, at the right time, and uphold the school rules. I pledge to be a
+good ambassador of the school.
+<br>
+</p>
+<h3><strong>Our School Expectations</strong></h3>
+<p>I WILL BE RESPECTFUL AND GRACIOUS.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>I will be neatly and properly attired for school.&nbsp;</p>
+</li>
+<li>
+<p>I will be punctual.&nbsp;</p>
+</li>
+<li>
+<p>I will behave in an orderly manner at all times.</p>
+</li>
+<li>
+<p>I will be responsible for my own decisions and actions.&nbsp;</p>
+</li>
+<li>
+<p>I will treat others with respect.</p>
+</li>
+</ul>
+<p>I WILL TAKE CARE OF SCHOOL PROPERTY.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>I will handle school property with care.</p>
+</li>
+<li>
+<p>I will keep the school building and its environment clean.&nbsp;</p>
+</li>
+</ul>
+<h3><strong>DRESS CODE FOR STUDENTS</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must be neat and properly attired in their school uniform at
+all times.</p>
+</li>
+<li>
+<p>Students must wear white shoes and plain white socks or the Radin Mas
+Primary School white socks. The length of the socks shall cover the ankles.</p>
+</li>
+<li>
+<p>Students are allowed to be in their PE attire only on days when they have
+PE/CCA/PAL lessons.</p>
+</li>
+<li>
+<p>Placement of school crest and nametag on the school uniform and PE T-shirt
+are as follows:
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2"><h4><strong>Our School Rules</strong></h4></label>
-<div>
-<p>As a student of Radin Mas Primary School, I pledge to always do the right thing, at the right time, and uphold the school rules. I pledge to be a good ambassador of the school.<br><br><strong>Our School Expectations</strong>&nbsp;<br>I WILL BE RESPECTFUL AND GRACIOUS.</p>
-<ul>
-<li>I will be neatly and properly attired for school.&nbsp;</li>
-<li>I will be punctual.&nbsp;</li>
-<li>I will behave in an orderly manner at all times.</li>
-<li>I will be responsible for my own decisions and actions.&nbsp;</li>
-<li>I will treat others with respect.</li>
 </ul>
-<p>&nbsp;I WILL TAKE CARE OF SCHOOL PROPERTY.</p>
-<ul>
-<li>I will handle school property with care.</li>
-<li>I will keep the school building and its environment clean.&nbsp;</li>
-</ul>
-<p><strong>DRESS CODE FOR STUDENTS</strong></p>
-<ul>
-<li>Students must be neat and properly attired in their school uniform at all times.</li>
-<li>Students must wear white shoes and plain white socks or the Radin Mas Primary School white socks. The length of the socks shall cover the ankles.</li>
-<li>Students are allowed to be in their PE attire only on days when they have PE/CCA/PAL lessons.</li>
-<li>Placement of school crest and nametag on the school uniform and PE T-shirt are as follows:<br>![](/images/Picture1.jpg)</li>
-</ul>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="text-align: center;">Students are to wear the prescribed school uniform and modifications to the uniform are not allowed.</th>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>For Girls:
-<ul>
-<li>Hair accessories must be either black or dark blue.</li>
-<li>Hair that reaches the uniform’s collar must be tied up neatly.</li>
-<li>Only identical stud earrings are allowed.</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>For Boys
-<ul>
-<li>Hair must be kept short and neat at the back and sides.</li>
-</ul>
-</li>
-</ul>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Students must be neat in appearance, clean-shaven and no facial hair is allowed.</th>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>For the safety of the students, no jewellery of any sort is allowed.
-<ul>
-<li>This includes bracelets, necklaces, rings and other form of jewellery as well as fanciful and expensive watches.&nbsp;</li>
-</ul>
-</li>
-</ul>
-<p><strong>Use of Smart Devices<br></strong>Students are discouraged from bringing smart devices such as mobile phones to school, except for Bring Your Own Device lessons.</p>
-<ul>
-<li>Students are to be responsible for their smart devices. The school will not be held responsible for any damaged or missing devices.</li>
-<li>Students are to keep their devices turned off during curriculum hours, unless specific instruction is given by teachers.</li>
-<li>Students are only allowed to use their devices to make personal phone calls&nbsp;<strong><u>after school</u>,&nbsp;</strong>and<strong> only at the canteen or the foyer.</strong></li>
-<li>At any other times, students must seek permission from their teachers to use their devices.</li>
-</ul>
-<table>
-<tbody>
-<tr>
-<th>
-<p>Students who do not abide by the expectations above will be served a cautionary warning. Repeat offenders will have their devices confiscated and the devices will only be returned to the parent or guardian.&nbsp;<br>The school may confiscate a student's mobile device in the line of investigation. The device will be held securely by the HOD or SH Student Management, or appointed key personnel.<br>In the instance where criminal laws may have been breached, the device may be turned over to the relevant authorities for investigation.</p>
+<th rowspan="1" colspan="1">
+<blockquote>
+<h4>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed.</h4>
+</blockquote>
 </th>
 </tr>
 </tbody>
 </table>
-<p><strong>Attendance and Punctuality<br></strong>Attendance in school is compulsory. Absence from school must be covered by a medical certificate or a letter from parent/guardian that should be submitted to the form teacher within three working days.</p>
-<p>Students who do not submit their medical certificate or letter from their parent/guardian will be considered as being “absent from school without valid reason”.</p>
-<p>Students are expected to attend all lessons, CCA training, school events and functions as required. They should report punctually for all activities and lessons. They should not be absent without a valid reason.</p>
-<p>Students are expected to assemble by 7.40 am every day for flag-raising. The school will contact parents of latecomers to seek their support to ensure that their child reports to school punctually.</p>
-<p>Parents may also be required to meet the school staff to discuss their child’s late-coming issue if the tardiness persists and work with the school on ways to help their child come to school on time. Parents/guardians will be asked to meet the form teacher, level discipline teacher, level coordinators, HOD Discipline or School Leaders depending on the severity of the situation.</p>
-<p><strong>Disciplinary Action Against Inappropriate Behaviour<br></strong>The school provides opportunities to reward students for appropriate behaviour and for improvement in academic and non-academic work. The use of rewards in school is based on the principle of positive reinforcement; behaviour that is rewarded is strengthened and is therefore likely repeated. However, the school does not condone acts of misdeeds committed by students. The school will mete out consequences accordingly.</p>
-<table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fingernails must be kept short and clean with no nail varnishes.</p>
+</li>
+<li>
+<p>Jewellery, ornaments or accessories, including fanciful watches, are not
+allowed.</p>
+</li>
+<li>
+<p>For Girls:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hair must be kept neat.&nbsp; Forehead must not be covered by long fringe.&nbsp;Hair
+that reaches the uniform’s collar must be tied up.&nbsp; &nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Hair accessories must be either black or dark blue.</p>
+</li>
+<li>
+<p>Hair is of natural colour.&nbsp;Dyed/coloured/highlighted hair is not
+allowed.</p>
+</li>
+<li>
+<p>Only one pair of identical stud earrings is allowed.</p>
+</li>
+</ul>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>For Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hair must be kept short and neat.</p>
+</li>
+</ul>
+</li>
+</ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="text-align: center;">All students are not allowed to have in their possession any weapon. They are not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</th>
+<td rowspan="1" colspan="1">
+<blockquote>
+<p><strong>Students must be neat in appearance, clean-shaven and no facial hair is allowed.</strong>
+</p>
+</blockquote>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Forehead must not be covered by long fringe.&nbsp; Hair is sloped and
+does not touch the collar at the back.&nbsp; Hair must not cover ears at
+the side.&nbsp;</p>
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3"><h4><strong>Desired Behaviour of Radin Mas Students</strong></h4></label>
-<div>
-<p><strong>Desired Behaviour in the Classroom</strong><br>Students are to:</p>
-<ul>
-<li>stand and greet the Principal, Vice Principals, teachers or guests of the school, upon their arrival to, and exit from the classrooms.&nbsp;</li>
-<li>use good manners, be gracious and respectful towards their peers and teachers.&nbsp;</li>
-<li>bring with them all books, stationery and other learning materials required for lessons. Students should refrain from bringing out items in class that may be a distraction to learning.</li>
-<li>be attentive and participative during lessons.&nbsp;</li>
-<li>remain in class unless given permission by teacher to leave the classroom.</li>
-<li>be on time for all lessons.&nbsp;</li>
-<li>submit work on the date it is due. Exceptions are made only in extraordinary situations and with the approval of the teacher.&nbsp;</li>
-<li>remain seated in class and be engaged in their own work during change of lessons. Students should not loiter outside the classroom.&nbsp;</li>
-<li>keep the classroom clean and tidy at all times.&nbsp;</li>
-</ul>
-<p><strong>Desired Behaviour along the Corridors and Staircases<br></strong>Students are to:</p>
-<ul>
-<li>greet all staff and guests of school.&nbsp;</li>
-<li>assemble in twos before the teacher leads the class from place to place.&nbsp;</li>
-<li>keep to the left while walking along the corridors/staircases.&nbsp;</li>
-<li>be considerate and walk quietly and orderly from place to place.&nbsp;</li>
-<li>use designated routes to avoid congestion and enable the diffusion of the level of noise during movement.</li>
-</ul>
-<p><strong>Desired Behaviour in the Hall / Assembly Grounds<br></strong>Students are to:</p>
-<ul>
-<li>assemble punctually at the Parade Square for Flag Raising at 7.40 am every day.</li>
-<li>treat the National Anthem, Pledge and School Song with due respect by standing at attention throughout the ceremony.</li>
-</ul>
-<table>
-<tbody>
-<tr>
-<th>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.</th>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>take with them a book whenever they are in the hall/assembly ground so that they may be purposefully occupied while they wait for the programme to commence.</li>
-<li>keep the school compound clean of litter after use.</li>
-<li>practice good theatrical code of behaviour and remain attentive throughout the programme in the hall or assembly ground.</li>
-<li>be considerate, and not eat or drink.</li>
-</ul>
-<p><strong>Desired Behaviour in the Canteen<br></strong>Students are to:&nbsp;</p>
-<ul>
-<li>queue up for food. Vendors are advised not to sell items to students who are not in the line.&nbsp;</li>
-<li>be gracious and respectful towards the canteen vendors and school attendants.&nbsp;</li>
-<li>be considerate and keep the canteen clean by returning their utensils after use and to clear their table of litter.&nbsp;</li>
-<li>walk in a sensible way in the canteen; running or pushing may cause accidents.&nbsp;</li>
-<li>leave the canteen on the first bell after recess to be in the hall.&nbsp;</li>
-<li>consume all food and drinks only in the canteen.&nbsp;</li>
-<li>proceed immediately to the hall at the first bell that marks the end of recess.</li>
-</ul>
-<p><strong>Desired Behaviour outside School<br></strong>Students are to:&nbsp;</p>
-<ul>
-<li>wear their uniform with pride and be attired according to the specification by the school.&nbsp;</li>
-<li>be gracious and respectful to members of the public.&nbsp;</li>
-<li>be considerate and polite towards other commuters on public transport.&nbsp;</li>
-<li>be responsible and keep the area used clean and clear of litter.&nbsp;</li>
-<li>be orderly when on board public transport.&nbsp;</li>
-<li>go straight home after school and not loiter in groups.</li>
-</ul>
-</div>
+<li>
+<p>Fanciful hairstyles, such as dyed/coloured/highlighted hair, or the undercut,
+in which hair near the top of the head is longer while the back and/or
+sides are buzzed very short and spiky, are not allowed. Students are not
+permitted to perm their hair.</p>
 </li>
 </ul>
+<h3><strong>Use of Mobile Phones and Smart Devices</strong></h3>
+<p>To ensure a conducive learning environment for all, students are discouraged
+from bringing mobile phones and/or unauthorised electronic devices, including
+smart watches to school.&nbsp; However, should your child need to bring
+any of these items, he/she would be bound by the following rules:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mobile phones or the electronic device must be switched off during lessons,
+recess and/or other school activities.</p>
+</li>
+<li>
+<p>Use of mobile phones to make calls to parents or caregivers is only allowed
+at the canteen or the school foyer after curriculum hours and must be switched
+off after use.&nbsp; Use of other electronic devices is strictly prohibited
+in school.</p>
+</li>
+<li>
+<p>Use of mobile phones is restricted to only voice calls and messaging.&nbsp;
+Capturing of sounds, photographs or videos is not allowed. Students are
+not to upload videos/photographs of themselves, or friends donned in school
+attire on any online platform.</p>
+</li>
+<li>
+<p>Inappropriate use of social media and chatgroups may be considered an
+offence.</p>
+</li>
+<li>
+<p>Mobile phones and electronic devices, which are brought to school, are
+the sole responsibilities of the owners. The school bears no responsibility
+for any loss and investigation may not be conducted.&nbsp;</p>
+</li>
+</ul>
+<p>For urgent matters, parents can contact their children by calling the
+school’s General Office.&nbsp;</p>
+<p>&nbsp;Students who do not abide by the expectations above may be subjected
+to the following consequences:</p>
+<p>Device may be confiscated.&nbsp; Parents will be notified to personally
+collect the item from teachers after an appropriate time interval which
+will be determined by the school.&nbsp;</p>
+<p>The item may be subjected to investigations by school staff for offences
+including inappropriate use of social media and chat groups.&nbsp; In the
+instance where criminal laws may have been breached, the device may be
+turned over to the relevant authorities for investigation.</p>
+<p>Students who have their mobile phones or unauthorised electronic devices
+in their possession during examinations and tests will be considered as
+having the intention to cheat.&nbsp; This will be regarded as a serious
+offence.&nbsp;</p>
+<p>Subsequent requests to bring a mobile phone may not be considered for
+students who did not comply with the rules.</p>
+<h3><strong>Attendance and Punctuality</strong></h3>
+<p>Attendance in school is compulsory. Students are expected to assemble
+by 7.30 am every day for flag-raising at respective venues. &nbsp;Arriving
+at the venue after 7.40 am will be considered late.</p>
+<blockquote>
+<p>Students who are Singapore citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist placed
+over the heart.</p>
+</blockquote>
+<p>Students are expected to attend all lessons, CCA training, school events
+and functions as required. They should report punctually for all activities
+and lessons.</p>
+<p>Absence from school must be covered with a valid reason.&nbsp; The Medical
+Certificate, MC must be issued by a certified medical practitioner who
+is registered with the Singapore Medical Council.&nbsp; If a MC has been
+submitted but student has not fully recovered from his/her illness, the
+school will allow parents to furnish the reasons for sick leave to be extended
+by another day or two, up to a maximum of three times per semester.&nbsp;</p>
+<p>The MC or reasons from parent/guardian must be submitted within three
+working days.&nbsp; Otherwise the absence will be considered as absence
+without valid reasons.&nbsp;</p>
+<p>Reasons for absence which are not valid include visiting relatives or
+taking family holidays overseas during school days.&nbsp;&nbsp;</p>
+<p>Students who are absent without valid reasons or are repeatedly late may
+receive an adverse conduct grade at the end of the semester. Reasons for
+absence which are not valid include visiting relatives or taking family
+holidays overseas during school days.</p>
+<h3><strong>Disciplinary Action Against Inappropriate Behaviour</strong></h3>
+<p>The school is like a second home.&nbsp; It is a safe space for all to
+learn and grow.&nbsp; Students who have made mistakes and/or not lived
+the school values well will have consequences meted out for learning.&nbsp;</p>
+<h3><strong>OFFENCES</strong></h3>
+<p>At Radin Mas Primary School, all students and staff treat each other with
+respect and graciousness. The school takes a firm stance against all forms
+of hurtful behaviours.&nbsp; In general, an offence may be deemed to be
+committed when school expectations, rules or values are not upheld.&nbsp;
+This section details some examples of offences and the possible consequences
+which will be meted out to the student concerned.&nbsp;</p>
+<p>Offences include, but are not limited to persistent punctuality or attendance
+issues, improper attire and grooming, littering, not doing or handing in
+assignments, bringing inappropriate items to school, misuse or unauthorised
+use of mobile and other electronic devices, inappropriate or under-age
+use of social media or online misconduct and skipping school activities.</p>
+<p>An offence may be considered serious when a student:</p>
+<p>a)&nbsp;causes<strong> serious harm and/or disruption to self</strong>,
+whether physical, psychological or social<sup>1</sup>; and/or</p>
+<p>b) causes <strong>serious harm and/or disruption to others</strong>, whether
+physical, psychological or social<sup>2</sup>;&nbsp;and/or</p>
+<p>c)&nbsp;causes <strong>serious damage to property or resources</strong><sup>3</sup>;
+and/or</p>
+<p>d)&nbsp;shows<strong> defiance against authorities</strong><sup>4</sup>.</p>
+<p><em><u>Examples of serious offences:</u></em>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><em>Use, possession or purchase of prohibited tobacco or related products and vapes, substance abuse, vaping, pornography, leaving school without permission, truancy, cheating/attempting to cheat in tests/exams including forgery of signatures.</em>
+</p>
+</li>
+<li>
+<p><em>Use of vulgar language or gestures, insensitive acts or remarks, assault, bullying, fighting, gangsterism, sexual misconduct, disruptive behaviour, assisting or attempting to assist others to cheat in tests/exams.</em>
+</p>
+</li>
+<li>
+<p><em>Arson, cybersecurity violations, trespassing, vandalism, theft, shoplifting, scams and frauds, gambling.</em>
+</p>
+</li>
+<li>
+<p><em>Open defiance to school staff, actions or behaviour that are disrespectful to national symbols.</em>
+</p>
+</li>
+</ol>
+<blockquote>
+<p>All students are not allowed to have in their possession any weapon. They
+are not allowed to bring any weapon-like item which can be used or intended
+to be used to cause harm to others.&nbsp;</p>
+</blockquote>
+<p>For serious offence which also&nbsp;involves a breach of the law (e.g.,
+Substance Abuse, Vaping,&nbsp;Theft, Possession of Weapons, Scams and Frauds),&nbsp;it
+will be reportable to the relevant law enforcement agencies, as per prevailing
+law.&nbsp; There may be school-based consequences, in addition to the consequences
+meted out by the authorities.<strong>&nbsp;</strong>
+</p>
+<h3><strong>CONSEQUENCES</strong></h3>
+<p>These serve to correct and teach. Students must be guided to understand
+their behaviour and impact on others, perform acts of restitution where
+needed, and restore relationships affected by their actions. The school
+will mete out consequences it deems appropriate and befitting the severity
+of the offence.</p>
+<p>Range of consequences include but are not limited to the following.&nbsp;
+These are not presented in any particular order:</p>
+<p>Verbal warning; formal warning letter; corrective work; reflection essays;
+pledge of good behaviour; research and presentation to classmates/schoolmates
+on harms caused; ineligibility for awards, leadership appointments, overseas
+trips, school team representation; suspension of privileges including time-out
+from class, CCA, school activities and/or recess play; detention and/or
+suspension of one or more school days; caning; conduct grade adjustments;
+private or public apology.</p>
+<p></p>
