@@ -2,7 +2,7 @@
 layout: homepage
 title: Radin Mas Primary School
 description: Brief site description here
-image: /images/logo.jpg
+image: /images/RMPS_School_Crest.jpg
 permalink: /
 notification: ""
 sections:
