@@ -1,6 +1,6 @@
 title: Radin Mas Primary School
 url: https://www.radinmaspri.moe.edu.sg
-favicon: /images/logo.jpg
+favicon: /images/RMPS_School_Crest.jpg
 colors:
   primary-color: "#f42640"
   secondary-color: "#f42640"
@@ -51,9 +51,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1jzutb5t80wmo.amplifyapp.com
 prod: https://master.d1jzutb5t80wmo.amplifyapp.com
-shareicon: /images/logo.jpg
+shareicon: /images/RMPS_School_Crest.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: announcements
+google_analytics_ga4: ""
