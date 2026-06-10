@@ -45,8 +45,8 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p>Ms Sonia Chia
 <br>Ms Tan Siow Yean
-<br>Ms Wan Siew Ling</p>
-<p>Ms Suzanne Gay</p>
+<br>Ms Wan Siew Ling
+<br>Ms Suzanne Gay</p>
 </td>
 </tr>
 <tr>
