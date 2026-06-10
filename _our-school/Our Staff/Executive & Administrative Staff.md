@@ -21,12 +21,11 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Managers</strong>
+<p><strong>Administration Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Bernice Wong
-<br>Mdm Gracia Tye</p>
+<p>Mdm Bernice Wong</p>
 </td>
 </tr>
 <tr>
@@ -47,6 +46,7 @@ third_nav_title: Our Staff
 <p>Ms Sonia Chia
 <br>Ms Tan Siow Yean
 <br>Ms Wan Siew Ling</p>
+<p>Ms Suzanne Gay</p>
 </td>
 </tr>
 <tr>
@@ -67,15 +67,6 @@ third_nav_title: Our Staff
 <p>Ms Angie Ng
 <br>Mr Muhammad Aidil
 <br>Mr Ong Kian Huat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Receptionist</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Elizabeth Aw</p>
 </td>
 </tr>
 <tr>
