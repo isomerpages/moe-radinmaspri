@@ -74,4 +74,5 @@ and our Radin Mas Community are all on board!&nbsp; Watch this space!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://www.radinmaspri.moe.edu.sg/announcements/rmps-100th-anniversary/" rel="noopener nofollow" target="_blank">Find out more about the year-long Radin Mas Primary School 100th Anniversary Celebrations here!</a>
+</p>
