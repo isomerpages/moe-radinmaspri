@@ -10,12 +10,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/659802564_1248905770701973_3957381463985614003_n.jpg">
 </div>
-<p>Math-a-thon 100 is ON… and it’s buzzin'</p>
-<p>In celebration of RMPS 100th Anniversary, Math-a-thon 100 is currently
-in full swing! Students dive into fun, brain-twisting puzzles and proudly
-show off their problem-solving skills.</p>
-<p>Math-a-thon 100 isn’t just a competition — it’s a celebration of curiosity,
-confidence, and creative thinking.</p>
+<p>In celebration of RMPS 100th Anniversary, our students dive into 100 fun,
+brain-twisting puzzles over 10 weeks in Math-a-Thon 100!&nbsp; Math-a-Thon
+100 is not just a competition, it is a celebration of curiosity, confidence
+and creative thinking!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -58,4 +56,5 @@ confidence, and creative thinking.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://www.radinmaspri.moe.edu.sg/announcements/rmps-100th-anniversary/" rel="noopener nofollow" target="_blank">Find out more about the year-long Radin Mas Primary School 100th Anniversary Celebrations here!</a>
+</p>
