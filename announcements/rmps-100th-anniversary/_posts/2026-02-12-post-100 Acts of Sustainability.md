@@ -58,6 +58,21 @@ for our green spaces, we hope to nurture lifelong eco-habits and grow eco-stewar
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_06_11_at_10_32_49.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://www.radinmaspri.moe.edu.sg/announcements/rmps-100th-anniversary/" rel="noopener nofollow" target="_blank">Find out more about the year-long Radin Mas Primary School 100th Anniversary Celebrations here!</a>
+</p>
