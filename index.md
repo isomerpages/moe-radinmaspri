@@ -23,6 +23,13 @@ sections:
           url: /our-school/calendar/
       title: Radin Mas Primary School
       subtitle: A school where all work hard, play hard and make a mark
+  - infopic:
+      title: Radin Mas Primary School 100th Anniversary Celebrations
+      id: infopic
+      button: Find Out more
+      url: https://www.radinmaspri.moe.edu.sg/rmps-100th-anniversary-celebrations/
+      image: /images/100_Anni_4_final__White_Background__website.jpg
+      alt: 100th AV logo
   - resources:
       title: Announcements
       button: More announcements
