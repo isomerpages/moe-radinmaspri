@@ -21,3 +21,5 @@ Honour for this special occasion.</p>
 <p>Time: 7.00pm – 9.30pm</p>
 <p>Ticket Price: $25 per ticket</p>
 <p>More details on ticket sales will be shared nearer the date.</p>
+<p><a href="https://www.radinmaspri.moe.edu.sg/announcements/rmps-100th-anniversary/" rel="noopener nofollow" target="_blank">Find out more about the year-long Radin Mas Primary School 100th Anniversary Celebrations here!</a>
+</p>
