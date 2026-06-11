@@ -28,14 +28,6 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Members</td>
-<td style="text-align: center;">Mr Yeong Cheng Yue</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Mr Jonathan Chng</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Mdm Lee Lai Wan Lena</td>
 </tr>
 <tr>
