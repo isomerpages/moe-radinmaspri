@@ -6,7 +6,6 @@ third_nav_title: Parents Information & Resource
 variant: markdown
 ---
 <p>Dear RMPS family,</p>
-<p>The coronavirus pandemic has undoubtedly impacted us. We have had to make adjustments to our daily lives in order to adapt to the current situation. It is without a doubt that the adjustments have not been easy, but let's also appreciate the opportunities the situation has afforded us i.e. to grow as an individual, to bond with our family and to appreciate the things we have that we may have taken for granted in the past.</p>
 <p>Although the learning curve is steep, RMPS teachers have risen to the occasion, giving their utmost best to ensure continuous learning takes place with FHBL. In appreciation of RMPS teachers' dedication in grooming our students, RMPS Aesthetics Committee together with our students, are proud to dedicate the following presentation to all of you.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FmE6QPHKvkk" title="RMPS FHBL 2020   A Thankful Heart (Full Res)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
