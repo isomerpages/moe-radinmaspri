@@ -63,4 +63,6 @@ of this incredible journey.
 </tr>
 </tbody>
 </table>
+<p><a href="https://www.radinmaspri.moe.edu.sg/announcements/rmps-100th-anniversary/" rel="noopener nofollow" target="_blank">Find out more about the year-long Radin Mas Primary School 100th Anniversary Celebrations here! </a>
+</p>
 <p></p>
