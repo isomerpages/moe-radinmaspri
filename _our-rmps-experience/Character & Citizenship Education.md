@@ -46,15 +46,15 @@ variant: markdown
 <td style="text-align: center;">Mdm Eleanor Neo Ee Shiang</td>
 </tr>
 <tr>
-<td style="text-align: center;">Senior Special Education Needs Officer</td>
+<td style="text-align: center;">Lead Special Education Needs Officer</td>
 <td style="text-align: center;">Mdm Noorizan Ibrahim&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;">Special Education Needs Officers</td>
+<td style="text-align: center;">Senior Special Education Needs Officer</td>
 <td style="text-align: center;">Mdm Ng Miu Leng</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Special Education Needs Officers</td>
 <td style="text-align: center;">Mdm Choong Wai Leng</td>
 </tr>
 <tr>
