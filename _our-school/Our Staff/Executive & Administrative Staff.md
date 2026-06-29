@@ -34,7 +34,8 @@ third_nav_title: Our Staff
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Alan Chu</p>
+<p>Mr Alan Chu
+<br>Mr Ravin</p>
 </td>
 </tr>
 <tr>

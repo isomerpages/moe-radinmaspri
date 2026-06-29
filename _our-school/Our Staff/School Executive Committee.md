@@ -560,13 +560,15 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ravin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Operations Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Ravin_Ratnam_Chelleppa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ravin_Ratnam_Chelleppa@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
