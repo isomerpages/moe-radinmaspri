@@ -567,7 +567,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ravin_Ratnam_Chelleppa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ravin_Ratnam_Chelleppa@schools.gov.sg</a>
+<p><a href="mailto:ravin_ratnam_chelleppa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ravin_ratnam_chelleppa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
