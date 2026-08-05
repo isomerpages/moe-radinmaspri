@@ -74,5 +74,80 @@ for our green spaces, we hope to nurture lifelong eco-habits and grow eco-stewar
 </tr>
 </tbody>
 </table>
+<p><u>🌱</u><strong><u> Bringing Generations Together Through Creativity and Sustainability</u></strong><u> 🌱</u>
+<br>Senior residents from Bukit Purmei Zone A RN joined Environmental Club
+students from Radin Mas Primary School for a meaningful upcycling workshop
+conducted by social enterprise Semula.</p>
+<p>Working side by side, they transformed old banners into tissue pouches
+while sharing creativity, laughter, and forging intergenerational bonding.
+Each senior also received a pouch featuring a special centenary tag, creating
+a keepsake that celebrates both the school’s hundred- year heritage and
+its commitment to a more sustainable future.</p>
+<p>A heartwarming celebration of sustainability, community spirit, and the
+lasting connections that unite generations! This truly reflects the essence
+of “Our Heritage, Our Future”in honouring the past by bringing generations
+together, while inspiring young and old to care for the environment and
+build a greener tomorrow!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_08_05_at_15_02_44.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_08_05_at_15_02_44__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_08_05_at_15_02_44__2_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_08_05_at_15_02_44__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_08_05_at_15_05_12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_08_05_at_15_06_53.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_08_05_at_15_06_54.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_08_05_at_15_06_54__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/100th AV/WhatsApp_Image_2026_08_05_at_15_06_55.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><a href="https://www.radinmaspri.moe.edu.sg/announcements/rmps-100th-anniversary/" rel="noopener nofollow" target="_blank">Find out more about the year-long Radin Mas Primary School 100th Anniversary Celebrations here!</a>
 </p>
